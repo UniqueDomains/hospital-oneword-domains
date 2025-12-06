@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .HOSPITAL one-word domains still available to buy.
 
-This dataset contains 4,849 .HOSPITAL one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,845 .HOSPITAL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.HOSPITAL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hospital-oneword-domains&utm_content=description.top) (4,849) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.HOSPITAL one word dom
 | abatic.hospital     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.hospital    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.hospital   | available | 50       | 1%     | 8      |           |         |         |
-| abc.hospital        | available | 102      | 41%    | 3      |           |         |         |
+| abc.hospital        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.hospital  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.hospital  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.hospital | available | 56       | 1%     | 10     |           |         |         |
