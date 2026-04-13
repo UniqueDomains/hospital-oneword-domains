@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| free.hospital    | available | $71.98    | —             | 88             | 59     | 4      | namecheap                  |
+| free.hospital    | available | $71.98    | —             | 88             | 57     | 4      | namecheap                  |
 | cloud.hospital   | resell    | —         | —             | 70             | 58     | 5      | Porkbun LLC                |
 | travel.hospital  | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                  |
 | live.hospital    | available | $71.98    | —             | 108            | 56     | 4      | namecheap                  |
@@ -76,13 +76,13 @@ print(df.head())
 | zero.hospital    | available | $71.98    | —             | 112            | 53     | 4      | namecheap                  |
 | life.hospital    | resell    | —         | —             | 84             | 50     | 4      | Porkbun LLC                |
 | blue.hospital    | premium   | —         | —             | 92             | 99     | 4      | —                          |
-| fast.hospital    | available | $71.98    | —             | 82             | 53     | 4      | namecheap                  |
+| true.hospital    | available | $71.98    | —             | 86             | 52     | 4      | namecheap                  |
 | bio.hospital     | resell    | —         | —             | 78             | 47     | 3      | Porkbun LLC                |
 | boss.hospital    | premium   | —         | —             | 76             | 99     | 4      | —                          |
-| true.hospital    | available | $71.98    | —             | 86             | 52     | 4      | namecheap                  |
+| fast.hospital    | available | $71.98    | —             | 82             | 52     | 4      | namecheap                  |
 | help.hospital    | resell    | —         | —             | 68             | 46     | 4      | Porkbun LLC                |
 | audible.hospital | premium   | —         | —             | 112            | 98     | 7      | —                          |
-| clear.hospital   | available | $71.98    | —             | 90             | 49     | 5      | namecheap                  |
+| simple.hospital  | available | $71.98    | —             | 128            | 49     | 6      | namecheap                  |
 | this.hospital    | resell    | —         | —             | 110            | 43     | 4      | Automattic Inc.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
