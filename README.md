@@ -1,10 +1,10 @@
-# Available .HOSPITAL One-Word Domains (12,735)
+# Available .HOSPITAL One-Word Domains (12,736)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C735%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C736%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hospital one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,735 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,736 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,735 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,736 domains · **Median ask:** $69.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/hospital`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| robots.hospital      | available | $57.99    | $57.99        | 62             | 47     | 6      | namesilo  |
-| SanDiego.hospital    | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo  |
-| skills.hospital      | available | $71.98    | —             | 58             | 47     | 6      | namecheap |
-| veterans.hospital    | premium   | $500      | —             | 56             | 23     | 8      | name.com  |
-| Tools.hospital       | available | $71.98    | —             | 56             | 40     | 5      | namecheap |
-| prompts.hospital     | available | $57.99    | $57.99        | 54             | 39     | 7      | namesilo  |
-| teams.hospital       | available | $71.98    | —             | 62             | 32     | 5      | namecheap |
-| trends.hospital      | available | $71.98    | —             | 60             | 32     | 6      | namecheap |
-| William.hospital     | available | $71.98    | —             | 74             | 31     | 7      | namecheap |
-| solutions.hospital   | available | $71.98    | —             | 56             | 31     | 9      | namecheap |
-| heroes.hospital      | available | $71.98    | —             | 68             | 29     | 6      | namecheap |
-| quotes.hospital      | available | $71.98    | —             | 58             | 29     | 6      | namecheap |
-| cams.hospital        | available | $57.99    | $57.99        | 52             | 29     | 4      | namesilo  |
-| gems.hospital        | available | $57.99    | $57.99        | 70             | 28     | 4      | namesilo  |
-| forms.hospital       | available | $71.98    | —             | 54             | 28     | 5      | namecheap |
-| pages.hospital       | available | $71.98    | —             | 52             | 28     | 5      | namecheap |
-| tips.hospital        | available | $71.98    | —             | 80             | 26     | 4      | namecheap |
-| destination.hospital | available | $71.98    | —             | 90             | 25     | 11     | namecheap |
-| Keith.hospital       | available | $71.98    | —             | 66             | 25     | 5      | namecheap |
-| drops.hospital       | available | $71.98    | —             | 52             | 25     | 5      | namecheap |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.hospital      | available | $71.98    | —             | 80             | 26     | 4      | namecheap |
+| Apples.hospital    | available | $71.98    | —             | 90             | 16     | 6      | namecheap |
+| edamame.hospital   | available | $57.99    | $57.99        | 80             | 9      | 7      | namesilo  |
+| gearup.hospital    | available | $71.98    | —             | 80             | 16     | 7      | namecheap |
+| playon.hospital    | available | $71.98    | —             | 80             | 14     | 7      | namecheap |
+| QandA.hospital     | available | $71.98    | —             | 80             | 10     | 7      | namecheap |
+| makeit.hospital    | available | $71.98    | —             | 82             | 22     | 7      | namecheap |
+| stirup.hospital    | available | $71.98    | —             | 82             | 3      | 7      | namecheap |
+| watches.hospital   | available | $71.98    | —             | 84             | 19     | 7      | namecheap |
+| dogsick.hospital   | available | $71.98    | —             | 90             | 1      | 7      | namecheap |
+| robots.hospital    | available | $57.99    | $57.99        | 62             | 47     | 6      | namesilo  |
+| SanDiego.hospital  | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo  |
+| skills.hospital    | available | $71.98    | —             | 58             | 47     | 6      | namecheap |
+| veterans.hospital  | premium   | $500      | —             | 56             | 23     | 8      | name.com  |
+| Tools.hospital     | available | $71.98    | —             | 56             | 40     | 5      | namecheap |
+| prompts.hospital   | available | $57.99    | $57.99        | 54             | 39     | 7      | namesilo  |
+| teams.hospital     | available | $71.98    | —             | 62             | 32     | 5      | namecheap |
+| trends.hospital    | available | $71.98    | —             | 60             | 32     | 6      | namecheap |
+| William.hospital   | available | $71.98    | —             | 74             | 31     | 7      | namecheap |
+| solutions.hospital | available | $71.98    | —             | 56             | 31     | 9      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,735 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,736 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .hospital extension. That makes the set very specific: the extension carries a healthcare context, while the word itself does most of the branding work. Some names are plain-language and descriptive, such as tips.hospital or ladies.hospital. Others are shorter, less literal, and more brand-led, such as Acup.hospital or Trex.hospital. When comparing these domains, focus on whether the word adds clarity or confusion next to .hospital, whether the pairing feels credible for a real healthcare use case, and whether the ask price and expected renewal fit your budget discipline.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the word strengthens or weakens .hospital
+- Prefer names that sound credible in a healthcare context
+- Compare ask price against long-term renewal tolerance
+- Screen for ambiguity, spelling friction, and trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
