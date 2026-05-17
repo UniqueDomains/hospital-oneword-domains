@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hospital one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,737 domains · **Median ask:** $69.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/hospital`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | gearup.hospital    | available | $71.98    | —             | 80             | 16     | 7      | namecheap |
 | playon.hospital    | available | $71.98    | —             | 80             | 14     | 7      | namecheap |
 | QandA.hospital     | available | $71.98    | —             | 80             | 10     | 7      | namecheap |
-| makeit.hospital    | available | $71.98    | —             | 82             | 22     | 7      | namecheap |
+| makeit.hospital    | available | $71.98    | —             | 82             | 21     | 7      | namecheap |
 | stirup.hospital    | available | $71.98    | —             | 82             | 3      | 7      | namecheap |
 | watches.hospital   | available | $71.98    | —             | 84             | 19     | 7      | namecheap |
 | robots.hospital    | available | $57.99    | $57.99        | 62             | 47     | 6      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
