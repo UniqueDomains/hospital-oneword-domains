@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .hospital one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,737 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,737 domains · **Median ask:** $69.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,737 domains · **Median ask:** $62.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/hospital`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/hospital`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOSPITAL one-word dom
 
 ### Files
 
-- `hospital.csv` — public CSV extract (1,000 rows)
-- `hospital.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hospital.csv`, public CSV extract (1,000 rows)
+- `hospital.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.hospital      | available | $71.98    | —             | 80             | 26     | 4      | namecheap |
-| Apples.hospital    | available | $71.98    | —             | 90             | 16     | 6      | namecheap |
-| edamame.hospital   | available | $57.99    | $57.99        | 80             | 9      | 7      | namesilo  |
-| gearup.hospital    | available | $71.98    | —             | 80             | 16     | 7      | namecheap |
-| playon.hospital    | available | $71.98    | —             | 80             | 14     | 7      | namecheap |
-| QandA.hospital     | available | $71.98    | —             | 80             | 10     | 7      | namecheap |
-| makeit.hospital    | available | $71.98    | —             | 82             | 21     | 7      | namecheap |
-| stirup.hospital    | available | $71.98    | —             | 82             | 3      | 7      | namecheap |
-| watches.hospital   | available | $71.98    | —             | 84             | 19     | 7      | namecheap |
-| robots.hospital    | available | $57.99    | $57.99        | 62             | 47     | 6      | namesilo  |
-| SanDiego.hospital  | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo  |
-| skills.hospital    | available | $71.98    | —             | 58             | 47     | 6      | namecheap |
-| veterans.hospital  | premium   | $500      | —             | 56             | 23     | 8      | name.com  |
-| Tools.hospital     | available | $71.98    | —             | 56             | 40     | 5      | namecheap |
-| prompts.hospital   | available | $57.99    | $57.99        | 54             | 39     | 7      | namesilo  |
-| teams.hospital     | available | $71.98    | —             | 62             | 32     | 5      | namecheap |
-| trends.hospital    | available | $71.98    | —             | 60             | 32     | 6      | namecheap |
-| William.hospital   | available | $71.98    | —             | 74             | 31     | 7      | namecheap |
-| solutions.hospital | available | $71.98    | —             | 56             | 31     | 9      | namecheap |
-| heroes.hospital    | available | $71.98    | —             | 68             | 29     | 6      | namecheap |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aaa.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
+| this.hospital       | resell    | —         | —             | high           | medium | 4      | Automattic Inc.  |
+| eye.hospital        | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| ash.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
+| doctor.hospital     | resell    | —         | —             | high           | low    | 6      | Dot Holding Inc. |
+| private.hospital    | premium   | $500      | —             | high           | low    | 7      | name.com         |
+| bow.hospital        | available | $57.99    | $57.99        | high           | low    | 3      | namesilo         |
+| cincinnati.hospital | resell    | —         | —             | high           | low    | 10     | GoDaddy.com, LLC |
+| insurance.hospital  | premium   | $57.99    | $57.99        | high           | medium | 9      | namesilo         |
+| des.hospital        | available | $57.99    | $57.99        | high           | low    | 3      | namesilo         |
+| dew.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
+| dna.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
+| dot.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
+| fit.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
+| gal.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
+| gun.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
+| hey.hospital        | available | $71.98    | —             | medium         | medium | 3      | namecheap        |
+| His.hospital        | available | $57.99    | $57.99        | high           | low    | 3      | namesilo         |
+| hot.hospital        | available | $57.99    | $57.99        | high           | low    | 3      | namesilo         |
+| les.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .hospital extension. That makes the set very specific: the extension carries a healthcare context, while the word itself does most of the branding work. Some names are plain-language and descriptive, such as tips.hospital or ladies.hospital. Others are shorter, less literal, and more brand-led, such as Acup.hospital or Trex.hospital. When comparing these domains, focus on whether the word adds clarity or confusion next to .hospital, whether the pairing feels credible for a real healthcare use case, and whether the ask price and expected renewal fit your budget discipline.
+This selection covers 12,737 one-word .hospital domain names, ranging from everyday words like WiFi and Ladies to phrases such as SlicedBread and FinalFour. The median asking price across the set is about $62, giving founders and investors a concrete reference point when comparing individual names within this .hospital list.
 
-- Check whether the word strengthens or weakens .hospital
-- Prefer names that sound credible in a healthcare context
-- Compare ask price against long-term renewal tolerance
-- Screen for ambiguity, spelling friction, and trademark risk
+- 12,737 one-word .hospital domain names in this selection
+- Median asking price near $62 across the set
+- Brandable words like WiFi, Ladies, and Jewels included
+- Updated daily to reflect pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
