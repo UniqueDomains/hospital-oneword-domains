@@ -1,10 +1,10 @@
-# Available .HOSPITAL One-Word Domains (22,403)
+# Available .HOSPITAL One-Word Domains (23,043)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C403%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C043%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hospital one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,403 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,043 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,403 domains · **Median ask:** $59.18 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 23,043 domains · **Median ask:** $59.09 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/hospital`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | des.hospital        | available | $57.99    | $57.99        | high           | low    | 3      | namesilo         |
 | dew.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
 | dna.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
-| dot.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
+| dot.hospital        | available | $55.98    | $71.98        | medium         | medium | 3      | namecheap        |
 | fit.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
 | gal.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
 | gun.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,403 live domains                        |
+| 1,000-row public sample | 23,043 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
