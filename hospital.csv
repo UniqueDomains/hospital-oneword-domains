@@ -151,7 +151,7 @@ bd84ddf3-a9ef-4406-9db3-57bc10bde755,break.hospital,available,57.99,57.99,high,l
 69412835-d983-47ed-b048-b143c51cd3fb,charge.hospital,available,57.99,57.99,high,low,6,namesilo,,
 17616970-a50b-4185-9376-741d48d3fbc0,steps.hospital,available,57.99,57.99,high,low,5,namesilo,,
 a0da87cb-9aae-4553-b667-d5da136b51da,half.hospital,available,57.99,57.99,high,low,4,namesilo,,
-0e204cc6-5a5e-49ec-8197-3df2989fef74,related.hospital,available,55.98,71.98,low,low,7,namecheap,,
+0e204cc6-5a5e-49ec-8197-3df2989fef74,related.hospital,available,55.98,71.98,medium,low,7,namecheap,,
 f03f41db-842a-4534-bb1e-9b450f31941b,rip.hospital,available,57.99,57.99,medium,low,3,namesilo,,
 ebadf553-6bb1-4099-8723-a71d1f896af0,silver.hospital,available,71.98,,medium,low,6,namecheap,,
 0a5f9698-afc9-4a69-9ec8-ac63bc639895,anaglyphic.hospital,available,55.98,71.98,low,low,10,namecheap,,
