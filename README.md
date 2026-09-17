@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hospital one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,513 domains · **Median ask:** $58.76 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/hospital`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| half.hospital       | available | $57.99    | $57.99        | high           | low    | 4      | namesilo         |
+| quiet.hospital      | available | $57.99    | $57.99        | high           | low    | 5      | namesilo         |
 | aaa.hospital        | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
 | this.hospital       | resell    | —         | —             | high           | medium | 4      | Automattic Inc.  |
 | eye.hospital        | premium   | $500      | —             | medium         | low    | 3      | name.com         |
@@ -82,8 +84,6 @@ print(df.head())
 | gun.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
 | hey.hospital        | available | $71.98    | —             | medium         | medium | 3      | namecheap        |
 | His.hospital        | available | $57.99    | $57.99        | high           | low    | 3      | namesilo         |
-| hot.hospital        | available | $55.98    | $71.98        | medium         | medium | 3      | namecheap        |
-| les.hospital        | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSPITAL One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
