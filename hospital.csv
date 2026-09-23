@@ -9,7 +9,7 @@ b34b3c83-1c6c-4eae-9c0d-0831fd1b00b7,azure.hospital,available,,,high,low,5,,,,
 4dc4a993-969b-4e9b-b287-f77ae6007d7a,ash.hospital,available,57.99,57.99,medium,low,3,namesilo,,,
 756c242f-5e83-409c-a617-d1936ba79761,hero.hospital,available,71.98,,high,medium,4,namecheap,,,
 164d1728-6d0a-4f2d-bf38-d6d226cdbea6,agree.hospital,available,57.99,57.99,high,low,5,namesilo,,,
-74109e91-0893-45b7-853c-320d6edb86b2,prenatal.hospital,available,71.98,,high,low,8,namecheap,,,
+74109e91-0893-45b7-853c-320d6edb86b2,prenatal.hospital,available,57.99,57.99,medium,low,8,namesilo,,,22/09/2026 05:55
 655ac6fa-bbc6-405b-a815-1bb515d2ca3a,taketowife.hospital,available,57.99,57.99,low,low,12,namesilo,,,
 45fbe687-ddd4-4a9a-bc29-11f31e5429ae,nosehair.hospital,available,71.98,,low,low,9,namecheap,,,
 28bf1c33-b0c3-45ea-987d-ee5cc61857b6,alias.hospital,available,57.99,57.99,high,low,5,namesilo,,,
@@ -27,7 +27,7 @@ a50c2ac0-c7a8-4307-a49f-48ced97c5ea9,now.hospital,available,,,high,low,3,,,,
 9437095d-a5b7-4fa8-83a2-b2a6f7268eed,curl.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
 a92b8343-b754-4960-b3d2-1806ff50eb75,exciting.hospital,available,57.99,57.99,high,low,8,namesilo,,,
 f6f6d7ec-cfd2-436c-a5a8-883cd49f83a7,recognition.hospital,available,57.99,57.99,medium,low,11,namesilo,,,
-fa72c082-6e3c-4412-bacb-e4d7fae18f27,ahead.hospital,available,57.99,57.99,high,low,5,namesilo,,,
+fa72c082-6e3c-4412-bacb-e4d7fae18f27,ahead.hospital,available,55.98,71.98,medium,low,5,namecheap,,,21/09/2026 23:29
 e15fecbf-8fa6-4651-85b0-7587189b9354,tuesday.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 fb99011b-fd15-40d6-85cf-fd6e1c8e4b57,assumptive.hospital,available,55.98,71.98,low,low,10,namecheap,,,07/08/2026 08:11
 9ea14a92-a999-40fc-9719-ca7f527d9527,oliveoil.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
@@ -57,10 +57,10 @@ e0c477b1-5620-4383-b867-b520b7bf3f4e,starred.hospital,available,55.98,71.98,low,
 4d88c16f-634f-43c9-8bf6-b439772f0ea1,rules.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
 5a2a143b-4144-4e68-83ca-d9ddcc34cbc4,cuisine.hospital,available,71.98,,high,low,7,namecheap,,,
 15d187f4-4af3-4f8d-bfec-6b57ffc079a7,lake.hospital,available,57.99,57.99,high,low,4,namesilo,,,
-3443ed7c-b0f6-43c3-86ee-3e19c2785d6d,bearing.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+3443ed7c-b0f6-43c3-86ee-3e19c2785d6d,bearing.hospital,available,55.98,71.98,low,low,7,namecheap,,,22/09/2026 18:34
 1167a614-cb8b-43fe-af04-e521851d2bcc,living.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 e183fdca-76cf-4d44-b8dd-de34e9d5ad47,gasstation.hospital,available,57.99,57.99,medium,low,11,namesilo,,,
-ea580ad5-492d-48a5-8d66-b46bedaeb2d5,alleged.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+ea580ad5-492d-48a5-8d66-b46bedaeb2d5,alleged.hospital,available,55.98,71.98,low,low,7,namecheap,,,22/09/2026 01:19
 82229068-8525-4e50-8bb5-0ac00472ef00,loved.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 04d51bb3-fd27-4710-868e-f1c218ea43e1,irishhospitality.hospital,available,57.99,57.99,high,low,17,namesilo,,,
 e8a14e65-eb87-4a33-9078-8bf4b0796f7e,bychance.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
@@ -78,11 +78,11 @@ ed3308be-c1ab-4f07-bc43-8c827d782157,crystal.hospital,available,71.98,,high,low,
 fe085fed-b273-4465-9466-beb35429687a,drift.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 9b8919c3-03a8-47fe-86cb-7d0777fd5a70,hole.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
 db59a8e1-9554-443b-9dca-ba02b0f7e2bf,recognizable.hospital,available,57.99,57.99,high,low,12,namesilo,,,
-4e0b6ef6-90ea-41b7-9a78-b30b9209dec4,substitute.hospital,available,57.99,57.99,high,low,10,namesilo,,,
+4e0b6ef6-90ea-41b7-9a78-b30b9209dec4,substitute.hospital,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 02:40
 17728e61-3d16-4659-8dbd-387da48d5745,time.hospital,available,57.99,57.99,high,medium,4,namesilo,,,
 36ba230c-fcd1-48cd-8b69-fc27e8ae7ba5,prince.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 a2755ac9-e491-4834-be9f-ff455b8109fe,abusive.hospital,available,55.98,71.98,low,low,7,namecheap,,,
-0b20d9e8-6332-40fc-85f0-8b3638974695,accustomed.hospital,available,57.99,57.99,high,low,10,namesilo,,,
+0b20d9e8-6332-40fc-85f0-8b3638974695,accustomed.hospital,available,57.99,57.99,medium,low,10,namesilo,,,21/09/2026 16:02
 e26207a1-5cf0-4279-90ef-3d5facbc1395,bawdry.hospital,available,55.98,71.98,low,low,6,namecheap,,,09/08/2026 02:21
 11326607-0ca8-4ba1-b13d-8b4abf6ba15c,takeaknee.hospital,available,71.98,,low,low,11,namecheap,,,
 3e840827-5687-4515-97f8-5089ab7f848d,des.hospital,available,57.99,57.99,high,low,3,namesilo,,,
@@ -105,11 +105,11 @@ bea26bdb-4efa-48b0-bd00-6c1096b8abe6,norfolk.hospital,available,57.99,57.99,high
 eaf742df-93c8-445f-a64b-4404b9752780,shootingstar.hospital,available,57.99,57.99,high,low,13,namesilo,,,
 b90b7e29-b375-418c-8e79-d17ab37ed00e,weakest.hospital,available,57.99,57.99,low,low,7,namesilo,,,
 428f5fae-c947-4b26-8ed4-88d21263cc8f,remain.hospital,available,71.98,,high,low,6,namecheap,,,
-b604fda7-4e6c-4f02-8961-90fe9550fdb8,activated.hospital,available,57.99,57.99,high,low,9,namesilo,,,
+b604fda7-4e6c-4f02-8961-90fe9550fdb8,activated.hospital,available,57.99,57.99,medium,low,9,namesilo,,,21/09/2026 16:32
 a469034a-555b-44d2-83cc-fc7ff7a9c078,giveback.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 e4a8da70-bd8e-450f-af7b-7c08640b0785,recondite.hospital,available,55.98,71.98,low,low,9,namecheap,,,
 f064750e-a47f-4c37-9fa8-beb02aae1366,godmode.hospital,available,57.99,57.99,high,low,8,namesilo,,,
-7d5a78a0-19bd-40fc-b644-a8d3220cd88e,allright.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
+7d5a78a0-19bd-40fc-b644-a8d3220cd88e,allright.hospital,available,57.99,57.99,medium,low,9,namesilo,,,22/09/2026 01:00
 ea7ea0ce-37f6-4b2f-bc36-beea7555962a,dishonesty.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
 12e7c264-ebaa-48cb-8dba-ff387d8b341e,molecules.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
 e72d066a-967b-4795-b915-e4295f54c86a,vaticancity.hospital,available,57.99,57.99,low,low,12,namesilo,,,
@@ -129,23 +129,23 @@ e8dc80db-4cbd-4285-9886-6d46a98ef5fa,solely.hospital,available,55.98,71.98,low,l
 7d8efa4f-6822-48be-b31e-b54ce71dbf1c,bedaubed.hospital,available,55.98,71.98,low,low,8,namecheap,,,09/08/2026 06:32
 5266e20a-394b-4451-b76c-7b05fdf3ec19,intheworstway.hospital,available,57.99,57.99,medium,low,16,namesilo,,,
 4bd04cc1-2292-422c-937a-8f07f58562eb,agrestic.hospital,available,55.98,71.98,low,low,8,namecheap,,,
-167ebcd7-1ab6-476b-a16b-66dd851deea4,acappella.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
+167ebcd7-1ab6-476b-a16b-66dd851deea4,acappella.hospital,available,57.99,57.99,low,low,10,namesilo,,,21/09/2026 13:25
 45864e5d-d7ee-4e66-b12d-50d9c12682f8,stray.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 ab15df6c-dcec-4a13-971d-b7aed203b4a6,xxviii.hospital,available,55.98,71.98,low,low,6,namecheap,,,
 1d530a2d-7945-4d3e-979d-962eea4f5d15,ancestor.hospital,available,55.98,71.98,medium,low,8,namecheap,,,
 49ae537c-50bf-4642-aaf1-70ed060d9895,admissive.hospital,available,55.98,71.98,low,low,9,namecheap,,,
 d2997ae9-ef41-4200-845f-a379ca0a26d4,earshaped.hospital,available,55.98,71.98,low,low,10,namecheap,,,07/08/2026 18:02
-035b2cc1-17d6-444a-9b59-8b40d562c23f,announced.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
+035b2cc1-17d6-444a-9b59-8b40d562c23f,announced.hospital,available,55.98,71.98,low,low,9,namecheap,,,22/09/2026 05:10
 edb5039a-d7d2-40c8-90c8-2ad1cefb70a9,alittle.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
 8750788a-affa-416c-b5a6-fc416d470305,aerophilic.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 95744d16-652a-4983-8fb0-a31deb76b0a5,sunburst.hospital,available,71.98,,high,low,8,namecheap,,,
 8666185b-9886-46ae-86fa-d2744cbe4c39,yuck.hospital,available,57.99,57.99,high,low,4,namesilo,,,
-f5049486-bb0e-4f57-83ec-676464afaef0,trinity.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+f5049486-bb0e-4f57-83ec-676464afaef0,trinity.hospital,available,57.99,57.99,low,low,7,namesilo,,,21/09/2026 13:07
 40e49c0d-9480-4fc5-834b-5414e1e51761,luxembourg.hospital,available,,,medium,low,10,,,,
 abde65b5-15ff-4ec2-8175-a0b95859f45c,lunchmeat.hospital,available,57.99,57.99,high,low,10,namesilo,,,
 1cd521a5-1613-4669-bd10-33ef4392ee1b,achromatic.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 656c565f-94a9-4a22-a381-5ee74e51c816,youwin.hospital,available,57.99,57.99,low,low,7,namesilo,,,
-bd84ddf3-a9ef-4406-9db3-57bc10bde755,break.hospital,available,57.99,57.99,high,low,5,namesilo,,,
+bd84ddf3-a9ef-4406-9db3-57bc10bde755,break.hospital,available,57.99,57.99,low,low,5,namesilo,,,22/09/2026 17:01
 41ac15cb-dd3e-4199-913a-19d3f374df6e,moveabout.hospital,available,71.98,,low,low,10,namecheap,,,
 3c4c3e00-7146-4ae8-b8f6-efde0e8efe5d,rubber.hospital,available,71.98,,high,low,6,namecheap,,,
 69412835-d983-47ed-b048-b143c51cd3fb,charge.hospital,available,57.99,57.99,high,low,6,namesilo,,,
@@ -153,7 +153,7 @@ bd84ddf3-a9ef-4406-9db3-57bc10bde755,break.hospital,available,57.99,57.99,high,l
 a0da87cb-9aae-4553-b667-d5da136b51da,half.hospital,available,57.99,57.99,high,low,4,namesilo,,,
 0e204cc6-5a5e-49ec-8197-3df2989fef74,related.hospital,available,57.99,57.99,low,low,7,namesilo,,,19/09/2026 12:07
 f03f41db-842a-4534-bb1e-9b450f31941b,rip.hospital,available,57.99,57.99,medium,low,3,namesilo,,,
-ebadf553-6bb1-4099-8723-a71d1f896af0,silver.hospital,available,71.98,,medium,low,6,namecheap,,,
+ebadf553-6bb1-4099-8723-a71d1f896af0,silver.hospital,available,57.99,57.99,medium,low,6,namesilo,,,22/09/2026 07:45
 0a5f9698-afc9-4a69-9ec8-ac63bc639895,anaglyphic.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 1d005611-d5c3-4d71-ae6e-4bc839f8cdc1,thatone.hospital,available,57.99,57.99,low,low,8,namesilo,,,
 0988af85-2f3c-4c7c-a666-71d0d1e4cb7b,activation.hospital,available,55.98,71.98,low,low,10,namecheap,,,
@@ -165,7 +165,7 @@ aa171326-2a88-4fec-9256-4a2cc6133c5c,lxiv.hospital,available,55.98,71.98,low,low
 c2d5d5df-c847-4b76-971e-eedeac1eced1,endurance.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 8e88f7ae-5e92-40e7-a0fa-6434078fbc7e,apogamic.hospital,available,55.98,71.98,low,low,8,namecheap,,,06/08/2026 01:41
 24b7e0f6-10b4-472a-8ed9-7a88e998a590,blood.hospital,available,57.99,57.99,high,low,5,namesilo,,,
-3763d533-610d-4fc7-bef2-5e2b876ea8e5,blunt.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
+3763d533-610d-4fc7-bef2-5e2b876ea8e5,blunt.hospital,available,57.99,57.99,low,low,5,namesilo,,,22/09/2026 23:15
 0079dc68-fd2f-4067-b4bd-d6a301383700,atleast.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
 9cabd6ff-525a-46c9-a138-6bf118f427f9,germanchamomile.hospital,available,57.99,57.99,high,low,16,namesilo,,,
 c6aa1b66-8113-4ce5-ae3b-9e3548bbaf8c,trainup.hospital,available,57.99,57.99,low,low,8,namesilo,,,
@@ -206,11 +206,11 @@ a75249d2-e760-4213-8367-3c7aae7a9bf3,allfired.hospital,available,55.98,71.98,low
 21b4df6e-81a3-4f67-92de-e2baf6da4e30,retro.hospital,available,57.99,57.99,high,medium,5,namesilo,,,
 234c7d6e-c981-42d8-940e-0083013d289d,detective.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 03d79766-a29f-4c79-9120-5de021d10641,jewellery.hospital,available,57.99,57.99,high,low,9,namesilo,,,
-e836f0d4-bb7e-470c-9daf-de314f5e775a,backbone.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
+e836f0d4-bb7e-470c-9daf-de314f5e775a,backbone.hospital,available,57.99,57.99,medium,low,9,namesilo,,,21/09/2026 15:14
 20638844-04c5-4e0b-9dbb-89233fb5f6e3,windowseat.hospital,available,57.99,57.99,high,low,11,namesilo,,,
 ea52e81d-91d5-4a7f-981f-97798e49a168,tourist.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 1f43516e-87a5-4bba-8e2e-55fb06afc2c2,breakinto.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
-b8a14108-3d9f-4ac4-acfd-4863de697c8a,around.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+b8a14108-3d9f-4ac4-acfd-4863de697c8a,around.hospital,available,55.98,71.98,medium,low,6,namecheap,,,21/09/2026 14:17
 fc895dae-d432-4969-a3d0-24bed1e66ce4,despotic.hospital,available,55.98,71.98,low,low,8,namecheap,,,07/08/2026 18:58
 341f1358-4a81-41bb-8af7-06de3049d500,antitank.hospital,available,55.98,71.98,low,low,8,namecheap,,,05/08/2026 19:44
 283e516a-2050-4df2-a051-d15fd125545d,shove.hospital,available,57.99,57.99,high,low,5,namesilo,,,
@@ -225,7 +225,7 @@ f6922513-d57b-4d72-9463-38510fed6a2f,fasten.hospital,available,57.99,57.99,high,
 99803352-1a78-443f-91de-ab74e3ca4197,abloom.hospital,available,55.98,71.98,low,low,6,namecheap,,,
 56976f72-1864-488a-b824-2d4f4f4ca950,jack.hospital,available,57.99,57.99,high,medium,4,namesilo,,,
 dc4e67ad-330a-4400-bd8a-45f0e5ad80ef,beborn.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
-ded0b93e-6b69-4671-abb3-d770b41becfd,bow.hospital,available,57.99,57.99,high,low,3,namesilo,,,
+ded0b93e-6b69-4671-abb3-d770b41becfd,bow.hospital,available,57.99,57.99,medium,low,3,namesilo,,,23/09/2026 01:50
 e882475b-aa5a-4022-ba51-f34d5ba4a6b5,clothingbin.hospital,available,57.99,57.99,medium,low,12,namesilo,,,
 198e2a3c-1b54-40c1-84c0-0a23b01e464a,stick.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 780edb96-b39e-4254-82bb-e6d3c809c5c1,mirror.hospital,available,71.98,,high,low,6,namecheap,,,
@@ -237,7 +237,7 @@ e0d26db5-a74e-4038-a2f4-bbe1ab91883b,room.hospital,available,55.98,71.98,medium,
 b2413524-4491-44c4-8458-fe60a27ba14d,havesecondthoughts.hospital,available,57.99,57.99,medium,low,20,namesilo,,,
 0833220f-1bbf-4ef7-9ecd-014fa3e701c3,sun.hospital,available,57.99,57.99,high,medium,3,namesilo,,,
 78845a6f-9de7-4665-b63b-5d512786bd81,corridor.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
-426560c2-bf5a-4974-af34-04718c1adb22,advancing.hospital,available,57.99,57.99,high,low,9,namesilo,,,
+426560c2-bf5a-4974-af34-04718c1adb22,advancing.hospital,available,57.99,57.99,medium,low,9,namesilo,,,21/09/2026 20:51
 ea613f08-9e8f-419a-9793-b210862d7998,acquirable.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 adeded80-825d-4309-a6df-3872bd91853e,contented.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 343d5db3-e149-4e95-b4e6-9528c943eb64,converse.hospital,available,,,medium,high,8,,,,
@@ -253,7 +253,7 @@ c95a83d4-0128-48eb-bcaf-159a5925ea3a,bit.hospital,available,,,high,low,3,,,,
 f767891e-e78d-4acd-87ee-4c25efd05941,amebous.hospital,available,55.98,71.98,low,low,7,namecheap,,,
 d7e41d49-b5ab-429b-8a2e-7f67d12bae13,fate.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
 b806b54e-5d3c-4da1-993f-8dbc85ae255c,haiti.hospital,available,,,medium,low,5,,,,
-92764dc5-e099-4342-948e-92d4572e41da,ruby.hospital,available,57.99,57.99,high,low,4,namesilo,,,
+92764dc5-e099-4342-948e-92d4572e41da,ruby.hospital,available,57.99,57.99,medium,low,4,namesilo,,,22/09/2026 22:32
 1219f13a-f996-455a-939e-59e0344449c6,planetarium.hospital,available,57.99,57.99,medium,low,11,namesilo,,,
 dbfb86fa-1599-4501-b5c5-b5df5abf5103,dakotacity.hospital,available,57.99,57.99,medium,low,11,namesilo,,,
 5997b156-0f2a-434d-aa5a-93928ff4d175,xcv.hospital,available,55.98,71.98,low,low,3,namecheap,,,
@@ -265,7 +265,7 @@ d8c502ef-d54c-40cd-9edc-8ac8b529d053,lookinto.hospital,available,57.99,57.99,hig
 f8b1290c-2ac4-4056-875e-0fabb220c81e,seventieth.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 dc705b50-6479-4bbe-ad0b-989fb9aa4fb2,choc.hospital,available,57.99,57.99,high,low,4,namesilo,,,
 db022404-713e-416c-98ec-123006ac9711,comeintoforce.hospital,available,57.99,57.99,high,low,15,namesilo,,,
-ef107c55-b89c-4a28-835d-ce9c6c2506e6,agile.hospital,available,57.99,57.99,high,medium,5,namesilo,,,
+ef107c55-b89c-4a28-835d-ce9c6c2506e6,agile.hospital,available,57.99,57.99,medium,low,5,namesilo,,,21/09/2026 23:00
 952f1004-4f8e-46d0-aa92-6d1d79a022e8,eyesight.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
 79ec89be-a2ba-46ed-a250-3f010957b64a,educated.hospital,available,71.98,,medium,low,8,namecheap,,,
 45420cc7-ae6d-4901-962e-b51b6ea1c8f0,variable.hospital,available,57.99,57.99,high,low,8,namesilo,,,
@@ -276,23 +276,23 @@ e3dbe150-cfd6-4a5b-af4a-ed372097de3f,offspring.hospital,available,57.99,57.99,hi
 0bd5da96-960f-449f-892a-e603040a2980,altogether.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 299906c5-f049-497c-89b3-4ae908eddb20,attested.hospital,available,55.98,71.98,low,low,8,namecheap,,,07/08/2026 15:41
 3b674017-61f8-4411-9bfa-185777fc207f,study.hospital,available,57.99,57.99,medium,low,5,namesilo,,,20/09/2026 03:18
-abe80e21-a6b3-487d-8790-f23a5e8677d0,abovecited.hospital,available,57.99,57.99,medium,low,11,namesilo,,,
+abe80e21-a6b3-487d-8790-f23a5e8677d0,abovecited.hospital,available,57.99,57.99,low,low,11,namesilo,,,
 d37af5b1-7e6a-4696-97e5-5fa37a2d445b,afrikaans.hospital,available,55.98,71.98,low,low,9,namecheap,,,
 82afbe51-4bf6-4466-ab01-0419719f7b9b,pale.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
 2e24d019-a005-4dd9-887d-cb0631d1ef5f,spacious.hospital,available,71.98,,medium,low,8,namecheap,,,
-db52c859-613b-45e1-ad8c-8c0452e30af9,binding.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+db52c859-613b-45e1-ad8c-8c0452e30af9,binding.hospital,available,55.98,71.98,medium,low,7,namecheap,,,22/09/2026 20:51
 4793e750-74ac-4265-9f15-5c9cb9502d7c,distinctness.hospital,available,57.99,57.99,high,low,12,namesilo,,,
 cc9760cd-0c9a-4c38-b4d2-e32fdcc4ba6f,antiviral.hospital,available,55.98,71.98,low,low,9,namecheap,,,05/08/2026 20:06
 50a0844f-4695-4531-8ea5-cf8bf1eca619,wobbly.hospital,available,71.98,,medium,low,6,namecheap,,,
 1218fb64-36a0-4489-a25a-7de4fa9a5d96,apish.hospital,available,55.98,71.98,low,low,5,namecheap,,,06/08/2026 00:12
 d3a3f9e1-ffe6-4a79-86a9-b3f790dc3c30,widespread.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
-464e3682-b865-4934-9bda-02bb92c8ec59,eternal.hospital,available,57.99,57.99,high,medium,7,namesilo,,,
+464e3682-b865-4934-9bda-02bb92c8ec59,eternal.hospital,available,57.99,57.99,medium,low,7,namesilo,,,21/09/2026 22:47
 455ad444-e034-42c2-885f-0cf9a71c14de,saler.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
 8cd40f1a-2991-489b-bc64-1f8236a5b8b3,maximum.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 cbe30851-d6de-4ef0-82ac-cc24a5915c46,stain.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 47d40e94-68ea-4a67-a463-6ada498cc9ee,songlike.hospital,available,55.98,71.98,low,low,8,namecheap,,,06/08/2026 19:24
 30e8e7a1-d222-4973-8e17-57e965416bc8,asynergic.hospital,available,55.98,71.98,low,low,9,namecheap,,,07/08/2026 10:39
-90342f39-ff63-4f5b-8d88-faae26bd2bbb,marginal.hospital,available,57.99,57.99,high,low,8,namesilo,,,
+90342f39-ff63-4f5b-8d88-faae26bd2bbb,marginal.hospital,available,55.98,71.98,low,low,8,namecheap,,,23/09/2026 00:04
 2d5c8581-c4f0-47de-bc75-864e795cd1f0,connection.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
 cc268add-a901-46bf-bb27-32bb6e3a3321,knowof.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
 f145d815-4a4d-496a-a3e3-cec56cfdd8a3,quiet.hospital,available,57.99,57.99,high,low,5,namesilo,,,
@@ -303,7 +303,7 @@ fefce350-ae90-4a3f-8528-746e1704e23b,abstracted.hospital,available,55.98,71.98,l
 675e1e68-7c9d-4e64-85b8-414c1578ce34,pop.hospital,available,71.98,,high,medium,3,namecheap,,,
 2b4f9fdc-8caa-4390-b5eb-938e9e14946c,anticipate.hospital,available,57.99,57.99,high,low,10,namesilo,,,
 7ef490de-325b-4df5-a4d5-0885c117e7a5,dawn.hospital,available,57.99,57.99,high,low,4,namesilo,,,
-204e6fd5-0201-4b4b-9285-9b1c0f13b26f,like.hospital,available,57.99,57.99,high,low,4,namesilo,,,
+204e6fd5-0201-4b4b-9285-9b1c0f13b26f,like.hospital,available,57.99,57.99,medium,low,4,namesilo,,,21/09/2026 23:58
 ebb82722-a204-4d33-bd09-312b0d71d720,primarily.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
 2b61b3cd-2c93-4206-a61e-b411796b11ca,raunchy.hospital,available,55.98,71.98,low,low,7,namecheap,,,09/08/2026 09:41
 b37f442d-8901-401f-b7b9-5e83d6a9045d,roasted.hospital,available,71.98,,medium,low,7,namecheap,,,
@@ -313,7 +313,7 @@ d1d138ce-a9d9-4c06-be4f-37d8add5fc62,hotpepper.hospital,available,57.99,57.99,hi
 effb21cc-d8da-492e-9c19-23fd3a305221,reticent.hospital,available,71.98,,medium,low,8,namecheap,,,
 2f583a3f-ecdb-44a8-84ea-5d29d21ecfce,lot.hospital,available,57.99,57.99,medium,low,3,namesilo,,,
 bb3731e3-39d4-442d-84c8-d39f4fe13912,visualize.hospital,available,57.99,57.99,high,low,9,namesilo,,,
-1492b746-a1d4-45ad-8ea6-a80b9dafe0f5,fresh.hospital,available,57.99,57.99,high,low,5,namesilo,,,
+1492b746-a1d4-45ad-8ea6-a80b9dafe0f5,fresh.hospital,available,55.98,71.98,medium,low,5,namecheap,,,23/09/2026 01:54
 8f7ea91e-8d0b-456f-92a9-a419e2628e7f,puzzled.hospital,available,55.98,71.98,low,low,7,namecheap,,,07/08/2026 10:53
 abd85f4b-a8dd-4a8f-b04a-bc795dcf6624,goforthegold.hospital,available,57.99,57.99,high,low,15,namesilo,,,
 05bb549e-fea5-45d8-ad8e-996f193ffb6f,harm.hospital,available,55.98,71.98,medium,low,4,namecheap,,,08/09/2026 07:44
@@ -332,7 +332,7 @@ e5e44ecd-751a-446b-9585-66b927153d02,les.hospital,available,57.99,57.99,medium,l
 551eecd0-eabf-4e31-8e98-0fb5dfbc2548,remington.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 687ef855-79be-4aba-a5a1-3914550a9bde,dew.hospital,available,57.99,57.99,medium,low,3,namesilo,,,
 defd86e5-5c5d-4d4e-af75-0f3b0d39063b,australia.hospital,available,,,medium,low,9,,,,
-914742a1-358c-47b3-8acc-63758e1a822e,auriferous.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
+914742a1-358c-47b3-8acc-63758e1a822e,auriferous.hospital,available,57.99,57.99,low,low,10,namesilo,,,22/09/2026 13:02
 a0d52d7e-851d-4d06-8019-bee141ec1f6d,keytothecity.hospital,available,57.99,57.99,high,low,15,namesilo,,,
 e7d285e9-f682-4f61-b3c0-012d116b657f,sorryforoneself.hospital,available,57.99,57.99,medium,low,17,namesilo,,,
 4576d7d8-322b-4e68-a892-76f4d9c2ed95,influence.hospital,available,55.98,71.98,medium,low,9,namecheap,,,08/09/2026 08:44
@@ -343,7 +343,7 @@ e5a6573f-7779-4a18-9fa2-412911250a97,alarm.hospital,available,55.98,71.98,medium
 0843b4c9-7d5b-4f34-b153-16dca545de73,actor.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 8b68fccd-2856-448b-809b-087c3d6db0ec,asymmetric.hospital,available,55.98,71.98,low,low,10,namecheap,,,07/08/2026 10:25
 b2216564-0cfc-46ed-9603-aad622508cbb,fight.hospital,available,57.99,57.99,high,low,5,namesilo,,,
-4de875a4-b62f-4412-a73c-e7702ec0cc25,accommodate.hospital,available,71.98,,high,low,11,namecheap,,,
+4de875a4-b62f-4412-a73c-e7702ec0cc25,accommodate.hospital,available,71.98,,medium,low,11,namecheap,,,
 0af8912d-1250-4ffb-896d-d69123439915,ranking.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 17edf179-e2a3-4b6c-a973-b999261a4a81,glass.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
 ba5b5958-fef3-4926-b57f-106bcdda33f8,french.hospital,available,57.99,57.99,high,low,6,namesilo,,,
@@ -364,9 +364,9 @@ ee852c15-247e-4f6e-8d9d-0d538ff82c1b,lxxiv.hospital,available,55.98,71.98,low,lo
 a588e4cd-cb07-4c5b-ac1e-c8e02086a90f,recession.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
 f1cd6825-648c-4c80-b0ca-7b469b71095a,peace.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 88f773b1-7cd1-4dbf-985d-07778849998d,matrixgroup.hospital,available,71.98,,medium,low,12,namecheap,,,
-b8e83ece-3561-4027-9ba9-48052fcb203b,network.hospital,available,57.99,57.99,low,low,7,namesilo,,,19/09/2026 04:36
+b8e83ece-3561-4027-9ba9-48052fcb203b,network.hospital,available,57.99,57.99,low,low,7,namesilo,,,23/09/2026 02:58
 b14dc1e6-2c1b-4633-94eb-14cccc3a7295,fellowman.hospital,available,57.99,57.99,low,low,10,namesilo,,,21/09/2026 03:03
-217b93b5-60b2-4f58-945f-1e614f1db83e,reliable.hospital,available,57.99,57.99,high,low,8,namesilo,,,
+217b93b5-60b2-4f58-945f-1e614f1db83e,reliable.hospital,available,55.98,71.98,medium,low,8,namecheap,,,22/09/2026 13:45
 62cd2ef8-a1b1-4209-9c70-fdd7ac3ba72a,foursome.hospital,available,55.98,71.98,low,low,8,namecheap,,,
 3cd4a843-6cf9-40c3-b615-71ff60d4dd98,amuse.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 139e67c8-e4e2-4a49-ab7e-bc49bb2dc18d,plate.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
@@ -379,7 +379,7 @@ abcfab12-5d07-4708-b8b9-a80a20ee8623,arboreal.hospital,available,55.98,71.98,low
 a0586894-69e1-4709-a29b-c5569923f0a4,headline.hospital,available,57.99,57.99,high,low,8,namesilo,,,
 009cb2d5-0d1a-42db-a3f4-8b9b86f1a13f,twine.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
 42bef5a7-9ebe-4260-ae0c-dd7d72a4cdb7,surfboard.hospital,available,71.98,,high,low,9,namecheap,,,
-229dbed6-315e-4946-b944-ab69a91ac3b9,setabout.hospital,available,71.98,,low,low,9,namecheap,,,
+229dbed6-315e-4946-b944-ab69a91ac3b9,setabout.hospital,available,57.99,57.99,low,low,9,namesilo,,,23/09/2026 02:19
 34d05e2a-2558-4942-94c4-6a49cdebceca,aplitic.hospital,available,55.98,71.98,low,low,7,namecheap,,,06/08/2026 00:35
 b0db45dd-54f7-4512-9040-dde9b67c5468,supportive.hospital,available,57.99,57.99,high,low,10,namesilo,,,
 7aa55e30-9080-400b-af0e-a3860ce1806a,grubby.hospital,available,55.98,71.98,low,low,6,namecheap,,,09/08/2026 09:31
@@ -413,13 +413,12 @@ e8a0a1f8-ab3d-490d-b397-8ef0dbbe226e,matte.hospital,available,57.99,57.99,high,l
 e4d47190-3fcd-470c-a3ed-c8f7b1e91b9f,hammer.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 7fb48b53-918d-441f-8f72-37977e02efd1,speedlimiter.hospital,available,57.99,57.99,medium,low,13,namesilo,,,
 e417d188-f707-41f9-85eb-0820269c302d,terrific.hospital,available,57.99,57.99,high,low,8,namesilo,,,
-f96ab964-5816-4dfa-8f70-88afd5e10bdf,older.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
 c9eb48c8-f8a5-4a9e-abb1-259630c52d8a,mere.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
 d1f3ca04-62a7-4ac2-be5a-c61a0f5b6e1a,inthelightof.hospital,available,57.99,57.99,medium,low,15,namesilo,,,
 65d3cc6a-fdbc-43f4-adbf-b5b929a848c4,havelittletimefor.hospital,available,71.98,,medium,low,20,namecheap,,,
 968f1491-6df0-4bdd-a75b-efd25565a5f8,nowandthen.hospital,available,57.99,57.99,low,low,12,namesilo,,,
 0aa47855-9043-4499-813d-4699888e31d0,aculeate.hospital,available,55.98,71.98,low,low,8,namecheap,,,
-ce92440a-5366-40e9-9626-c3098786cf2f,agreeable.hospital,available,57.99,57.99,high,low,9,namesilo,,,
+ce92440a-5366-40e9-9626-c3098786cf2f,agreeable.hospital,available,57.99,57.99,medium,low,9,namesilo,,,21/09/2026 23:17
 c363fd19-447b-45ee-9ace-cb3235989e31,superman.hospital,available,57.99,57.99,high,low,8,namesilo,,,
 1637d459-5d3a-4ba3-99fa-465a6bd93f1d,standfirm.hospital,available,57.99,57.99,high,low,10,namesilo,,,
 3a3da505-299a-4099-95d4-d94f4129e8ba,comeupon.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
@@ -435,7 +434,7 @@ acaeacd8-309f-45ef-8ed3-c129b9370970,change.hospital,available,57.99,57.99,high,
 8660e705-f3b7-4d02-a119-7cd028b5799b,onemoment.hospital,available,57.99,57.99,high,low,10,namesilo,,,
 7979d62a-dbe5-47fa-bd0b-5a80b5466b90,nearest.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
 1a2c7b73-d54e-4c1e-8c60-4177adb77277,steel.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
-ab97b3cd-0b9f-4bd9-bc1c-c977183ac210,aaa.hospital,available,57.99,57.99,high,medium,3,namesilo,,,
+ab97b3cd-0b9f-4bd9-bc1c-c977183ac210,aaa.hospital,available,57.99,57.99,medium,medium,3,namesilo,,,
 580a0f20-29da-469c-8060-f9b5f20aa668,gun.hospital,available,57.99,57.99,medium,low,3,namesilo,,,
 0a34d33b-1ff2-4430-8490-c9e3c75cdbbe,scowling.hospital,available,55.98,71.98,low,low,8,namecheap,,,09/08/2026 08:33
 b63b59c7-8c11-4be8-b5aa-8a98d98f138a,lowdown.hospital,available,55.98,71.98,low,low,8,namecheap,,,
@@ -468,12 +467,12 @@ b7255f94-7220-47c7-a7d1-8c773d96a18f,executing.hospital,available,57.99,57.99,me
 df026e53-c654-4ce2-9bc3-bf9dbebbf10b,resume.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 6c19bc16-6e07-4bf9-ab16-11fedecbc307,ackack.hospital,available,55.98,71.98,low,low,7,namecheap,,,
 33869379-1d56-4a82-bb07-479c1ba8d7c6,reversed.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
-df261f9b-9749-40e3-a93c-4c91bf2de428,clear.hospital,available,57.99,57.99,high,medium,5,namesilo,,,
+df261f9b-9749-40e3-a93c-4c91bf2de428,clear.hospital,available,57.99,57.99,medium,low,5,namesilo,,,21/09/2026 14:46
 01ceb56e-e812-4229-bdb0-0147eedeefbc,always.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 296f827a-8482-4b96-9c3d-3c162b4f11d6,setting.hospital,available,71.98,,high,low,7,namecheap,,,
 e545d0a2-5ef4-44fd-ba25-07a9c6cf3bd7,mum.hospital,available,57.99,57.99,high,low,3,namesilo,,,
 f82692f8-600e-4f7e-8eef-e248f70ff4c3,intervening.hospital,available,57.99,57.99,medium,low,11,namesilo,,,
-365cd7df-ee6e-4483-a157-9e527c1e9d6a,crimson.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+365cd7df-ee6e-4483-a157-9e527c1e9d6a,crimson.hospital,available,55.98,71.98,medium,low,7,namecheap,,,22/09/2026 22:28
 e6a9d4ba-31e9-44c2-b2ec-0c54f54b3e9a,leaf.hospital,available,57.99,57.99,high,low,4,namesilo,,,
 fc9d5d07-2730-49a9-9d2f-5d6dafc71818,fighting.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
 de0788dd-51f2-448a-a1d9-6241030a8762,saytheword.hospital,available,57.99,57.99,low,low,12,namesilo,,,
@@ -505,7 +504,7 @@ a4846194-2d32-4558-b548-03d5cf1d297d,feather.hospital,available,57.99,57.99,medi
 7bc1774f-8385-476c-9a7a-27b233d42601,sad.hospital,available,57.99,57.99,high,low,3,namesilo,,,
 b355fed3-9366-433b-b7d0-145b8587b3be,ashblonde.hospital,available,55.98,71.98,low,low,10,namecheap,,,07/08/2026 01:43
 5c4c4524-973c-4631-945c-a6958126439f,testimony.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
-a271dfd7-5f04-400e-bf3c-46be9941932c,automotive.hospital,available,57.99,57.99,high,low,10,namesilo,,,
+a271dfd7-5f04-400e-bf3c-46be9941932c,automotive.hospital,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 14:07
 d9d292c8-6e47-4730-84a3-b427f6b5395f,course.hospital,available,57.99,57.99,medium,low,6,namesilo,,,20/09/2026 02:53
 1adae33e-66ff-4331-9b50-6072b36cc124,notion.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 e47be33f-60ac-4cbf-b918-e26e30bdab0b,motivate.hospital,available,57.99,57.99,high,low,8,namesilo,,,
@@ -515,7 +514,7 @@ ed1add6b-a81b-4c7a-9dd9-2256ea7810d0,formless.hospital,available,55.98,71.98,low
 ff21d0f2-c8f0-4adf-bf07-c143efa0aa3b,trip.hospital,available,55.98,71.98,medium,low,4,namecheap,,,08/09/2026 04:57
 cddf3541-19c5-4c76-8a90-7665596725bd,suit.hospital,available,57.99,57.99,high,low,4,namesilo,,,
 cdaa4e4c-ff58-4466-9f68-c91e1d48608a,xciv.hospital,available,55.98,71.98,low,low,4,namecheap,,,
-ced44377-3616-48e4-aabf-fe1e8d96c09b,foreman.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
+ced44377-3616-48e4-aabf-fe1e8d96c09b,foreman.hospital,available,57.99,57.99,low,low,7,namesilo,,,23/09/2026 00:59
 12a0bb90-63be-4806-857b-51d15d72f2f7,antiphonal.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 f9f4b15c-2eb0-4440-aa64-2b8c8a93213d,aslant.hospital,available,55.98,71.98,low,low,6,namecheap,,,07/08/2026 03:56
 9b4d6dbb-7bcf-4dbd-b53e-06821d8512c0,mainly.hospital,available,57.99,57.99,high,low,6,namesilo,,,
@@ -535,24 +534,24 @@ baf82a12-dad7-434b-bcca-5f382c6be3c5,torrid.hospital,available,55.98,71.98,low,l
 333d7e07-f096-4529-8f1d-a82e9e73b908,hotsauce.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 6d4e09af-fcbd-4618-bf09-a274886f644f,intended.hospital,available,57.99,57.99,high,low,8,namesilo,,,
 c7decc6e-0120-45b0-82d8-715e10590fa4,squirrel.hospital,available,57.99,57.99,high,low,8,namesilo,,,
-99975baa-f80b-4e05-93cd-bf26bc519cdf,answering.hospital,available,71.98,,high,low,9,namecheap,,,
+99975baa-f80b-4e05-93cd-bf26bc519cdf,answering.hospital,available,57.99,57.99,medium,low,9,namesilo,,,22/09/2026 05:38
 4ed95c96-5e40-4400-bcd8-1615850f6f08,atlast.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 9485da06-ae34-4b4d-88ce-49f087fd5212,nutritive.hospital,available,55.98,71.98,medium,low,9,namecheap,,,08/09/2026 09:04
 0ebb291a-41d0-4d2d-ae8d-e3329e669983,doctor.hospital,resell,,,high,low,6,Dot Holding Inc.,10/06/2019 21:27,10/06/2030 21:27,
 2ee106a2-d16c-4e38-bbd9-1bbab79430b4,await.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 314ec31a-4d29-4813-ac47-bc3487f1cd1d,assiduous.hospital,available,55.98,71.98,low,low,9,namecheap,,,07/08/2026 06:09
-67dadf9a-2afb-46b4-93fc-32223c889bef,champion.hospital,available,57.99,57.99,high,low,8,namesilo,,,
+67dadf9a-2afb-46b4-93fc-32223c889bef,champion.hospital,available,57.99,57.99,medium,low,8,namesilo,,,21/09/2026 17:32
 bcfeb69e-f902-4366-b50c-fc4a4b2d1781,accursed.hospital,available,55.98,71.98,low,low,8,namecheap,,,
 958baa13-92e3-40d5-aee5-e7a87ee9c8de,closeinon.hospital,available,57.99,57.99,high,low,11,namesilo,,,
 6ecb3977-878f-4509-b085-db8af6d5fb30,sixth.hospital,available,55.98,71.98,low,low,5,namecheap,,,
 36e9278d-e691-4cf0-805e-dd2b602c1e2b,consultant.hospital,available,57.99,57.99,high,low,10,namesilo,,,
-1fad0615-9474-4a34-a437-a0700d185ce6,video.hospital,available,57.99,57.99,medium,low,5,namesilo,,,19/09/2026 06:19
+1fad0615-9474-4a34-a437-a0700d185ce6,video.hospital,available,57.99,57.99,medium,low,5,namesilo,,,23/09/2026 05:10
 955c3e11-2ecf-4fc8-b2c6-9ae3b78f10db,frame.hospital,available,57.99,57.99,medium,low,5,namesilo,,,
-ceaca417-74aa-402a-8b12-c71a428c85c2,crucial.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+ceaca417-74aa-402a-8b12-c71a428c85c2,crucial.hospital,available,55.98,71.98,medium,low,7,namecheap,,,22/09/2026 00:39
 4a65bf8d-7dff-4dcf-9933-214d8003457c,achy.hospital,available,55.98,71.98,low,low,4,namecheap,,,
 b7b5cea9-04e9-41eb-b054-3795a3607bf8,anopheline.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 b8d8a16d-83eb-4a2a-bf9e-e1968ca460e7,darken.hospital,available,57.99,57.99,high,low,6,namesilo,,,
-88753979-2016-4e0b-b48b-b3e7fcd67515,backward.hospital,available,57.99,57.99,high,low,8,namesilo,,,
+88753979-2016-4e0b-b48b-b3e7fcd67515,backward.hospital,available,55.98,71.98,low,low,8,namecheap,,,22/09/2026 15:53
 e841b5e1-de1d-4047-b3e7-4e55767accde,juice.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 bb70601d-1761-463f-8c5b-943de42c3b75,germanshepherd.hospital,available,57.99,57.99,high,low,15,namesilo,,,
 fb614bc5-0536-4ee9-a9c2-eee896d0f28c,eonian.hospital,available,55.98,71.98,low,low,6,namecheap,,,
@@ -567,7 +566,7 @@ e3174854-0001-41bc-8198-29593cecdf19,clayey.hospital,available,55.98,71.98,low,l
 c994d4ff-ab6b-435d-a786-e075bfe9dae0,song.hospital,available,57.99,57.99,high,low,4,namesilo,,,
 988ce1c4-b8d1-431f-9314-4c80c7c7e947,placating.hospital,available,55.98,71.98,low,low,9,namecheap,,,06/08/2026 06:02
 34e99a0e-9b23-4560-baa7-ddd8e046670d,against.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
-f54c0ad8-96dd-4707-afbd-ea9f0e22989c,amateur.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+f54c0ad8-96dd-4707-afbd-ea9f0e22989c,amateur.hospital,available,55.98,71.98,low,low,7,namecheap,,,22/09/2026 03:21
 b2853ec3-cf2c-42a4-a05d-af7fc285c705,prayer.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 68501f13-fc5c-4aa7-af64-b6d148d2fee5,grow.hospital,available,57.99,57.99,high,medium,4,namesilo,,,
 6c30e873-3bb7-4f71-8bcd-e276af6403be,arbitrary.hospital,available,55.98,71.98,low,low,9,namecheap,,,06/08/2026 12:54
@@ -600,7 +599,7 @@ aa4f86ee-f99c-42aa-8d6b-a2e4db1593e7,doyoumind.hospital,available,71.98,,medium,
 077e8499-a530-4cd4-a250-5f5040f71ae7,europeanhedgehog.hospital,available,57.99,57.99,medium,low,17,namesilo,,,
 d4724842-4a4e-4917-964f-9e4cc3b82737,allowance.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 ae8bd587-fccb-4bb9-951a-a8f42258b48c,colours.hospital,available,57.99,57.99,high,low,7,namesilo,,,
-b6104050-5031-4ed5-b8fd-dfc0664c0cb1,xvi.hospital,available,57.99,57.99,medium,low,3,namesilo,,,
+b6104050-5031-4ed5-b8fd-dfc0664c0cb1,xvi.hospital,available,57.99,57.99,low,low,3,namesilo,,,21/09/2026 11:49
 e4cf7368-53ba-4662-86da-8c2d1e5ff1dc,balking.hospital,available,55.98,71.98,low,low,7,namecheap,,,08/08/2026 09:50
 ec3c8980-bdd4-4bf6-9489-d4c8cf658cd8,appendant.hospital,available,55.98,71.98,low,low,9,namecheap,,,06/08/2026 06:34
 e70d2abd-a4d1-4b9e-8bd8-80c446a6aed1,atomistic.hospital,available,55.98,71.98,low,low,9,namecheap,,,07/08/2026 13:42
@@ -620,7 +619,7 @@ b8eb4eef-52c4-4673-925e-47d5462b6e6a,mill.hospital,available,57.99,57.99,high,lo
 219fd708-eba3-4ab1-bb46-c5fdcbd2ff10,auriform.hospital,available,55.98,71.98,low,low,8,namecheap,,,07/08/2026 17:57
 0c6df170-cce3-4289-974a-16b4bfa9a80e,albinistic.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 bcc72875-3db3-4500-afe1-865f392874b9,blowout.hospital,available,71.98,,high,low,7,namecheap,,,
-aba6ac4d-92e9-4fa6-8786-c9f6eb048cb1,recognized.hospital,available,57.99,57.99,high,low,10,namesilo,,,
+aba6ac4d-92e9-4fa6-8786-c9f6eb048cb1,recognized.hospital,available,57.99,57.99,medium,low,10,namesilo,,,21/09/2026 15:28
 2bfc146c-6360-440e-b3b8-bbd7fafc6677,carrying.hospital,available,57.99,57.99,high,low,8,namesilo,,,
 3b3a2ee1-9b20-4042-afcd-3498e2653d32,claimform.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
 c8618656-1af9-4e78-8a85-6e1821bca7fa,beatout.hospital,available,55.98,71.98,low,low,8,namecheap,,,09/08/2026 05:17
@@ -646,7 +645,7 @@ afb954fa-361a-46e0-847d-76c17083fede,ametabolic.hospital,available,55.98,71.98,l
 9c016ef1-ff1c-4af3-8421-eecb7858d8ad,essayquestion.hospital,available,71.98,,medium,low,14,namecheap,,,
 3ab607be-5da8-4a4d-90fb-1f7aa9cac98a,apotropaic.hospital,available,55.98,71.98,low,low,10,namecheap,,,06/08/2026 04:25
 f6b02533-a8c8-4b92-8e25-76a11a83817d,sisterinlaw.hospital,available,57.99,57.99,low,low,13,namesilo,,,
-4b7c09ff-f342-42d5-a56a-f1784c5a2a80,likewise.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
+4b7c09ff-f342-42d5-a56a-f1784c5a2a80,likewise.hospital,available,57.99,57.99,low,low,8,namesilo,,,22/09/2026 00:06
 9a94e42a-a3cc-4ee7-9521-45873c165ad8,scrubbed.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
 7d582c82-a482-4a46-9b6f-35e75ecb5173,except.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 39e5809b-9f43-4476-830a-f88440781aff,resultant.hospital,available,55.98,71.98,low,low,9,namecheap,,,
@@ -681,7 +680,7 @@ a781aa9a-eda3-4de1-8489-4920b265c51f,significantly.hospital,available,57.99,57.9
 7cdcaf27-53a9-47be-9494-1e5e776f930a,rearwards.hospital,available,55.98,71.98,low,low,9,namecheap,,,08/08/2026 06:56
 c5344615-d244-414d-942f-f401a9d5c5c6,negotiate.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 857ee9bc-acd5-410f-9d37-cd8bed980bd8,definitely.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
-9bf43299-67cd-40de-af83-94ceec20c85f,fullscale.hospital,available,57.99,57.99,high,low,10,namesilo,,,
+9bf43299-67cd-40de-af83-94ceec20c85f,fullscale.hospital,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 00:50
 fa61c208-4ced-4f19-86d2-a10083cfc756,folding.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 df7c9019-0d83-4cf7-bda6-c811c71a0f0e,keepthepeace.hospital,available,57.99,57.99,high,low,14,namesilo,,,
 a26bc661-4f79-4d7f-998d-7c9f5a2b5b03,diplomat.hospital,available,57.99,57.99,high,low,8,namesilo,,,
@@ -695,7 +694,7 @@ c422e024-7c0b-45d6-a49f-4957396cbe38,stood.hospital,available,57.99,57.99,low,lo
 ff7bac78-9592-489d-a450-84b4124d7d70,class.hospital,available,71.98,,high,low,5,namecheap,,,
 e16a2e6f-0047-4125-a89e-4528e18c0b63,swiftly.hospital,available,71.98,,medium,low,7,namecheap,,,
 60d6b12e-e75b-42ac-b9a4-87471b418899,touching.hospital,available,55.98,71.98,medium,low,8,namecheap,,,
-45c95e7f-07b6-4483-b608-fa527f372ead,tenth.hospital,available,57.99,57.99,high,low,5,namesilo,,,
+45c95e7f-07b6-4483-b608-fa527f372ead,tenth.hospital,available,55.98,71.98,medium,low,5,namecheap,,,21/09/2026 11:17
 bf098baf-87d2-407f-83b5-4b90428ac3b9,destructive.hospital,available,71.98,,medium,low,11,namecheap,,,
 8bdfbdf4-2f69-47b3-86cc-accb00d1e46f,thrown.hospital,available,57.99,57.99,medium,low,6,namesilo,,,
 ce3e611b-1985-4bb8-a23b-9f4b46fadb9e,exercising.hospital,available,57.99,57.99,high,low,10,namesilo,,,
@@ -736,9 +735,9 @@ a28e354c-ca97-43e0-ad1a-7a631890eedc,free.hospital,available,57.99,57.99,high,me
 1c3fb30a-db78-4adc-afa0-b5fdbe44c123,flipthebird.hospital,available,71.98,,medium,low,13,namecheap,,,
 ce56b859-71ed-43ad-a9b6-9e9064976f51,effort.hospital,available,57.99,57.99,medium,low,6,namesilo,,,19/09/2026 09:55
 0897d5bc-4aa3-499d-a919-5e06a47c0a1f,supposedly.hospital,available,57.99,57.99,medium,low,10,namesilo,,,
-e790905a-031f-4c04-ab9f-78a63daad7c0,damned.hospital,available,57.99,57.99,medium,low,6,namesilo,,,
+e790905a-031f-4c04-ab9f-78a63daad7c0,damned.hospital,available,57.99,57.99,low,low,6,namesilo,,,22/09/2026 21:41
 683641a5-c93b-48eb-ab2d-0b6bfee6f19e,dingy.hospital,available,55.98,71.98,low,low,5,namecheap,,,09/08/2026 09:20
-4bb9535c-e501-4025-b23a-2227b20911dc,bounce.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+4bb9535c-e501-4025-b23a-2227b20911dc,bounce.hospital,available,57.99,57.99,medium,low,6,namesilo,,,23/09/2026 01:22
 fb21f962-9f80-4f1a-a764-42d2ed41f8b6,hill.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
 bfcd5845-37bc-4aa0-8dcb-59bfb965dc3e,bidens.hospital,available,57.99,57.99,medium,low,6,namesilo,,,
 2c1468b1-f5aa-4488-a791-7faa0e55ee05,text.hospital,available,57.99,57.99,high,medium,4,namesilo,,,
@@ -782,7 +781,7 @@ d9fff922-d75d-4a82-942a-a2fd00fa067e,kilometre.hospital,available,57.99,57.99,hi
 1797064e-b640-4e4d-98ed-53dad2613e84,uncle.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 e9a4c457-6ebf-4f17-9c91-74b46af89be2,allargando.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 22a97622-a83d-49d7-ac58-840a5acc2436,biteme.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
-93f77b82-a7d9-401a-b3dd-5d075098ec3e,edge.hospital,available,57.99,57.99,high,medium,4,namesilo,,,
+93f77b82-a7d9-401a-b3dd-5d075098ec3e,edge.hospital,available,57.99,57.99,low,low,4,namesilo,,,23/09/2026 01:34
 37644435-3a80-4bff-aae4-42c10e809423,campaigning.hospital,available,57.99,57.99,medium,low,11,namesilo,,,
 5bf5ff9c-d580-4fb8-a4d9-e0998fc6a2db,stating.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 4ca0fa32-fc1d-42f7-9b28-7cf7bc688846,amnionic.hospital,available,55.98,71.98,low,low,8,namecheap,,,
@@ -797,10 +796,10 @@ b9cf6290-b963-4aa6-a81b-5d61f866e513,businesstrip.hospital,available,57.99,57.99
 ba1adf03-ef48-4c6a-94e2-fc822e68cccc,water.hospital,available,55.98,71.98,medium,medium,5,namecheap,,,08/09/2026 13:05
 a60f3099-47da-4bd9-84ab-226146b42315,sickandtired.hospital,available,57.99,57.99,medium,low,14,namesilo,,,
 9b19acc5-7645-417c-81d4-d6e22ae5c01e,fibre.hospital,available,57.99,57.99,high,low,5,namesilo,,,
-d38ca935-7b9e-489e-b874-0e042301ad28,prank.hospital,available,71.98,,high,low,5,namecheap,,,
-73280c49-4eda-4427-9ed5-90784dd969e9,annual.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+d38ca935-7b9e-489e-b874-0e042301ad28,prank.hospital,available,57.99,57.99,medium,low,5,namesilo,,,22/09/2026 06:23
+73280c49-4eda-4427-9ed5-90784dd969e9,annual.hospital,available,57.99,57.99,medium,low,6,namesilo,,,22/09/2026 05:27
 86304d38-e149-4937-b294-ffe2ac16c46b,profitmargin.hospital,available,71.98,,high,low,13,namecheap,,,
-e7a19339-b668-4e70-8444-8be1397d01ad,aged.hospital,available,57.99,57.99,high,low,4,namesilo,,,
+e7a19339-b668-4e70-8444-8be1397d01ad,aged.hospital,available,57.99,57.99,medium,low,4,namesilo,,,21/09/2026 22:26
 a22da45b-39d0-4ae3-9f67-f405fe88422c,paying.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 5619da0a-7db7-4691-9966-a5da7019fee5,childendangerment.hospital,available,57.99,57.99,medium,low,18,namesilo,,,
 7957ae81-54de-4eea-b3c9-aed142d7694e,steady.hospital,available,57.99,57.99,high,low,6,namesilo,,,
@@ -859,17 +858,17 @@ ac314003-dd57-4459-b5b2-992df56de230,firstcousin.hospital,available,57.99,57.99,
 8cdc5f9a-f611-4690-b818-5c27616b2661,backstair.hospital,available,55.98,71.98,low,low,9,namecheap,,,08/08/2026 06:21
 cfd7b4e3-65aa-46e1-a395-3fa0967fd9d9,kirkland.hospital,available,,,high,low,8,,,,
 5ef5f665-1640-4cb6-948d-58f5f0c6d02d,intrinsic.hospital,available,57.99,57.99,high,low,9,namesilo,,,
-8205218f-a5e7-4cd6-83bc-01737539c48b,black.hospital,available,57.99,57.99,high,medium,5,namesilo,,,
+8205218f-a5e7-4cd6-83bc-01737539c48b,black.hospital,available,55.98,71.98,medium,low,5,namecheap,,,22/09/2026 21:16
 0de01ebf-27cc-41c1-87a0-b649f8ad4315,aspirant.hospital,available,55.98,71.98,low,low,8,namecheap,,,07/08/2026 05:02
 705c5efc-5234-4b82-a564-f820216c8941,ablative.hospital,available,55.98,71.98,low,low,8,namecheap,,,
-379a831c-b444-404d-baeb-7788588743a4,affluent.hospital,available,57.99,57.99,high,low,8,namesilo,,,
+379a831c-b444-404d-baeb-7788588743a4,affluent.hospital,available,57.99,57.99,medium,low,8,namesilo,,,21/09/2026 21:54
 624d6802-48fb-44d7-a9cd-7017d3862cb1,sportsdrink.hospital,available,57.99,57.99,high,low,12,namesilo,,,
 06d08eb0-9bc8-42e6-8bc4-b3e81c7aee70,wakeup.hospital,available,55.98,71.98,medium,low,7,namecheap,,,07/08/2026 23:56
 9879d817-cbc4-4068-9ec3-27f50b8a6ede,socialcapital.hospital,available,57.99,57.99,low,low,14,namesilo,,,
-6864a800-0b19-4caf-8fbd-c85daa015d6c,dock.hospital,available,57.99,57.99,high,low,4,namesilo,,,
+6864a800-0b19-4caf-8fbd-c85daa015d6c,dock.hospital,available,57.99,57.99,low,low,4,namesilo,,,22/09/2026 23:34
 789839f4-9b83-411a-b819-3e426e11f7c5,workings.hospital,available,57.99,57.99,high,low,8,namesilo,,,
 671f8a81-0fd5-4633-bff5-c3e37edb469c,wrecked.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
-ba26b8fa-e350-4f38-9483-7b19457238ef,nine.hospital,available,57.99,57.99,high,low,4,namesilo,,,
+ba26b8fa-e350-4f38-9483-7b19457238ef,nine.hospital,available,55.98,71.98,low,low,4,namecheap,,,21/09/2026 13:23
 8393b71b-e06f-402b-90ac-8aff54a32e21,trader.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 0c98e13b-095c-452d-b21f-c178f4b99e60,caught.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 32b45ed1-42f0-42c5-93fd-7eabf225d474,rowingboat.hospital,available,57.99,57.99,high,low,11,namesilo,,,
@@ -881,7 +880,7 @@ af52dbbe-1dcf-484d-ac3f-32cec2f61fd8,his.hospital,available,57.99,57.99,high,low
 d1c358df-df3d-4330-a15d-5603d45df16e,student.hospital,available,71.98,,high,low,7,namecheap,,,
 529bf6e1-da60-4f0f-9bd8-c935aea97e81,wicked.hospital,available,71.98,,high,low,6,namecheap,,,
 7c3feb28-e209-480b-b3ec-39d90224309a,stepson.hospital,available,71.98,,high,low,7,namecheap,,,
-5997596e-b342-481a-95e6-868c4c64bc4c,futile.hospital,available,57.99,57.99,medium,low,6,namesilo,,,
+5997596e-b342-481a-95e6-868c4c64bc4c,futile.hospital,available,57.99,57.99,low,low,6,namesilo,,,22/09/2026 23:49
 fad233ae-30e0-4580-977e-f1cbe0f70ead,territory.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 0a7b4d5a-6d03-49a3-a515-2384bf197766,satisfy.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 e9a7348a-9868-48ec-8dd7-84e1ddb8cab1,facts.hospital,available,55.98,71.98,medium,low,5,namecheap,,,20/09/2026 19:39
@@ -889,7 +888,7 @@ e9a7348a-9868-48ec-8dd7-84e1ddb8cab1,facts.hospital,available,55.98,71.98,medium
 27f80397-08ae-407d-9777-1c241505d9c7,streets.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 6500ab98-5998-4c82-afda-9b893776aaaf,minute.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 8c7af473-fbe9-4fea-8a56-b17f9b932f71,ariled.hospital,available,55.98,71.98,low,low,6,namecheap,,,06/08/2026 19:09
-75b5e232-58c0-494a-ac65-b6436ea120f4,boundary.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
+75b5e232-58c0-494a-ac65-b6436ea120f4,boundary.hospital,available,55.98,71.98,low,low,8,namecheap,,,23/09/2026 01:32
 b441024f-ce80-41fb-a757-ba714c89970a,spiderweb.hospital,available,57.99,57.99,high,low,10,namesilo,,,
 54b9520a-0080-49a1-b8ba-2e80f386d83f,wonderful.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 6e8b97a6-a2cd-4c14-9aa9-b27ab40a230e,bringon.hospital,available,57.99,57.99,high,low,8,namesilo,,,
@@ -916,9 +915,8 @@ bbb684e0-cc6c-4e25-a7f5-6cae37793efb,pubichair.hospital,available,71.98,,low,low
 bc12bbee-74cd-41b6-b95a-a7fb38045fdb,categorically.hospital,available,57.99,57.99,medium,low,13,namesilo,,,
 dd8cf66e-78f2-4265-b0c1-a2e737b5006b,blackthursday.hospital,available,57.99,57.99,medium,low,14,namesilo,,,
 0b9f84a2-2dbe-4f29-be19-128948419b57,hell.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
-d8d4b87c-98c5-4344-9bc9-2a2f56314c75,exemplary.hospital,available,57.99,57.99,high,low,9,namesilo,,,
+d8d4b87c-98c5-4344-9bc9-2a2f56314c75,exemplary.hospital,available,55.98,71.98,medium,low,9,namecheap,,,21/09/2026 18:58
 f2d70e4f-4713-44ce-8f38-177ae0fcabf7,beatific.hospital,available,55.98,71.98,low,low,8,namecheap,,,
-0b69ee18-62a6-437d-9888-21753cf012a3,can.hospital,available,,,medium,high,3,,,,
 ad4602b2-cd60-4b56-b8d7-9c5af322bf5e,credible.hospital,available,55.98,71.98,medium,low,8,namecheap,,,09/08/2026 12:56
 34ccbe56-0041-4bc0-8223-e4e78685d7ab,longdozen.hospital,available,55.98,71.98,low,low,10,namecheap,,,
 c1dbb58d-8291-44b5-b7d3-563dec662ef0,anaemia.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
@@ -948,7 +946,7 @@ e4aca4be-caab-4be0-a999-17a450bfec27,mmr.hospital,available,57.99,57.99,high,low
 11093a43-e058-4ff4-ba78-bbb9ad991dc3,countries.hospital,available,71.98,,medium,low,9,namecheap,,,
 6f9b767c-7768-413a-891b-1551835208a8,wakingup.hospital,available,57.99,57.99,high,low,9,namesilo,,,
 2dc75d83-a3a4-461a-bc3e-303295312644,facilitate.hospital,available,57.99,57.99,high,low,10,namesilo,,,
-ba9f39d1-9eaf-40a3-94a4-34a4b69dba2f,animate.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+ba9f39d1-9eaf-40a3-94a4-34a4b69dba2f,animate.hospital,available,57.99,57.99,medium,low,7,namesilo,,,22/09/2026 04:47
 de702821-a859-4fc6-8e79-82e6cbc68180,bomb.hospital,available,71.98,,medium,low,4,namecheap,,,
 22792d0c-9bca-4fa6-842f-48e4356bff46,awed.hospital,available,55.98,71.98,low,low,4,namecheap,,,08/08/2026 00:44
 279046c9-0f96-47c9-bb4e-4ff7abfbf4f1,shoes.hospital,available,57.99,57.99,high,low,5,namesilo,,,
@@ -975,7 +973,7 @@ edd99c1f-644a-4210-b314-75fab579aa65,pustulate.hospital,available,55.98,71.98,lo
 4724459e-83af-4ddd-b453-5955ca988e4c,volkswagen.hospital,available,57.99,57.99,high,low,10,namesilo,,,
 98408db5-5005-4095-9295-d7a8684dec76,apterous.hospital,available,55.98,71.98,low,low,8,namecheap,,,06/08/2026 10:29
 ae211b71-6687-4081-b6fe-9b08102819ca,airdried.hospital,available,55.98,71.98,low,low,9,namecheap,,,
-1238bcef-81d1-4e20-8696-2228e416cb01,fork.hospital,available,57.99,57.99,high,low,4,namesilo,,,
+1238bcef-81d1-4e20-8696-2228e416cb01,fork.hospital,available,57.99,57.99,medium,low,4,namesilo,,,23/09/2026 02:18
 3e8dfd35-b6d9-4ed0-91e2-35eaac21d9a9,abomasal.hospital,available,55.98,71.98,low,low,8,namecheap,,,
 b769c567-ace9-4dfe-9029-7a09533f0450,nana.hospital,available,57.99,57.99,high,low,4,namesilo,,,
 b386362d-bc39-429d-9725-ff65e33bbab4,pound.hospital,available,71.98,,medium,low,5,namecheap,,,
@@ -985,10 +983,10 @@ f7f386b2-209a-4e1b-b303-1736fab4f1da,victor.hospital,available,,,medium,low,6,,,
 03df125c-b55d-4848-b58e-f5411b60012e,yesandno.hospital,available,57.99,57.99,low,low,10,namesilo,,,
 5232df0f-bb81-4ec7-a966-42066b9e1937,tasting.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 da23c435-465d-4360-b2c3-5167f4b829e7,anadromous.hospital,available,55.98,71.98,low,low,10,namecheap,,,
-c50f8c1e-dcfb-4475-a8f3-e23d0f23f16a,broadcast.hospital,available,55.98,71.98,medium,low,9,namecheap,,,19/09/2026 05:03
-f067c21a-ea21-4593-8e5c-2b54d4deba5d,abandoned.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
+c50f8c1e-dcfb-4475-a8f3-e23d0f23f16a,broadcast.hospital,available,57.99,57.99,medium,low,9,namesilo,,,23/09/2026 04:24
+f067c21a-ea21-4593-8e5c-2b54d4deba5d,abandoned.hospital,available,57.99,57.99,low,low,9,namesilo,,,21/09/2026 13:36
 6cc7f85e-04f6-4a45-9f32-15a97596845f,throwabout.hospital,available,57.99,57.99,low,low,11,namesilo,,,
-943ce1d5-977a-4c72-85fb-527c509cd6a6,spring.hospital,available,57.99,57.99,medium,low,6,namesilo,,,
+943ce1d5-977a-4c72-85fb-527c509cd6a6,spring.hospital,available,57.99,57.99,medium,low,6,namesilo,,,23/09/2026 01:43
 0e9e830f-8eff-4a01-8b73-aa15fe36345a,goodasgold.hospital,available,57.99,57.99,high,low,12,namesilo,,,
 4c25e9f7-d17a-4687-b786-9608bf882618,sushi.hospital,available,71.98,,high,low,5,namecheap,,,
 7c10af80-35c7-4b97-8062-f7d00203ba71,cheated.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
@@ -999,3 +997,5 @@ d330df30-5878-4246-9d41-968c7d6bca55,varied.hospital,available,57.99,57.99,mediu
 b2245d2d-ea15-45b9-9f94-f2e2e3a27b73,mothahfuggah.hospital,available,57.99,57.99,medium,low,12,namesilo,,,
 925464d9-1c9a-4c8a-814a-7a513c48b66d,djia.hospital,available,57.99,57.99,medium,low,4,namesilo,,,
 a74b78da-dbc1-4c5d-b42d-d9f6c1dfd760,giveinto.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
+f624b2b0-c94a-459d-ad76-4fc2a0b40d2f,aug.hospital,available,55.98,71.98,low,low,3,namecheap,,,07/08/2026 17:10
+7f4bcbf9-872d-45b3-9423-7ce5da0b61cd,contingent.hospital,available,57.99,57.99,high,low,10,namesilo,,,
