@@ -1,19 +1,24 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 86ccc14a-1951-4e3d-b8ee-b405233e6ec0,arthropoda.hospital,available,57.99,57.99,high,low,10,namesilo,,,20/09/2026 10:41
+d1b1c98f-afa4-4ec6-a15b-060779d4f0c6,redesign.hospital,available,47.3,47.3,high,low,8,dynadot,,,30/09/2026 19:12
 7081ac2d-f284-4e84-b003-4cf22f2f3817,ornery.hospital,available,55.98,71.98,medium,low,6,namecheap,,,13/08/2026 08:28
 5c328a94-4ae3-4340-8966-149744a28c02,buxom.hospital,available,55.98,71.98,medium,low,5,namecheap,,,10/08/2026 20:28
 fa92c480-c07c-4455-a2f9-67072197d058,consumed.hospital,available,45.74,45.74,medium,low,8,spaceship,,,28/09/2026 22:51
-4dc037dc-ff3c-4a13-8ca3-86b468086744,obtain.hospital,available,57.99,57.99,high,low,6,namesilo,,,27/09/2026 06:58
+bfaf1f69-2d8b-4ab4-a2be-1f1546fd3273,withhold.hospital,available,44.2,44.2,high,low,8,cloudflare,,,30/09/2026 19:13
+aa0201b3-53f2-4167-8cec-b577ae7483f9,phineas.hospital,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 05:12
+4dc037dc-ff3c-4a13-8ca3-86b468086744,obtain.hospital,available,55.98,71.98,high,low,6,namecheap,,,30/09/2026 21:13
 20ef104a-389c-4924-9b4f-5a449f8bd420,rising.hospital,available,55.98,71.98,high,low,6,namecheap,,,
 56ac4174-9f94-4b0b-82a4-5bd20a2a6518,interbrain.hospital,available,55.98,71.98,medium,low,10,namecheap,,,23/09/2026 11:55
 8af46b9e-7343-4357-b69a-c32bb078128f,whim.hospital,available,55.98,71.98,high,low,4,namecheap,,,24/09/2026 12:39
 1b191e37-dd7e-460f-b945-9313165061da,apian.hospital,available,55.98,71.98,medium,low,5,namecheap,,,05/08/2026 23:47
 ac739b46-8fa5-46dd-855c-874311da2af2,vertically.hospital,available,55.98,71.98,medium,low,10,namecheap,,,16/09/2026 10:53
+f54cee24-814f-4fca-910b-4619789cb8c3,rav.hospital,available,45.74,45.74,high,low,3,spaceship,,,30/09/2026 04:18
 6c1a4578-d790-46bd-b918-ed380cf103b7,anaerobe.hospital,available,57.99,57.99,medium,low,8,namesilo,,,19/09/2026 01:18
 0864c74d-7ee7-4d9d-87e5-1feec85d2197,dixon.hospital,available,55.98,71.98,medium,low,5,namecheap,,,25/09/2026 17:44
 ed1add6b-a81b-4c7a-9dd9-2256ea7810d0,formless.hospital,available,55.98,71.98,medium,low,8,namecheap,,,
 bc18fa0a-b7f7-43f6-a332-cb84b9c019d6,refunds.hospital,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 14:13
 b05c898c-e747-48d6-8496-d61c0cfc9f2d,valved.hospital,available,55.98,71.98,medium,low,6,namecheap,,,13/09/2026 01:03
+5b89fccf-a6f2-4fa2-bedb-234306bd3266,statesman.hospital,available,45.74,45.74,high,low,9,spaceship,,,30/09/2026 18:08
 94b824b4-a6c0-4e90-a478-2b21286eb078,sergey.hospital,available,57.99,57.99,medium,low,6,namesilo,,,29/09/2026 04:18
 318772ef-1cb9-4307-88f4-80ca2e09dfc2,performers.hospital,available,57.99,57.99,medium,low,10,namesilo,,,30/09/2026 00:18
 5c5a6a2b-b60e-4bdf-9362-e7c14f01985d,beasts.hospital,available,45.74,45.74,low,low,6,spaceship,,,28/09/2026 23:05
@@ -28,11 +33,12 @@ e3dc35f7-1763-4a92-b025-51b448776bf7,attempt.hospital,available,55.98,71.98,high
 c87ed4d0-e630-4efb-9784-deb5645ba55f,symbol.hospital,available,45.74,45.74,high,low,6,spaceship,,,28/09/2026 09:07
 e7e31d24-4ba2-4b7b-b8c2-7066265cc067,simpson.hospital,available,45.74,45.74,high,low,7,spaceship,,,29/09/2026 17:02
 0dfb8da0-a048-47f6-8db2-576a84c718e3,wiggler.hospital,available,57.99,57.99,medium,low,7,namesilo,,,19/09/2026 06:38
-5e3c6a0c-e6b8-427d-9516-1a3abef47617,sleeved.hospital,available,55.98,71.98,high,low,7,namecheap,,,10/09/2026 10:43
+5e3c6a0c-e6b8-427d-9516-1a3abef47617,sleeved.hospital,available,55.98,71.98,medium,low,7,namecheap,,,10/09/2026 10:43
 db5922ca-7cbd-4102-9640-efd23ea0b9f8,amish.hospital,available,55.98,71.98,high,low,5,namecheap,,,18/09/2026 21:52
-f6922513-d57b-4d72-9463-38510fed6a2f,fasten.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+f6922513-d57b-4d72-9463-38510fed6a2f,fasten.hospital,available,47.3,47.3,high,low,6,dynadot,,,30/09/2026 19:48
 f38214b8-81aa-4348-904a-b4ec0c4fb603,gaseous.hospital,available,55.98,71.98,medium,low,7,namecheap,,,18/08/2026 20:25
-1bf8ea9b-22a6-48d7-bc8c-79f13c859f1d,oncoming.hospital,available,55.98,71.98,high,low,8,namecheap,,,04/09/2026 14:27
+1bf8ea9b-22a6-48d7-bc8c-79f13c859f1d,oncoming.hospital,available,55.98,71.98,medium,low,8,namecheap,,,04/09/2026 14:27
+bdd6ac5d-fe83-43df-a0e8-2b72d27c2b7e,infiltration.hospital,available,45.74,45.74,medium,low,12,spaceship,,,30/09/2026 23:19
 0b3e59a3-0a21-439d-a811-08b40fe202f8,much.hospital,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 22:03
 84452d4a-3ae9-4cd5-8027-87ac37dbeaed,legendary.hospital,available,55.98,71.98,high,low,9,namecheap,,,17/08/2026 20:13
 d3a4b759-efa8-41f4-91dd-40d36db89a09,cheekbone.hospital,available,55.98,71.98,high,low,9,namecheap,,,13/09/2026 15:41
@@ -47,50 +53,63 @@ b54f50bc-f93d-4ac2-aab2-025fcca9ed9d,precambrian.hospital,available,44.2,44.2,me
 cf4572ab-5e74-41b1-929b-5dd76820dcb7,closet.hospital,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 15:59
 14930352-6b36-413c-8212-503b8f1789ab,eastmost.hospital,available,55.98,71.98,medium,low,8,namecheap,,,14/08/2026 22:57
 512c736a-4590-45a3-ab4f-335a9cd6aee3,rashes.hospital,available,55.98,71.98,low,low,6,namecheap,,,19/09/2026 21:50
+32af65f7-cb0d-4cf9-967b-a2211871cd88,enlargement.hospital,available,45.74,45.74,high,low,11,spaceship,,,30/09/2026 22:28
+aee77f00-0f10-4107-a15c-88ad05d63fc7,reckoning.hospital,available,57.99,57.99,high,low,9,namesilo,,,30/09/2026 16:48
 2409ae4a-9d99-4183-a834-1df8f6edf0a2,travel.hospital,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
 4e867317-3c1b-4143-b999-482f54fcebe5,becomingly.hospital,available,55.98,71.98,medium,low,10,namecheap,,,13/09/2026 23:45
 90dff533-ebc8-4b66-b992-2bfc7b4f0a80,biltong.hospital,available,57.99,57.99,medium,low,7,namesilo,,,23/09/2026 16:53
 6b5759df-647e-465e-b00c-7adcede937d7,map.hospital,available,45.74,45.74,high,medium,3,spaceship,,,29/09/2026 20:12
 83cc312c-e595-4ac2-98e9-6eccbed74d11,ovarian.hospital,available,55.98,71.98,medium,low,7,namecheap,,,04/09/2026 19:55
 6c6ce128-1602-48c0-9eaa-35dc83ea4b4b,magnesium.hospital,available,55.98,71.98,high,low,9,namecheap,,,20/09/2026 22:22
-403a4e06-a2d6-4095-8e28-3276cfb0ad3b,parent.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+84991b94-df28-4435-b6b5-5c89e0b2f6a9,clasp.hospital,available,57.99,57.99,high,low,5,namesilo,,,30/09/2026 08:50
+403a4e06-a2d6-4095-8e28-3276cfb0ad3b,parent.hospital,available,44.2,44.2,high,low,6,cloudflare,,,30/09/2026 06:26
 32786526-3622-411e-b3c8-1a3425ff5ae1,cast.hospital,available,55.98,71.98,high,low,4,namecheap,,,27/09/2026 20:35
 b9caff5f-c226-4a2d-9085-2a5e4688eb5a,lang.hospital,available,57.99,57.99,high,low,4,namesilo,,,
 eab1f533-7e47-4e6f-bf35-b20c77f7960a,dont.hospital,available,55.98,71.98,low,low,4,namecheap,,,17/09/2026 00:37
 a7d0c0ce-6baa-44d7-b11b-4e54f6f65e69,allspice.hospital,available,57.99,57.99,high,low,8,namesilo,,,18/09/2026 12:10
 cc791747-ae6f-4b87-bbb7-8426e567c817,male.hospital,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 16:34
 1473bfde-7fa9-40ef-bb63-c30854dd2ce1,hercules.hospital,available,45.74,45.74,high,low,8,spaceship,,,28/09/2026 20:10
-102c9215-7aae-4d10-a6ec-b80f628be505,rein.hospital,available,57.99,57.99,high,low,4,namesilo,,,
-ca721552-a964-43d9-bd29-dbbf53a550d7,nuisance.hospital,available,55.98,71.98,high,low,8,namecheap,,,29/09/2026 19:51
+102c9215-7aae-4d10-a6ec-b80f628be505,rein.hospital,available,45.74,45.74,high,low,4,spaceship,,,30/09/2026 09:27
+ca721552-a964-43d9-bd29-dbbf53a550d7,nuisance.hospital,available,55.98,71.98,medium,low,8,namecheap,,,29/09/2026 19:51
 fc4c6d9f-4aba-4f3b-994a-f17522281f4b,abuse.hospital,available,55.98,71.98,high,low,5,namecheap,,,08/09/2026 12:39
+42fa9ed7-dc47-4900-a3a3-29358e68fa98,barons.hospital,available,45.74,45.74,medium,low,6,spaceship,,,30/09/2026 13:35
 6cbe38f5-d1ca-4fcb-b68d-79ee48a378b2,thousands.hospital,available,57.99,57.99,medium,low,9,namesilo,,,18/09/2026 15:22
-9460810b-719f-4c26-901a-bfc068f2f6fb,bot.hospital,available,57.99,57.99,high,medium,3,namesilo,,,28/09/2026 04:10
+9460810b-719f-4c26-901a-bfc068f2f6fb,bot.hospital,available,44.2,44.2,high,medium,3,cloudflare,,,30/09/2026 20:55
 92b4d353-8ebb-4afd-85ad-f2775ceb3757,mermaid.hospital,available,57.99,57.99,high,low,7,namesilo,,,29/09/2026 07:36
 00a7bdf8-6b96-43de-af54-d57a96fe9e2c,suppress.hospital,available,44.2,44.2,medium,low,8,cloudflare,,,29/09/2026 00:32
 16c4eba0-39a6-4ec3-b4b0-541b008f32c5,drunk.hospital,available,55.98,71.98,high,low,5,namecheap,,,14/08/2026 20:17
 ddf8ce84-3f35-4209-b9f9-54c1dcb46b9a,autarchic.hospital,available,55.98,71.98,medium,low,9,namecheap,,,07/08/2026 18:36
 5e4a0628-3703-499c-9732-1c7ce7c44560,fairly.hospital,available,55.98,71.98,high,low,6,namecheap,,,24/09/2026 16:08
 e661b284-4023-4903-997a-f313a1d6cb31,errand.hospital,available,55.98,71.98,high,low,6,namecheap,,,30/09/2026 01:33
+27363bef-d488-4c90-90b2-bddcd28ca7d2,reunited.hospital,available,57.99,57.99,high,low,8,namesilo,,,30/09/2026 08:00
 a44214d1-57c8-4011-8056-0352991d30ec,musty.hospital,available,55.98,71.98,medium,low,5,namecheap,,,18/08/2026 16:44
 3d5e64b5-760a-437b-9c50-5182af572456,rocking.hospital,available,57.99,57.99,high,low,7,namesilo,,,28/09/2026 15:55
 02332e53-668d-423d-a0ec-1217e4284dff,graphic.hospital,available,45.74,45.74,high,low,7,spaceship,,,28/09/2026 05:58
 89ed70c4-79dc-49d3-beed-6593eb3d3754,castled.hospital,available,55.98,71.98,medium,low,7,namecheap,,,11/08/2026 20:28
 2fe40979-738b-4d59-8f47-f5d5363423af,baptism.hospital,available,57.99,57.99,high,low,7,namesilo,,,22/09/2026 03:27
 6808428f-4fc7-42cc-ac47-29deeeed8c10,highbrow.hospital,available,55.98,71.98,high,low,8,namecheap,,,21/08/2026 09:09
+8da052eb-d24e-488e-803c-5d894c6d4fcc,brat.hospital,available,44.2,44.2,high,low,4,cloudflare,,,30/09/2026 08:49
+7bfbb4e0-c5c3-431a-8236-d748701e57d0,furness.hospital,available,45.83,45.83,medium,low,7,porkbun,,,30/09/2026 05:24
 e56ef89f-4c2a-4b95-b53c-41ac6381f948,chiseled.hospital,available,55.98,71.98,medium,low,8,namecheap,,,12/08/2026 06:05
 0c89351c-702f-403b-ad45-1efef662fd73,detoxify.hospital,available,47.3,47.3,high,low,8,dynadot,,,29/09/2026 14:25
 e5bb686e-97db-4523-bf95-f19be860a868,dispersion.hospital,available,55.98,71.98,high,low,10,namecheap,,,24/09/2026 22:57
+34675b25-41a7-4348-b828-0f81f9382d62,lipscomb.hospital,available,45.74,45.74,medium,low,8,spaceship,,,30/09/2026 17:55
 a99ec2a7-4742-4018-a305-f5c6319816e3,indication.hospital,available,55.98,71.98,high,low,10,namecheap,,,24/09/2026 21:52
+dbfca3d5-5eca-4e59-bbbd-9587ddb97912,icbm.hospital,available,45.74,45.74,medium,low,4,spaceship,,,30/09/2026 10:12
+2e56958e-7c69-45b3-86a5-64c53362f599,cdrom.hospital,available,45.74,45.74,medium,low,6,spaceship,,,30/09/2026 16:37
 b3f6bece-d2e0-4004-a9f0-637f2cbf326e,crooked.hospital,available,55.98,71.98,medium,low,7,namecheap,,,13/08/2026 07:51
 bf718155-eeb7-41fe-8893-923239014edf,cruz.hospital,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 11:52
-32189f2d-5ec4-43fe-a68b-5254e5bf3b8f,her.hospital,available,57.99,57.99,high,low,3,namesilo,,,
+32189f2d-5ec4-43fe-a68b-5254e5bf3b8f,her.hospital,available,57.99,57.99,high,low,3,namesilo,,,30/09/2026 22:04
+a84564dc-d6a6-4a87-aff0-69f165cc5f0d,menominee.hospital,available,57.99,57.99,high,low,9,namesilo,,,30/09/2026 10:33
 0aa38b40-449f-4f03-9514-1014a080025a,chirpy.hospital,available,55.98,71.98,high,low,6,namecheap,,,12/08/2026 06:03
 7dc8557f-4cb7-4edb-b3f9-333cbb0a3cd6,beard.hospital,available,55.98,71.98,high,low,5,namecheap,,,22/09/2026 21:01
-f03521e3-2743-4977-8072-30032438134d,burping.hospital,available,57.99,57.99,high,low,7,namesilo,,,23/09/2026 04:38
+f03521e3-2743-4977-8072-30032438134d,burping.hospital,available,57.99,57.99,medium,low,7,namesilo,,,23/09/2026 04:38
 400d72fb-0a48-420d-a512-9f7965fdddf5,iceberg.hospital,available,57.99,57.99,high,low,7,namesilo,,,23/09/2026 09:15
+f1353890-1902-4080-9a0b-0c1271d7109e,ethic.hospital,available,55.98,71.98,high,low,5,namecheap,,,30/09/2026 17:13
 7f77c522-faf4-4c17-9aa4-45af5667abcb,gretchen.hospital,available,44.2,44.2,high,low,8,cloudflare,,,29/09/2026 09:29
 0f3bfdd3-d439-4fe6-82c8-7513e190fa9a,outspread.hospital,available,55.98,71.98,high,low,9,namecheap,,,04/09/2026 19:47
 81f240b3-060f-49fb-96ea-346cae0816a6,obtrusive.hospital,available,55.98,71.98,medium,low,9,namecheap,,,04/09/2026 00:07
+4e091abf-e62a-4e38-a847-9df028f236b6,exhibited.hospital,available,44.2,44.2,medium,low,9,cloudflare,,,30/09/2026 15:15
 6a027f7e-f1a7-4897-8d20-af33f1eff7bb,cartoon.hospital,available,57.99,57.99,high,low,7,namesilo,,,19/09/2026 08:59
 b169d6d9-2946-42ad-afd4-85b79e6f84d1,pamela.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 99897e95-7291-4d2b-a0de-1617ddc775d2,suggestion.hospital,available,55.98,71.98,high,low,10,namecheap,,,25/09/2026 07:41
@@ -102,10 +121,14 @@ fd49ff55-64d2-4dfe-a8fe-e85f54b86e34,deflation.hospital,available,45.74,45.74,me
 b3da7083-2777-4605-9016-2079399ba5e8,anorexic.hospital,available,55.98,71.98,medium,low,8,namecheap,,,
 c5630964-c5d9-4487-ab78-1dfd451d5fb8,texted.hospital,available,57.99,57.99,medium,low,6,namesilo,,,20/09/2026 17:16
 ec4d2029-f8e0-4b43-911a-9017bc69161d,claudia.hospital,available,57.99,57.99,high,low,7,namesilo,,,25/09/2026 13:43
+377aae1e-54b8-457c-9038-9a00dfc5cbbd,cesar.hospital,available,45.74,45.74,medium,low,5,spaceship,,,30/09/2026 05:33
 ad7222ec-05e5-4939-a8af-7f7792418349,immutably.hospital,available,55.98,71.98,medium,low,9,namecheap,,,15/09/2026 02:06
 4573fa91-223e-462d-aef1-8fe88b6e7925,toulouse.hospital,available,57.99,57.99,high,low,8,namesilo,,,27/09/2026 05:47
+82562da5-f4f7-4301-a892-b927c6bff49b,thea.hospital,available,44.2,44.2,high,low,4,cloudflare,,,30/09/2026 11:10
+be5cd52a-7508-41ee-b796-58ff0f728c5d,psp.hospital,available,45.74,45.74,high,low,3,spaceship,,,30/09/2026 04:37
+56d7b499-3c00-4d98-8760-c866c7156e86,peroxide.hospital,available,57.99,57.99,high,low,8,namesilo,,,01/10/2026 02:39
 a98ecc64-8cf0-4b69-bfed-78a6a42a3de5,worrisome.hospital,available,55.98,71.98,medium,low,9,namecheap,,,14/08/2026 13:21
-94fd837e-a29c-45cc-a41b-e70a5d42d568,breathed.hospital,available,55.98,71.98,high,low,8,namecheap,,,11/08/2026 03:16
+94fd837e-a29c-45cc-a41b-e70a5d42d568,breathed.hospital,available,55.98,71.98,medium,low,8,namecheap,,,11/08/2026 03:16
 f5795526-f16d-4642-b382-f82dce15c66d,suspicion.hospital,available,55.98,71.98,high,low,9,namecheap,,,24/09/2026 23:14
 45d3095e-0889-4153-8a31-6cb64a7a4289,accretion.hospital,available,57.99,57.99,high,low,9,namesilo,,,16/09/2026 23:14
 e4ac5cc6-f5ff-4d1a-b54b-df93a0e0c8ea,paula.hospital,available,57.99,57.99,high,low,5,namesilo,,,25/09/2026 14:33
@@ -124,20 +147,22 @@ e46ff656-08c8-4680-81c6-4329da9a284b,analogical.hospital,available,55.98,71.98,m
 082cb181-96e0-4917-b119-9a562b7da8d7,newbie.hospital,available,55.98,71.98,high,low,6,namecheap,,,24/09/2026 19:51
 9b9dc891-e334-4acb-83fe-a7ea286dc7cf,uveous.hospital,available,55.98,71.98,medium,low,6,namecheap,,,13/09/2026 00:24
 f355488c-d622-498d-8a7f-dd7fcc61a01a,fiona.hospital,available,45.74,45.74,high,low,5,spaceship,,,28/09/2026 03:47
-dbac92bc-0281-4e0d-856b-2bb74564e056,animist.hospital,available,55.98,71.98,high,low,7,namecheap,,,
+dbac92bc-0281-4e0d-856b-2bb74564e056,animist.hospital,available,55.98,71.98,medium,low,7,namecheap,,,
 d317de6e-5178-4864-adf8-ceed3d79b925,woods.hospital,available,45.74,45.74,high,low,5,spaceship,,,29/09/2026 19:51
 f455afca-776e-46c2-bb46-e6fac9ac4e2a,illogical.hospital,available,55.98,71.98,medium,low,9,namecheap,,,14/08/2026 11:22
 61227d74-d9f4-4435-8140-c946cfce1335,lincolnshire.hospital,available,57.99,57.99,medium,low,12,namesilo,,,28/09/2026 11:48
 e11192c7-dea5-4735-92a2-7b4fe6f5b738,opposition.hospital,available,55.98,71.98,high,low,10,namecheap,,,04/09/2026 16:40
 db8d3584-101f-476b-8e8b-578d4bc66d42,oklahoman.hospital,available,77.99,83.99,medium,low,9,name.com,,,16/09/2026 05:05
 9834ee25-d438-4b4f-adec-312e937a1680,maidenly.hospital,available,55.98,71.98,medium,low,8,namecheap,,,24/08/2026 13:14
-7af9c321-4102-4879-9681-39a3fa51d65d,slay.hospital,available,55.98,71.98,high,low,4,namecheap,,,04/09/2026 00:55
+7af9c321-4102-4879-9681-39a3fa51d65d,slay.hospital,available,55.98,71.98,medium,low,4,namecheap,,,04/09/2026 00:55
 2495c7be-941f-4a69-a133-cf604628a531,cob.hospital,available,57.99,57.99,high,low,3,namesilo,,,23/09/2026 23:42
 cabf9e54-4204-4175-8133-ce5995c5d78a,colman.hospital,available,44.2,44.2,medium,low,6,cloudflare,,,29/09/2026 04:11
 aa483577-9606-4b62-abc6-84badd72e35a,supervised.hospital,available,55.98,71.98,high,low,10,namecheap,,,11/09/2026 02:26
-d3c0ce45-d885-42ac-9091-712c7fef3334,peritoneal.hospital,available,55.98,71.98,high,low,10,namecheap,,,08/09/2026 17:25
+6c9380f0-3369-4029-bce3-89fcaeff18ea,symonds.hospital,available,45.74,45.74,high,low,7,spaceship,,,30/09/2026 10:18
+d3c0ce45-d885-42ac-9091-712c7fef3334,peritoneal.hospital,available,55.98,71.98,medium,low,10,namecheap,,,08/09/2026 17:25
 0ee513b4-df42-4965-b993-2d4132abcdeb,eventful.hospital,available,55.98,71.98,high,low,8,namecheap,,,12/08/2026 22:36
-f06eef3d-5342-4615-9674-c13678026c4f,mining.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+4612b7bb-ac7b-42f4-b14a-5a14ce6d2954,signify.hospital,available,55.98,71.98,high,low,7,namecheap,,,30/09/2026 19:13
+f06eef3d-5342-4615-9674-c13678026c4f,mining.hospital,available,44.2,44.2,high,low,6,cloudflare,,,30/09/2026 04:33
 598084c1-fa07-4aa1-89df-130769812550,pierre.hospital,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 12:24
 5840ab62-f343-47bb-a4d9-063fab14c2bc,payments.hospital,available,57.99,57.99,high,low,8,namesilo,,,18/09/2026 16:44
 5fd3ebd6-01c6-40c4-9c88-e5edb3dcee8c,pen.hospital,available,57.99,57.99,high,low,3,namesilo,,,27/09/2026 03:22
@@ -149,8 +174,11 @@ e1527ea0-31f7-4dd2-b603-c835823c3086,clips.hospital,available,57.99,57.99,medium
 5a3ee68b-fd17-4f5f-8474-0bf9c56ec065,ravishing.hospital,available,55.98,71.98,high,low,9,namecheap,,,09/09/2026 10:42
 1f04d71d-7961-4d19-88a3-646584170086,provides.hospital,available,55.98,71.98,medium,low,8,namecheap,,,16/09/2026 11:52
 3ce4c249-a4ee-451e-8e6a-7a3ed961071c,segovia.hospital,available,57.99,57.99,medium,low,7,namesilo,,,19/09/2026 04:41
+6d1bbf48-e327-4862-a507-e757b451a1e9,tessa.hospital,available,44.2,44.2,high,low,5,cloudflare,,,30/09/2026 04:17
 71328869-712f-40e2-a2b2-1c30fff9a658,irritable.hospital,available,57.99,57.99,medium,low,9,namesilo,,,25/09/2026 11:30
 36284186-a48a-46a1-a3fd-443b5dc09577,deposit.hospital,available,45.74,45.74,high,low,7,spaceship,,,28/09/2026 20:39
+fd4b532d-14d0-4b36-ae76-411c7e1d5246,heber.hospital,available,45.74,45.74,high,low,5,spaceship,,,30/09/2026 22:07
+288782df-4ace-414f-b769-1bb3a79fedfa,hives.hospital,available,44.2,44.2,high,low,5,cloudflare,,,01/10/2026 02:36
 85f1b9e2-1687-4f53-92b9-ecab77f1f8eb,moravian.hospital,available,55.98,71.98,high,low,8,namecheap,,,25/08/2026 06:14
 38b0c467-792b-486f-b7ea-d79d37891051,skinner.hospital,available,57.99,57.99,high,low,7,namesilo,,,21/09/2026 11:52
 f2261b0d-e164-4abb-9216-db67843d64f4,azonal.hospital,available,55.98,71.98,medium,low,6,namecheap,,,08/08/2026 02:27
@@ -161,9 +189,11 @@ eae06d64-2b97-4190-be74-94234a588ba7,lords.hospital,available,55.98,71.98,medium
 f72a86c9-65f1-4e89-b9f8-075fc71df7d1,azygous.hospital,available,55.98,71.98,medium,low,7,namecheap,,,08/08/2026 03:27
 df10f40d-4547-4a6a-82f4-3616b26290ba,adi.hospital,available,45.83,45.83,high,low,3,porkbun,,,28/09/2026 16:16
 6acd920b-f28c-4321-8b23-c3cb772577d3,tantalum.hospital,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 23:42
-0d42d275-0294-4cc6-8674-aa7256ccfd7f,clamor.hospital,available,55.98,71.98,high,low,6,namecheap,,,10/08/2026 13:15
+0d42d275-0294-4cc6-8674-aa7256ccfd7f,clamor.hospital,available,55.98,71.98,medium,low,6,namecheap,,,10/08/2026 13:15
+c1183498-4563-4470-bc71-9603c85cf5fd,vaux.hospital,available,44.2,44.2,high,low,4,cloudflare,,,01/10/2026 01:15
 1e162bfa-39bb-44a5-a800-0571653767ac,ascendance.hospital,available,55.98,71.98,high,low,10,namecheap,,,20/09/2026 13:03
 011c9bb0-d15d-4706-8670-d0b3c4cdcd21,sunburn.hospital,available,55.98,71.98,high,low,7,namecheap,,,11/09/2026 07:53
+5b65f83b-8bdc-4a37-8ed9-0c1c0ae65df6,zoning.hospital,available,45.74,45.74,high,low,6,spaceship,,,01/10/2026 04:08
 9c46670b-34cd-48b1-b19d-4f5a838e598c,suppertime.hospital,available,55.98,71.98,high,low,10,namecheap,,,24/09/2026 22:23
 9ca52955-9432-436a-bbfb-a91d3a024e53,mercuric.hospital,available,55.98,71.98,medium,low,8,namecheap,,,24/08/2026 20:40
 bafa5c9d-61b4-446c-9621-d04a47df6a7d,dotted.hospital,available,77.99,83.99,medium,low,6,name.com,,,13/08/2026 18:28
@@ -173,6 +203,7 @@ ad290984-0abe-4940-a958-d771b9c573b4,recreational.hospital,available,57.99,57.99
 20a70fc2-0313-4bd2-ac29-5ce7e3e417c7,auckland.hospital,available,57.99,57.99,high,low,8,namesilo,,,21/09/2026 02:39
 40f0f2e6-650f-42a8-bf89-4714d573f9c4,zhang.hospital,available,57.99,57.99,high,low,5,namesilo,,,25/09/2026 15:58
 25f19ab4-bd90-4671-8487-56e8822edaff,technological.hospital,available,44.2,44.2,medium,low,13,cloudflare,,,29/09/2026 02:31
+fc4a5dec-9e56-40bd-9e68-700914d54b14,temperance.hospital,available,45.74,45.74,high,low,10,spaceship,,,30/09/2026 18:54
 bfeaccb5-4497-42c4-bd7f-7a6bc6d73fa1,hunters.hospital,available,57.99,57.99,medium,low,7,namesilo,,,28/09/2026 08:39
 10b6028b-04ec-4214-a180-4902af4e2e8a,settled.hospital,available,55.98,71.98,high,low,7,namecheap,,,12/08/2026 17:27
 673d0842-6ed7-4385-a229-e8b9c0fe1814,paniculate.hospital,available,55.98,71.98,medium,low,10,namecheap,,,05/09/2026 01:01
@@ -180,8 +211,9 @@ bfeaccb5-4497-42c4-bd7f-7a6bc6d73fa1,hunters.hospital,available,57.99,57.99,medi
 fe50dc95-5b42-4665-9222-62f946adb502,tenths.hospital,available,57.99,57.99,medium,low,6,namesilo,,,20/09/2026 23:51
 127dcb87-ae6b-4a13-adc3-29c5cae15e9c,studied.hospital,available,55.98,71.98,high,low,7,namecheap,,,10/09/2026 22:59
 a135a777-b551-4a51-8d1b-8ca66837e85c,wed.hospital,available,55.98,71.98,high,low,3,namecheap,,,13/09/2026 09:28
+9754a599-c462-4a06-bea2-2bf7abb38840,youths.hospital,available,57.99,57.99,medium,low,6,namesilo,,,01/10/2026 00:09
 497fae8e-b520-4472-83df-b18fe692d52d,lad.hospital,available,57.99,57.99,high,low,3,namesilo,,,28/09/2026 00:53
-c19f653b-eb62-4253-92c7-61114eaeff7c,periodic.hospital,available,55.98,71.98,high,low,8,namecheap,,,08/09/2026 17:11
+c19f653b-eb62-4253-92c7-61114eaeff7c,periodic.hospital,available,55.98,71.98,medium,low,8,namecheap,,,08/09/2026 17:11
 6c789fbb-8918-4fa6-8dc4-c519897c57f7,colourful.hospital,available,55.98,71.98,high,low,9,namecheap,,,12/08/2026 17:51
 112c349b-67e8-4cdf-9793-b4efcba33b65,completed.hospital,available,57.99,57.99,high,low,9,namesilo,,,23/09/2026 17:22
 cc3a93c1-409f-4cda-a4e7-03c2e99f861f,addressing.hospital,available,47.3,47.3,high,low,10,dynadot,,,29/09/2026 10:51
@@ -190,7 +222,7 @@ cc3a93c1-409f-4cda-a4e7-03c2e99f861f,addressing.hospital,available,47.3,47.3,hig
 17594739-6693-4da9-bf5c-213d10db398b,isn.hospital,available,109.99,109.99,high,low,3,godaddy,,,30/09/2026 02:01
 a4da4863-58ac-4d5a-a743-d778bcc1aa5d,arabic.hospital,available,57.99,57.99,high,low,6,namesilo,,,22/09/2026 07:33
 fe4a31a8-bed6-45fb-84e5-c646bc007aef,spends.hospital,available,57.99,57.99,medium,low,6,namesilo,,,28/09/2026 08:36
-14911fb9-6070-4949-9dad-db0c9524f607,oversee.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+14911fb9-6070-4949-9dad-db0c9524f607,oversee.hospital,available,45.74,45.74,high,low,7,spaceship,,,30/09/2026 21:16
 f8d0190d-eecc-4422-9301-d853810eb458,polemical.hospital,available,55.98,71.98,medium,low,9,namecheap,,,08/09/2026 22:53
 1afe231b-fd65-49bd-99e6-c4e3e3d88471,abrupt.hospital,available,55.98,71.98,high,low,6,namecheap,,,
 12f28b92-d56b-46f9-9da3-b0f5bbc240a4,reminded.hospital,available,57.99,57.99,medium,low,8,namesilo,,,18/09/2026 03:00
@@ -205,12 +237,13 @@ accb8cfb-f3f6-49c3-aa7c-b762fcf50c5e,abettal.hospital,available,55.98,71.98,medi
 102854b0-86a0-443d-8618-eae4ae642f8d,ends.hospital,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 13:13
 75e713f5-6a56-4450-84c4-0993f732f217,adoringly.hospital,available,55.98,71.98,medium,low,9,namecheap,,,13/09/2026 17:23
 15fac5e9-df94-484e-a7c3-46df29c8a085,scapegrace.hospital,available,77.99,83.99,medium,low,10,name.com,,,24/09/2026 01:41
+240502c6-733c-4d5b-b1a2-3e68c8b1fdae,charities.hospital,available,45.74,45.74,medium,low,9,spaceship,,,30/09/2026 06:10
 d534e872-23e2-4712-bb0f-f1e4d09bb9e0,birdseed.hospital,available,55.98,71.98,high,low,8,namecheap,,,23/09/2026 19:50
 730b5b61-ea08-43ab-b636-3cfb2aefe8f6,brazen.hospital,available,55.98,71.98,high,low,6,namecheap,,,11/08/2026 02:54
 114b407c-b5ad-4fe4-842d-a7147af56b96,equipt.hospital,available,55.98,71.98,high,low,6,namecheap,,,17/08/2026 11:53
 f1212894-5e52-4b93-8d4e-ea079db53fa0,slugs.hospital,available,55.98,71.98,medium,low,5,namecheap,,,20/09/2026 08:54
 6ba0dc94-2cfe-4b61-9835-1f26efb8e90a,arquebus.hospital,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 08:40
-146cee9a-345c-464c-a3b7-592faab2012b,peninsula.hospital,available,57.99,57.99,high,low,9,namesilo,,,
+146cee9a-345c-464c-a3b7-592faab2012b,peninsula.hospital,available,45.74,45.74,high,low,9,spaceship,,,30/09/2026 06:35
 61f24cca-ea87-4fa3-892a-18e5e6d5ea78,marion.hospital,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 14:37
 a4278ed5-7ac0-4d7f-8372-b223c8c920cc,anther.hospital,available,57.99,57.99,medium,low,6,namesilo,,,19/09/2026 13:08
 ba07bd76-d788-4173-a2dc-633888abcc62,lecherous.hospital,available,55.98,71.98,medium,low,9,namecheap,,,22/08/2026 22:17
@@ -224,16 +257,17 @@ e8b975f2-69c8-48c5-a77e-5abc9eac2d5e,toffee.hospital,available,55.98,71.98,high,
 1b2cb1ac-e6d5-4e9e-b942-cb3038b5dda1,vendor.hospital,available,45.74,45.74,high,low,6,spaceship,,,28/09/2026 02:42
 2fe3692c-38d1-459b-bd9a-2dbebdc739ff,obscurely.hospital,available,55.98,71.98,medium,low,9,namecheap,,,15/09/2026 17:13
 4fce28c1-8c2d-409e-afa3-76f76f39e6aa,slippy.hospital,available,55.98,71.98,medium,low,6,namecheap,,,10/09/2026 11:03
-500eb684-38bd-4cc4-ae1a-f925c6327ce7,scheme.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+500eb684-38bd-4cc4-ae1a-f925c6327ce7,scheme.hospital,available,57.99,57.99,high,low,6,namesilo,,,30/09/2026 10:40
 ef0bf065-f935-42f1-8d6e-b2ac1f225681,companions.hospital,available,45.74,45.74,medium,low,10,spaceship,,,29/09/2026 05:19
 bd28fd68-8857-4dac-85f0-0ced364c7510,barrette.hospital,available,57.99,57.99,medium,low,8,namesilo,,,22/09/2026 08:28
+dbf30570-181a-4678-a57c-2377e2ee2cd6,polypropylene.hospital,available,44.2,44.2,medium,low,13,cloudflare,,,30/09/2026 23:16
 e6988081-a05b-4939-baad-ac65b8513d57,sneezewort.hospital,available,57.99,57.99,medium,low,10,namesilo,,,17/09/2026 00:38
 c20fff1b-b4bb-4886-9ef7-5023c1c6e759,skirt.hospital,available,45.74,45.74,high,low,5,spaceship,,,29/09/2026 03:43
 69ace82b-e7f5-402a-922f-7a295a57ddde,hanoverian.hospital,available,55.98,71.98,medium,low,10,namecheap,,,20/08/2026 23:44
 1b52cf0d-9634-4936-b33e-fff6c004def0,sink.hospital,available,45.74,45.74,high,low,4,spaceship,,,29/09/2026 07:50
 29f6ea1f-8e60-4342-b72b-4fb8c55457b2,hopefully.hospital,available,44.2,44.2,high,low,9,cloudflare,,,28/09/2026 15:15
-e22d52be-63e2-450e-80d3-ede88dab2cc5,limestone.hospital,available,57.99,57.99,high,low,9,namesilo,,,
-0d9f2b62-bf2c-416b-9d3d-179c066fb111,loony.hospital,available,55.98,71.98,high,low,5,namecheap,,,06/08/2026 21:17
+e22d52be-63e2-450e-80d3-ede88dab2cc5,limestone.hospital,available,55.98,71.98,high,low,9,namecheap,,,30/09/2026 02:56
+0d9f2b62-bf2c-416b-9d3d-179c066fb111,loony.hospital,available,55.98,71.98,medium,low,5,namecheap,,,06/08/2026 21:17
 892e4ce0-2eab-4ad8-b009-6f13859fda07,hardest.hospital,available,44.2,44.2,low,low,7,cloudflare,,,28/09/2026 12:52
 469314cb-bad7-4cdb-9ef2-cac1af3d01f1,maxine.hospital,available,47.3,47.3,medium,low,6,dynadot,,,28/09/2026 22:02
 e08d1835-2e25-43b2-8a4e-72e453b15a3f,venushair.hospital,available,57.99,57.99,medium,low,9,namesilo,,,17/09/2026 08:07
@@ -243,25 +277,28 @@ b7c12e50-c114-46e4-94a1-4de3a84295f9,fund.hospital,available,45.74,45.74,high,lo
 14b01707-7dad-4667-8cee-1b3e85e56033,bacteria.hospital,available,57.99,57.99,high,low,8,namesilo,,,21/09/2026 16:28
 cb5706c6-8e8b-4f20-9dfc-d56de0145157,communities.hospital,available,57.99,57.99,high,low,11,namesilo,,,17/09/2026 18:41
 cb435ac8-7da9-4d78-ba67-788d89781955,alp.hospital,available,57.99,57.99,high,low,3,namesilo,,,18/09/2026 13:29
-897781eb-981d-4d1c-a212-cb79989c2aab,statement.hospital,available,44.2,44.2,high,low,9,cloudflare,,,28/09/2026 05:17
+897781eb-981d-4d1c-a212-cb79989c2aab,statement.hospital,available,47.3,47.3,high,low,9,dynadot,,,01/10/2026 03:18
 ac99e96f-c571-4c98-8064-59cfbb049abc,orienting.hospital,available,55.98,71.98,high,low,9,namecheap,,,04/09/2026 17:56
 08ece3e7-20c9-428d-a0b7-ed72e979f3a3,homework.hospital,available,57.99,57.99,high,low,8,namesilo,,,28/09/2026 06:00
 e94f3f82-b9df-49bf-b4d5-5e189bc51b98,breadfruit.hospital,available,57.99,57.99,high,low,10,namesilo,,,20/09/2026 11:57
-b8315b6c-9058-431e-bff1-ec1be342d334,sinuous.hospital,available,55.98,71.98,high,low,7,namecheap,,,10/09/2026 08:38
+b8315b6c-9058-431e-bff1-ec1be342d334,sinuous.hospital,available,55.98,71.98,medium,low,7,namecheap,,,10/09/2026 08:38
 1d26b70d-1c13-4aa7-b663-1f8a3ad3eaba,slang.hospital,available,55.98,71.98,high,low,5,namecheap,,,12/08/2026 15:12
-d2da22e3-83b8-4891-819a-4c4630e1c915,correctional.hospital,available,57.99,57.99,high,low,12,namesilo,,,29/09/2026 14:55
+d2da22e3-83b8-4891-819a-4c4630e1c915,correctional.hospital,available,57.99,57.99,medium,low,12,namesilo,,,29/09/2026 14:55
 e58702d8-271c-47f2-acd9-0db1215ba435,poisson.hospital,available,45.74,45.74,medium,low,7,spaceship,,,28/09/2026 11:23
 c8b754b9-8806-4b43-b648-54822bd3fd2a,ours.hospital,available,55.98,71.98,high,low,4,namecheap,,,28/09/2026 04:28
 55aabf0c-6aae-4316-b3c5-32977dc48104,ecstatic.hospital,available,55.98,71.98,high,low,8,namecheap,,,14/08/2026 23:44
 bfe63f60-4f04-4914-8df5-e12cc8dc57da,modulated.hospital,available,55.98,71.98,medium,low,9,namecheap,,,25/08/2026 03:19
+a9e1a4ae-b660-47d2-a158-92a97d7c5c4c,aristocracy.hospital,available,57.99,57.99,high,low,11,namesilo,,,30/09/2026 14:25
 12f25a23-9f39-4d6c-b542-34a272ebf0f0,vapourish.hospital,available,55.98,71.98,medium,low,9,namecheap,,,13/09/2026 01:13
 2a33aa9f-251e-47b9-af14-bc41acd5c355,downwind.hospital,available,55.98,71.98,medium,low,8,namecheap,,,14/08/2026 18:03
 d29e53d0-2780-4dc6-b58c-da9753f6d300,implicit.hospital,available,55.98,71.98,high,low,8,namecheap,,,21/08/2026 22:37
 25b368d0-d936-413b-966c-bd766cfc25b0,fleetwood.hospital,available,47.3,47.3,medium,low,9,dynadot,,,28/09/2026 16:46
 815ae9c5-4b64-4122-8a5b-fb9f5b1fa24f,himself.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
 dd0ff467-8c75-4693-87a7-737821b1c6a7,written.hospital,available,44.2,44.2,high,low,7,cloudflare,,,27/09/2026 18:44
+dd92bc2f-0eda-4666-a046-c07add4eca38,salas.hospital,available,57.99,57.99,medium,low,5,namesilo,,,30/09/2026 21:51
+533330fd-3a08-46c0-8ab9-52ba87f28a3e,entrances.hospital,available,45.74,45.74,medium,low,9,spaceship,,,30/09/2026 07:42
 0afceec0-72a1-4f8d-bafd-8c7c9d382966,roundel.hospital,available,55.98,71.98,medium,low,7,namecheap,,,19/09/2026 11:05
-c94ed8fe-ffdd-4b25-ae6b-8047c07aef91,pungent.hospital,available,55.98,71.98,high,low,7,namecheap,,,
+c94ed8fe-ffdd-4b25-ae6b-8047c07aef91,pungent.hospital,available,55.98,71.98,medium,low,7,namecheap,,,
 628dd3ac-fd00-403c-b6ef-dc8f2cd4e54c,indecorous.hospital,available,55.98,71.98,medium,low,10,namecheap,,,22/08/2026 02:18
 c972d110-fdbd-4fb5-ba1d-6426e52e1671,irb.hospital,available,44.2,44.2,high,low,3,cloudflare,,,29/09/2026 03:06
 05debc3c-2b95-4ce4-bb30-36df065b32ce,luke.hospital,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 06:37
@@ -281,10 +318,13 @@ ca4fc413-b43f-46cb-9656-6dae99ab0472,graven.hospital,available,55.98,71.98,mediu
 e4e7ae28-8faf-4115-92da-62e39ab81850,atrip.hospital,available,55.98,71.98,low,low,5,namecheap,,,07/08/2026 14:33
 3b2d4f54-dc58-4f6c-a276-1e8c72de1f2c,bellhop.hospital,available,57.99,57.99,high,low,7,namesilo,,,23/09/2026 06:01
 7bebc76d-73d9-45f3-bd2f-c66e52a30db6,heinous.hospital,available,55.98,71.98,medium,low,7,namecheap,,,18/08/2026 06:18
+648950d7-9f63-4a36-acda-982a2f2b98e9,homosexuals.hospital,available,45.74,45.74,low,low,11,spaceship,,,01/10/2026 00:33
 e1e8f540-bd61-4a3e-b19a-2d3cb52b2bf3,maitland.hospital,available,47.3,47.3,medium,low,8,dynadot,,,28/09/2026 01:57
 028fb40b-415f-4785-a9b2-5203b7dfe94b,valuator.hospital,available,57.99,57.99,medium,low,8,namesilo,,,19/09/2026 22:13
+6c06e077-2d32-4152-9833-7c9f98fdb624,martinsville.hospital,available,45.74,45.74,medium,low,12,spaceship,,,30/09/2026 05:38
 2559a7b2-8516-48c9-86d4-e50e10c0e0cb,lollipop.hospital,available,57.99,57.99,high,low,8,namesilo,,,18/09/2026 08:50
 4abf8858-0f8d-4f29-9155-da9b21aad09a,acheta.hospital,available,55.98,71.98,medium,low,6,namecheap,,,17/09/2026 00:33
+feee4edf-a931-4b0a-ae29-e0d73c680767,preventing.hospital,available,45.74,45.74,medium,low,10,spaceship,,,30/09/2026 06:24
 87df1bb0-ed72-4655-96b0-138fa4321a2e,unbiased.hospital,available,55.98,71.98,high,low,8,namecheap,,,12/09/2026 01:52
 0d42f56e-b359-4193-b78e-a3bd680ee671,canton.hospital,available,57.99,57.99,high,low,6,namesilo,,,23/09/2026 16:10
 c68b64e4-7665-43f8-a22c-57cc1fd6875b,ramirez.hospital,available,57.99,57.99,medium,low,7,namesilo,,,28/09/2026 08:04
@@ -300,23 +340,25 @@ c6abdff1-4ee1-44bb-bbc3-5e6e04c61fd1,poster.hospital,available,57.99,57.99,high,
 ac4acf61-5c76-4928-8fbc-41eb3d8ccba2,knocking.hospital,available,77.99,83.99,high,low,8,name.com,,,25/09/2026 08:51
 455cf6cd-1d93-4196-9cbc-838f4dba5b47,begum.hospital,available,57.99,57.99,medium,low,5,namesilo,,,23/09/2026 03:01
 e2b61214-f4f9-4864-b9d4-b740f6e8ff26,guadalajara.hospital,available,55.98,71.98,medium,low,11,namecheap,,,28/09/2026 07:53
+6e44373b-6e6a-4b44-b109-b15cf89e484b,territories.hospital,available,44.2,44.2,medium,low,11,cloudflare,,,30/09/2026 05:50
 3d0eaa0c-1c2d-4d8a-bb0b-884e3f1187e4,drake.hospital,available,57.99,57.99,high,low,5,namesilo,,,29/09/2026 18:43
 4e311a9c-dff1-4996-b9de-cf07c1752b0d,quotidian.hospital,available,55.98,71.98,medium,low,9,namecheap,,,17/08/2026 14:57
 4ae397d8-9571-4a3f-9760-df9dbff54e8c,nighted.hospital,available,55.98,71.98,low,low,7,namecheap,,,09/08/2026 14:33
 e0e5bf73-3999-4653-b2f5-d777afd9bc09,stanton.hospital,available,57.99,57.99,high,low,7,namesilo,,,25/09/2026 05:30
 de677f26-7fea-4639-86ce-7072eacc872a,swansea.hospital,available,44.2,44.2,medium,low,7,cloudflare,,,28/09/2026 10:58
-8c5d8ede-1b0b-41fb-bf8e-db72f4eae07e,vitalizer.hospital,available,57.99,57.99,high,low,9,namesilo,,,19/09/2026 09:10
+8c5d8ede-1b0b-41fb-bf8e-db72f4eae07e,vitalizer.hospital,available,57.99,57.99,medium,low,9,namesilo,,,19/09/2026 09:10
 0d7546e1-8a71-4a15-9dbb-04309bf146ab,exclamation.hospital,available,71.98,,high,low,11,namecheap,,,
 e5673738-2c1b-46d4-ab06-e4ee8a61979b,misgiving.hospital,available,57.99,57.99,medium,low,9,namesilo,,,24/09/2026 23:11
 35153c0f-f7dd-404a-b0ad-23843fbce86d,heating.hospital,available,55.98,71.98,high,low,7,namecheap,,,13/09/2026 08:24
 bcea5181-2bd3-43f9-9050-0e0afb0daf7e,theirs.hospital,available,71.98,,medium,low,6,namecheap,,,
-0ab997f9-1627-4a94-bf46-c5386c4befb1,tapering.hospital,available,55.98,71.98,high,low,8,namecheap,,,14/08/2026 21:50
+0ab997f9-1627-4a94-bf46-c5386c4befb1,tapering.hospital,available,55.98,71.98,medium,low,8,namecheap,,,14/08/2026 21:50
 fdad08f3-6ca2-450e-b95a-2d433b6e2d0e,seeks.hospital,available,57.99,57.99,medium,low,5,namesilo,,,28/09/2026 23:37
 96327f59-2e21-474b-870d-a07dc404c3f6,celebrating.hospital,available,57.99,57.99,high,low,11,namesilo,,,27/09/2026 06:50
-82e0b401-0f41-4dca-aa8d-4a5c107a2a1f,experimentation.hospital,available,47.3,47.3,high,low,15,dynadot,,,28/09/2026 03:41
+82e0b401-0f41-4dca-aa8d-4a5c107a2a1f,experimentation.hospital,available,57.99,57.99,high,low,15,namesilo,,,30/09/2026 13:40
 1e446e41-3107-4977-88ed-5418e2d93bd3,salving.hospital,available,55.98,71.98,medium,low,7,namecheap,,,14/08/2026 01:40
 19afc150-a890-4b1e-871b-250b0e2ca451,pixilated.hospital,available,55.98,71.98,low,low,9,namecheap,,,09/08/2026 15:41
-3abe3989-bc81-4bb3-99b7-662839463828,arduous.hospital,available,55.98,71.98,high,low,7,namecheap,,,06/08/2026 16:40
+3abe3989-bc81-4bb3-99b7-662839463828,arduous.hospital,available,55.98,71.98,medium,low,7,namecheap,,,06/08/2026 16:40
+7841514a-b0f7-4564-b0c9-4cfbe4c50fca,essays.hospital,available,44.2,44.2,medium,low,6,cloudflare,,,30/09/2026 06:39
 2cef8db5-70d4-4ef5-ae3f-96998563bb70,anita.hospital,available,57.99,57.99,high,low,5,namesilo,,,25/09/2026 15:32
 97548f6c-1abd-4f05-9321-74b2fae07485,miniature.hospital,available,55.98,71.98,high,low,9,namecheap,,,24/08/2026 23:48
 4f717c09-daeb-420a-bf4e-ab0172e3175e,decca.hospital,available,57.99,57.99,medium,low,5,namesilo,,,28/09/2026 21:44
@@ -327,18 +369,23 @@ bc0a1622-5d99-4be5-8988-6dec72a94eb8,lambent.hospital,available,55.98,71.98,medi
 9b00bc3f-7da1-42f9-9f91-b075fa87a2ef,inviting.hospital,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 11:14
 4b8a4941-fa78-4a94-b0a5-4de4cd2a43c7,bja.hospital,available,57.99,57.99,medium,low,3,namesilo,,,23/09/2026 23:24
 2216eb92-c8cf-4369-82cd-d14dc777cea8,obligations.hospital,available,45.83,45.83,low,low,11,porkbun,,,29/09/2026 05:17
-977d4765-48cd-4891-a683-3f0605e92022,telecom.hospital,available,71.98,,high,low,7,namecheap,,,
+977d4765-48cd-4891-a683-3f0605e92022,telecom.hospital,available,45.74,45.74,high,low,7,spaceship,,,30/09/2026 13:03
 5f84775c-3dcb-4bf1-a7dd-cb68c919fe66,parish.hospital,available,45.83,45.83,medium,low,6,porkbun,,,28/09/2026 20:07
 eed13ac4-c960-4d60-b2ed-79beebffe4bf,canoe.hospital,available,45.83,45.83,high,low,5,porkbun,,,29/09/2026 06:41
 588cb44f-c4fe-411a-ba3f-8c42f4be11b9,developed.hospital,available,55.98,71.98,high,low,9,namecheap,,,24/09/2026 07:51
+40ed5282-d6a6-477e-87f9-2d8b6542abd3,burleigh.hospital,available,44.2,44.2,medium,low,8,cloudflare,,,30/09/2026 13:50
 cc262632-aba3-4d70-b3ef-2a8ba1a8e932,pestered.hospital,available,55.98,71.98,medium,low,8,namecheap,,,21/08/2026 00:13
+03538704-da79-4d3d-b768-eb392e468a7e,inflict.hospital,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 03:14
 3e040681-f03d-4b2a-87f7-c50b1d57d43f,loads.hospital,available,45.74,45.74,high,low,5,spaceship,,,28/09/2026 15:05
 fa698cec-2e61-4e01-ae89-92041bfea6cf,legacy.hospital,available,57.99,57.99,high,medium,6,namesilo,,,23/09/2026 09:05
 cf88e3b6-ada6-4bcd-aab2-23d1b682ac02,filling.hospital,available,55.98,71.98,high,low,7,namecheap,,,25/09/2026 22:48
 c41f263a-80b4-4c04-a28d-dd0ca385fe0f,boney.hospital,available,55.98,71.98,medium,low,5,namecheap,,,10/08/2026 18:44
+05f8db9d-dbeb-428b-85fe-887313ff2d06,tripod.hospital,available,45.74,45.74,high,low,6,spaceship,,,30/09/2026 19:02
 6a51812c-2908-44d9-872a-debb98f7500c,subliminal.hospital,available,55.98,71.98,high,low,10,namecheap,,,11/09/2026 00:08
+8204e44e-3f3e-4f13-8d89-2c20ee4db239,directional.hospital,available,47.3,47.3,high,low,11,dynadot,,,30/09/2026 11:53
 4cca2fa1-b969-4f96-a8d8-05444fb27cdd,lineup.hospital,available,57.99,57.99,medium,low,6,namesilo,,,29/09/2026 23:05
 47c0d035-b09b-4f9b-8a95-652edc7eedef,astral.hospital,available,55.98,71.98,high,low,6,namecheap,,,07/08/2026 09:57
+3e798575-d1ce-4914-878c-c1064c3c1f73,sniffing.hospital,available,45.74,45.74,medium,low,8,spaceship,,,30/09/2026 20:12
 d1877135-60a4-44a8-b030-908a0252abbb,slut.hospital,available,57.99,57.99,high,low,4,namesilo,,,17/09/2026 10:21
 361b0d82-d7c6-4eaf-8a62-531989b560a3,physicians.hospital,available,45.74,45.74,high,low,10,spaceship,,,30/09/2026 00:16
 ad3bd8b2-e1d5-42dc-a0fb-a7a9e000b8f3,engineer.hospital,available,57.99,57.99,high,low,8,namesilo,,,30/09/2026 01:31
@@ -350,21 +397,24 @@ d2b59e8d-a7e9-4bee-ad3e-02fa83ab2d3d,patrol.hospital,available,57.99,57.99,high,
 f32b410a-2ad3-40e0-924f-c7f4c6c586ee,concord.hospital,available,57.99,57.99,high,low,7,namesilo,,,16/09/2026 22:58
 31755f96-b74f-43c1-bdf5-76bc78fad532,vented.hospital,available,55.98,71.98,medium,low,6,namecheap,,,13/09/2026 02:12
 eaa0a115-e47c-4335-be91-f3345d3d36cf,unwell.hospital,available,55.98,71.98,high,low,6,namecheap,,,
-1aa157ee-26ed-468b-ab91-f7b421ae5f37,blinding.hospital,available,55.98,71.98,high,low,8,namecheap,,,10/08/2026 13:42
+1aa157ee-26ed-468b-ab91-f7b421ae5f37,blinding.hospital,available,55.98,71.98,medium,low,8,namecheap,,,10/08/2026 13:42
 099796cb-b553-4a0f-ac2e-e2b3368dd2d6,elkins.hospital,available,45.74,45.74,medium,low,6,spaceship,,,29/09/2026 15:44
 8701768e-ea6c-479f-99a4-30fce088509f,tierce.hospital,available,55.98,71.98,medium,low,6,namecheap,,,
 c81f68c6-512a-4e92-8f61-76e598e71585,batting.hospital,available,57.99,57.99,high,low,7,namesilo,,,22/09/2026 14:25
 83fa7885-6ffd-4cf3-b805-a03d774d4891,genic.hospital,available,55.98,71.98,high,low,5,namecheap,,,18/08/2026 21:35
 3ea7c9cc-9c16-422d-adc1-5fa4834d0e54,unpassable.hospital,available,55.98,71.98,medium,low,10,namecheap,,,21/08/2026 21:49
+599125b3-95b1-43a2-8e40-9563787514e1,undertaker.hospital,available,45.74,45.74,high,low,10,spaceship,,,30/09/2026 09:51
 1ef0e249-75b0-4372-b306-46f0926f1c60,wintry.hospital,available,55.98,71.98,medium,low,6,namecheap,,,18/08/2026 16:31
 ffe80676-27eb-49ca-8898-8c744043b1fb,sheridan.hospital,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 10:21
 d10674d4-965f-4812-bcfe-75e4bd22a4d6,back.hospital,available,57.99,57.99,high,low,4,namesilo,,,22/09/2026 15:40
-45eff67a-f091-4343-b20c-b2478e44ade6,isosceles.hospital,available,55.98,71.98,high,low,9,namecheap,,,22/08/2026 11:16
+45eff67a-f091-4343-b20c-b2478e44ade6,isosceles.hospital,available,55.98,71.98,medium,low,9,namecheap,,,22/08/2026 11:16
+747cbcb9-6c5b-4906-8a65-2036e907c8c1,shareholder.hospital,available,47.3,47.3,high,low,11,dynadot,,,30/09/2026 03:52
 d94bd824-dd25-464f-87da-e8fb3e795a99,wilde.hospital,available,57.99,57.99,high,low,5,namesilo,,,25/09/2026 09:39
 af18ea1a-a6b8-45eb-8312-5e08e4c0af8f,livy.hospital,available,57.99,57.99,medium,low,4,namesilo,,,29/09/2026 13:19
 e203cc58-68c6-45b4-9bc1-5f58b27fcf67,que.hospital,available,45.83,45.83,medium,low,3,porkbun,,,28/09/2026 07:40
-ca2e31d5-efdb-4b3e-a1c8-911c850f8272,communicate.hospital,available,57.99,57.99,high,low,11,namesilo,,,
+ca2e31d5-efdb-4b3e-a1c8-911c850f8272,communicate.hospital,available,45.83,45.83,high,low,11,porkbun,,,01/10/2026 02:22
 4e0c349a-5324-4820-9c4c-8a9f70ef7d41,yorke.hospital,available,45.74,45.74,medium,low,5,spaceship,,,29/09/2026 16:43
+4fbaafe8-339f-42b5-81e9-aace67d11cab,sevastopol.hospital,available,45.74,45.74,medium,low,10,spaceship,,,30/09/2026 18:36
 bc8e2d82-e19f-440f-8bb2-d5e234953457,audubon.hospital,available,55.98,71.98,medium,low,7,namecheap,,,21/09/2026 03:14
 eb82d978-4eb0-4803-aac7-9e1077b71e08,gangling.hospital,available,55.98,71.98,medium,low,8,namecheap,,,18/08/2026 20:08
 c1ff2a3e-c9fa-430c-8677-223278a45012,dorsal.hospital,available,55.98,71.98,high,low,6,namecheap,,,
@@ -382,6 +432,7 @@ cc160fd0-f98e-4da4-b9ee-5064de9f59fc,arena.hospital,available,45.74,45.74,high,m
 9aca138e-1699-4bc9-9770-ffd065d7a8e9,assassination.hospital,available,44.2,44.2,medium,low,13,cloudflare,,,28/09/2026 11:16
 5e0ea9ea-b547-46ae-9a39-36d0995f0f99,unthought.hospital,available,55.98,71.98,medium,low,9,namecheap,,,12/09/2026 12:35
 f64ccd7a-5824-4d21-9387-6950c3078f58,synovial.hospital,available,55.98,71.98,medium,low,8,namecheap,,,11/09/2026 06:37
+2e4f4d7d-b778-4d7b-bf0e-2ed09de27b46,bowers.hospital,available,45.83,45.83,medium,low,6,porkbun,,,30/09/2026 21:44
 3d23823c-0a3f-4d50-9442-debf359dcda6,sidney.hospital,available,55.98,71.98,high,low,6,namecheap,,,27/09/2026 05:44
 40ac074f-0081-4ca3-9722-fd82db9339da,mold.hospital,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 15:22
 4eca9614-4e1c-4794-a725-56a139bdda47,genovese.hospital,available,55.98,71.98,high,low,8,namecheap,,,18/08/2026 21:49
@@ -391,22 +442,24 @@ f64ccd7a-5824-4d21-9387-6950c3078f58,synovial.hospital,available,55.98,71.98,med
 79f95b1b-6d52-4150-b242-1f684a71ab73,sedgwick.hospital,available,45.74,45.74,medium,low,8,spaceship,,,28/09/2026 16:41
 8dd5098b-2571-4532-a40e-77566682c631,golden.hospital,available,55.98,71.98,high,low,6,namecheap,,,18/08/2026 23:35
 a442f46c-6b5f-4801-813a-0f5f61ba278c,bentonite.hospital,available,57.99,57.99,high,low,9,namesilo,,,23/09/2026 08:46
-51837be2-bac1-49fb-a8f5-efd46c5f45f0,resistive.hospital,available,55.98,71.98,high,low,9,namecheap,,,09/09/2026 15:23
+51837be2-bac1-49fb-a8f5-efd46c5f45f0,resistive.hospital,available,55.98,71.98,medium,low,9,namecheap,,,09/09/2026 15:23
 94059b5d-5820-45c0-898a-d0f14fb4daa7,adroit.hospital,available,55.98,71.98,high,low,6,namecheap,,,21/09/2026 19:49
 99972a85-b7f8-4d06-8588-67ef2989a0de,potency.hospital,available,55.98,71.98,high,medium,7,namecheap,,,09/09/2026 00:49
-0466b20d-b94c-4fe4-b5ca-3f23919b4d71,mendoza.hospital,available,57.99,57.99,high,low,7,namesilo,,,27/09/2026 07:53
+0466b20d-b94c-4fe4-b5ca-3f23919b4d71,mendoza.hospital,available,57.99,57.99,medium,low,7,namesilo,,,27/09/2026 07:53
 d74535cc-730f-4dc3-b13c-8a49425e4789,awards.hospital,available,57.99,57.99,medium,low,6,namesilo,,,28/09/2026 08:41
 ea18f334-2874-4e21-8e8d-6d37e428641e,byrd.hospital,available,55.98,71.98,high,low,4,namecheap,,,17/09/2026 08:47
 7fd4c348-4a92-4f92-a4ce-ed5479f7d7ba,bombing.hospital,available,45.74,45.74,medium,low,7,spaceship,,,27/09/2026 11:45
 718d415d-ebf2-4ef9-9afa-9fe1ae051227,graz.hospital,available,57.99,57.99,medium,low,4,namesilo,,,29/09/2026 01:07
-a24f3395-d3c2-4c85-9af6-a7c75910ac50,allusive.hospital,available,55.98,71.98,high,low,8,namecheap,,,
+b6bc709a-75ff-4fe9-a188-c3f5204ad2ac,tropics.hospital,available,55.98,71.98,high,low,7,namecheap,,,30/09/2026 11:12
+a24f3395-d3c2-4c85-9af6-a7c75910ac50,allusive.hospital,available,55.98,71.98,medium,low,8,namecheap,,,
 acd97270-7a38-463e-a6e4-e43800d39aca,cattle.hospital,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 01:59
 e2542f25-eae4-4826-aded-99681a0bdfdc,thunder.hospital,available,44.2,44.2,high,low,7,cloudflare,,,27/09/2026 15:41
+563fea32-6ed8-45f1-bafb-d2b45bde716f,neutralize.hospital,available,57.99,57.99,high,low,10,namesilo,,,01/10/2026 04:11
 25ad1e5d-35c7-4ca6-8166-caa41596e94e,wiser.hospital,available,45.74,45.74,high,low,5,spaceship,,,29/09/2026 23:16
 55a78c5f-fda6-420a-83bd-adcdbd6f8cd2,tag.hospital,available,55.98,71.98,high,medium,3,namecheap,,,24/09/2026 13:51
 3038cf64-ca71-4ec1-80e8-85ed9fcd4445,waits.hospital,available,57.99,57.99,medium,low,5,namesilo,,,28/09/2026 11:43
 1c7adf6d-af12-4a8e-bb00-577a265fc7c0,equilibrium.hospital,available,55.98,71.98,high,low,11,namecheap,,,29/09/2026 23:01
-35b7c8a3-c166-4fa4-a22f-2b0f28a812aa,involve.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+35b7c8a3-c166-4fa4-a22f-2b0f28a812aa,involve.hospital,available,45.74,45.74,high,low,7,spaceship,,,30/09/2026 05:28
 f868d0a1-f345-49d6-af67-848089758ffd,griffiths.hospital,available,57.99,57.99,medium,low,9,namesilo,,,26/09/2026 03:40
 12057284-ff57-4ac9-9511-ee0a6c006774,diary.hospital,available,55.98,71.98,high,low,5,namecheap,,,24/09/2026 22:13
 5d953ea4-dba8-499b-9d0c-26653d05cef5,hispanic.hospital,available,55.98,71.98,high,low,8,namecheap,,,21/08/2026 09:44
@@ -416,6 +469,7 @@ c9e216bf-5333-4f48-997d-819a7fedc1f9,nellie.hospital,available,57.99,57.99,high,
 16c6ae96-da1d-4159-a3b3-eb5497d1b2c9,downhill.hospital,available,55.98,71.98,medium,low,8,namecheap,,,13/08/2026 21:49
 d0a2179c-9566-464d-927a-b31b2b72d616,vigilance.hospital,available,57.99,57.99,high,low,9,namesilo,,,18/09/2026 05:28
 7e3beb65-7a1e-40ae-b329-a96441958b2b,nsc.hospital,available,45.74,45.74,high,low,3,spaceship,,,29/09/2026 07:39
+e8761c68-a4df-491b-bda9-551d0d39507d,legislation.hospital,available,47.3,47.3,high,low,11,dynadot,,,30/09/2026 06:03
 9fe8dea1-ec81-4ff0-aa61-1209c96aef60,gresham.hospital,available,44.2,44.2,medium,low,7,cloudflare,,,29/09/2026 01:08
 710b4e72-d941-4e62-b82c-3eefeefb49d8,drums.hospital,available,57.99,57.99,medium,low,5,namesilo,,,18/09/2026 11:40
 15b4feea-64a8-42fc-8208-042463e75238,divisible.hospital,available,55.98,71.98,high,low,9,namecheap,,,14/08/2026 13:57
@@ -424,6 +478,7 @@ ff9a4816-140d-41d9-8ba3-1ad6b7037335,eyewitness.hospital,available,45.74,45.74,h
 cf53f595-bb4a-4f1e-a07a-aab753022246,cosmogenic.hospital,available,55.98,71.98,medium,low,10,namecheap,,,13/08/2026 03:00
 3b85d7a8-87fe-4273-91cd-193d95a394e5,meredith.hospital,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 06:29
 79a90def-764e-4c0e-ade6-09a4a9e73526,ardor.hospital,available,57.99,57.99,high,low,5,namesilo,,,20/09/2026 03:15
+9244ca7f-2ef9-44ad-b847-96b2c5ad8d7c,crooks.hospital,available,55.98,71.98,medium,low,6,namecheap,,,30/09/2026 20:36
 eb59fc25-3c1f-4ea3-a9e9-846ff321036d,herbaceous.hospital,available,55.98,71.98,medium,low,10,namecheap,,,21/08/2026 06:56
 e4d90038-fdec-47cc-931e-4330fcca9533,leaders.hospital,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 02:31
 7244cd4d-bd0e-4806-930b-95967fb22155,tiddly.hospital,available,55.98,71.98,medium,low,6,namecheap,,,11/09/2026 15:36
@@ -446,12 +501,15 @@ bd30c3c7-3e63-4f56-9fa1-f61bb60776e7,accessories.hospital,available,44.2,44.2,me
 f329e1ab-a1e7-48d9-aee2-766c7dfc9388,tacitus.hospital,available,44.2,44.2,high,low,7,cloudflare,,,29/09/2026 07:01
 972b9ce5-ea54-4425-a429-85fd6def78fe,amon.hospital,available,55.98,71.98,high,low,4,namecheap,,,18/09/2026 18:27
 37014776-ca7b-4af4-ba37-c0efdf73b6c4,psychic.hospital,available,57.99,57.99,high,low,7,namesilo,,,27/09/2026 07:57
+a6ddfbcc-b938-4e6d-8e7d-36c300009ff5,exploitation.hospital,available,57.99,57.99,medium,low,12,namesilo,,,30/09/2026 06:02
 5e4b2156-9b93-4527-80b1-acb6c70d82c3,bahia.hospital,available,45.74,45.74,medium,low,5,spaceship,,,27/09/2026 18:32
 b1aa4f05-1c2b-4414-9a6d-6caf96d0dcf9,bleb.hospital,available,55.98,71.98,medium,low,4,namecheap,,,24/09/2026 05:21
 d967c0a6-1041-4d12-a748-a1048672df05,bae.hospital,available,57.99,57.99,high,low,3,namesilo,,,
 576760c5-8396-46f5-8059-7102e08ee8e1,plattensee.hospital,available,55.98,71.98,medium,low,10,namecheap,,,21/09/2026 21:22
+482bad08-fea0-409a-972f-8252f51c451c,apertures.hospital,available,44.2,44.2,medium,low,9,cloudflare,,,30/09/2026 07:45
+b25cab3e-9ac2-4037-9090-65110352fc31,eyebrow.hospital,available,45.74,45.74,medium,low,7,spaceship,,,01/10/2026 01:59
 f7af7492-01cd-417d-b863-edafe0cf2eb5,nis.hospital,available,47.3,47.3,high,low,3,dynadot,,,29/09/2026 14:58
-7366d8df-fa86-4dc8-995e-639a7b8bb6ed,benzoin.hospital,available,57.99,57.99,high,low,7,namesilo,,,20/09/2026 12:33
+7366d8df-fa86-4dc8-995e-639a7b8bb6ed,benzoin.hospital,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 12:33
 743dda3e-f9ff-4ee5-a013-b09daa6073c3,tunnel.hospital,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 03:48
 101ece75-0794-4b05-ad16-40bfa17eb8ea,zimmerman.hospital,available,45.74,45.74,high,low,9,spaceship,,,27/09/2026 20:41
 0217361f-aec8-4616-bf33-076d9cd32214,seepage.hospital,available,55.98,71.98,medium,low,7,namecheap,,,04/09/2026 15:38
@@ -463,8 +521,9 @@ f7af7492-01cd-417d-b863-edafe0cf2eb5,nis.hospital,available,47.3,47.3,high,low,3
 07422ba8-8797-418e-bcd8-ce77ff2326c3,unskilled.hospital,available,55.98,71.98,medium,low,9,namecheap,,,
 463eaa3c-e0da-4bac-afa9-f19137a90f39,tagore.hospital,available,57.99,57.99,medium,low,6,namesilo,,,30/09/2026 02:38
 a9acd157-fe36-451f-96f9-d54f9be964e0,packages.hospital,available,55.98,71.98,medium,low,8,namecheap,,,19/09/2026 00:23
-d330c339-d379-4e91-9e64-322f575c4082,banff.hospital,available,57.99,57.99,high,low,5,namesilo,,,22/09/2026 01:44
-37696277-a597-4829-bb3e-15c0b3b6428a,southampton.hospital,available,57.99,57.99,high,low,11,namesilo,,,25/09/2026 14:27
+d330c339-d379-4e91-9e64-322f575c4082,banff.hospital,available,57.99,57.99,medium,low,5,namesilo,,,22/09/2026 01:44
+92271289-6f33-449a-8f46-5154a3ad6aac,pesos.hospital,available,57.99,57.99,medium,low,5,namesilo,,,30/09/2026 06:56
+37696277-a597-4829-bb3e-15c0b3b6428a,southampton.hospital,available,57.99,57.99,medium,low,11,namesilo,,,25/09/2026 14:27
 1835082c-eeb3-438a-8a8d-ee3719ccb9b7,bias.hospital,available,55.98,71.98,medium,low,4,namecheap,,,09/08/2026 18:35
 48b6a190-48b9-4312-9573-7098a875a287,dubstep.hospital,available,57.99,57.99,high,low,7,namesilo,,,
 ae960864-656c-4a8d-bfa1-cac44a0ad809,armful.hospital,available,57.99,57.99,medium,low,6,namesilo,,,20/09/2026 06:50
@@ -474,6 +533,7 @@ ae960864-656c-4a8d-bfa1-cac44a0ad809,armful.hospital,available,57.99,57.99,mediu
 35adb879-2c24-47f1-9b95-c76d4b5d9baf,nps.hospital,available,45.83,45.83,high,low,3,porkbun,,,28/09/2026 16:21
 eba5fd69-6d7b-4a54-8678-10b57f696d1b,sommer.hospital,available,44.2,44.2,high,low,6,cloudflare,,,29/09/2026 21:09
 4fe9d576-7801-4a28-9fd9-0cc9008d8358,sara.hospital,available,55.98,71.98,high,low,4,namecheap,,,25/09/2026 21:30
+80ba92bb-a20d-4e1f-8411-d698b1dad958,locust.hospital,available,47.3,47.3,medium,low,6,dynadot,,,30/09/2026 17:55
 3951bc86-e485-4ca7-a2cf-1989e17360d2,carter.hospital,available,47.3,47.3,high,low,6,dynadot,,,29/09/2026 06:16
 edaa7bb1-aeea-4a93-a407-79a5f3e87273,whore.hospital,available,77.99,83.99,high,low,5,name.com,,,13/08/2026 14:16
 b2853ec3-cf2c-42a4-a05d-af7fc285c705,prayer.hospital,available,57.99,57.99,high,low,6,namesilo,,,28/09/2026 01:59
@@ -481,10 +541,11 @@ b2853ec3-cf2c-42a4-a05d-af7fc285c705,prayer.hospital,available,57.99,57.99,high,
 3198b878-f8cf-4148-89c1-c9aaafe369a6,ebionite.hospital,available,55.98,71.98,medium,low,8,namecheap,,,14/08/2026 23:04
 5995b84e-703f-4404-a8b0-e7dbbde4b7d2,prosecutors.hospital,available,55.98,71.98,medium,low,11,namecheap,,,30/09/2026 00:33
 7cca2093-b998-49a8-97f7-cfbdc96d5ac6,supplies.hospital,available,57.99,57.99,medium,low,8,namesilo,,,
-309d4ffd-84b8-4d10-81be-6d5c66d2df15,jansen.hospital,available,47.3,47.3,high,low,6,dynadot,,,28/09/2026 18:46
+309d4ffd-84b8-4d10-81be-6d5c66d2df15,jansen.hospital,available,47.3,47.3,medium,low,6,dynadot,,,28/09/2026 18:46
 5c4ee6b4-3388-4f1c-8f02-6bfb6eda87db,leaning.hospital,available,55.98,71.98,high,low,7,namecheap,,,07/08/2026 13:24
 447032b1-3f9d-4712-8721-5bccf95bc128,shadowy.hospital,available,55.98,71.98,medium,low,7,namecheap,,,10/09/2026 05:28
 fadb793d-1f35-40ee-bdfd-c94bbe9c8d33,nigerien.hospital,available,55.98,71.98,medium,low,8,namecheap,,,03/09/2026 17:14
+7bddc669-140b-45df-ad20-418c1fc88c1b,purchases.hospital,available,57.99,57.99,medium,low,9,namesilo,,,30/09/2026 07:19
 83f07f5c-5470-4f7d-a149-edf945bb9d0d,celebrated.hospital,available,55.98,71.98,high,low,10,namecheap,,,11/08/2026 23:10
 eb802a30-b89a-4d84-948c-648113bbb7fc,anaglyph.hospital,available,57.99,57.99,medium,low,8,namesilo,,,19/09/2026 01:21
 4249d296-ae47-4d37-9669-2ab1ce6f8793,factually.hospital,available,55.98,71.98,medium,low,9,namecheap,,,14/09/2026 17:27
@@ -505,7 +566,7 @@ a68c826b-edd9-4355-9475-58c8fec85a58,chosen.hospital,available,55.98,71.98,high,
 da0f4106-e824-48bf-8591-45dac6769704,jean.hospital,available,57.99,57.99,high,low,4,namesilo,,,28/09/2026 01:02
 0430e244-e082-4ace-b123-1c86a1948449,flood.hospital,available,55.98,71.98,high,low,5,namecheap,,,29/09/2026 13:53
 d78e184c-6a13-4d02-af98-4bde5cd82444,robustness.hospital,available,45.74,45.74,high,low,10,spaceship,,,29/09/2026 19:07
-5568565e-5ce7-4e88-a811-1ee2d0a3c2fc,problem.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+5568565e-5ce7-4e88-a811-1ee2d0a3c2fc,problem.hospital,available,45.74,45.74,high,low,7,spaceship,,,30/09/2026 07:28
 8791a0da-3f0b-4829-95df-d317f792933e,feared.hospital,available,47.3,47.3,medium,low,6,dynadot,,,28/09/2026 11:28
 bbfd35c9-de39-4dd3-a27a-c504f1403498,torturing.hospital,available,55.98,71.98,medium,low,9,namecheap,,,
 fe09d58a-d49c-4cf3-922e-d8475880b1d3,upmarket.hospital,available,55.98,71.98,high,low,8,namecheap,,,12/09/2026 23:13
@@ -534,15 +595,17 @@ ba685d3a-058b-455b-9a04-b6a30a8c4927,morristown.hospital,available,47.3,47.3,med
 5eff3a6c-62db-4c4b-bac0-756d1367be02,housewife.hospital,available,57.99,57.99,high,low,9,namesilo,,,29/09/2026 01:18
 3da2bbf2-682b-4097-9582-1afa6830f17b,fixed.hospital,available,55.98,71.98,high,low,5,namecheap,,,24/09/2026 19:10
 401de3f1-92d4-4149-a1a6-362e924e3f27,design.hospital,available,57.99,57.99,high,medium,6,namesilo,,,28/09/2026 09:12
-4b88ab0a-76cb-4674-898d-151bbd257659,considering.hospital,available,57.99,57.99,high,low,11,namesilo,,,26/09/2026 03:06
-7588cf5b-ba49-475a-924e-8af517faf53d,concoct.hospital,available,57.99,57.99,high,low,7,namesilo,,,
+4b88ab0a-76cb-4674-898d-151bbd257659,considering.hospital,available,57.99,57.99,medium,low,11,namesilo,,,26/09/2026 03:06
+7588cf5b-ba49-475a-924e-8af517faf53d,concoct.hospital,available,45.74,45.74,high,low,7,spaceship,,,30/09/2026 17:42
 6383a888-8d09-40cc-9a9a-253d79131ed2,peyton.hospital,available,45.74,45.74,medium,low,6,spaceship,,,28/09/2026 18:24
+ffcfb099-4cdf-4646-a813-fa86ddd6efbb,mandalay.hospital,available,57.99,57.99,high,low,8,namesilo,,,01/10/2026 02:58
 d40a117f-7673-4ed8-8622-2e2b42dc859d,snipefish.hospital,available,57.99,57.99,medium,low,9,namesilo,,,23/09/2026 06:28
-68bc6230-96c7-4d7c-88e2-d2d8317b7108,artesian.hospital,available,55.98,71.98,high,low,8,namecheap,,,06/08/2026 22:39
+68bc6230-96c7-4d7c-88e2-d2d8317b7108,artesian.hospital,available,55.98,71.98,medium,low,8,namecheap,,,06/08/2026 22:39
+a5d6f9ae-c05e-4b20-98d0-bc8d137eab1e,ivo.hospital,available,57.99,57.99,high,low,3,namesilo,,,30/09/2026 04:54
 e3561922-a436-492b-a5aa-3b422ee60202,chuck.hospital,available,55.98,71.98,high,low,5,namecheap,,,08/09/2026 10:16
 145b95a7-bac7-4474-8ae2-0477a162fd21,obvious.hospital,available,57.99,57.99,high,low,7,namesilo,,,25/09/2026 23:50
 6ce631f1-d037-444a-9fcf-3f589d5bb714,heartsease.hospital,available,57.99,57.99,medium,low,10,namesilo,,,20/09/2026 19:40
-80dce629-d6c7-485d-a0f3-258c4083955b,armature.hospital,available,57.99,57.99,high,low,8,namesilo,,,20/09/2026 06:32
+80dce629-d6c7-485d-a0f3-258c4083955b,armature.hospital,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 06:32
 132cd888-41c4-4f16-b3e6-02e4003d6697,tameable.hospital,available,55.98,71.98,medium,low,8,namecheap,,,11/09/2026 07:38
 a7c9fbd1-4337-4e59-ac85-da656b393959,unwelcome.hospital,available,55.98,71.98,medium,low,9,namecheap,,,12/09/2026 22:38
 b1990d36-2cb6-4a9c-92f7-723f28d66606,jonah.hospital,available,55.98,71.98,high,low,5,namecheap,,,24/09/2026 06:55
@@ -551,7 +614,7 @@ b7d3e027-c8cc-4f0e-890f-3ca1048fb05a,pity.hospital,available,57.99,57.99,high,lo
 bdd16c0d-1ae8-4f62-9d12-b0e33c8d4af2,defence.hospital,available,55.98,71.98,high,low,7,namecheap,,,29/09/2026 13:32
 d8be1575-6e27-43a6-87e1-472c23df7821,habitual.hospital,available,55.98,71.98,high,low,8,namecheap,,,20/08/2026 21:28
 8173e7a5-05df-402a-97e5-02dd66913907,senate.hospital,available,45.74,45.74,medium,low,6,spaceship,,,28/09/2026 10:53
-8a262d13-c6dd-451d-a548-210bdaa1c37c,designs.hospital,available,45.74,45.74,high,low,7,spaceship,,,28/09/2026 04:06
+8a262d13-c6dd-451d-a548-210bdaa1c37c,designs.hospital,available,44.2,44.2,high,low,7,cloudflare,,,30/09/2026 20:49
 158ef361-add9-489c-8a58-48fb8e0d5fb8,wrath.hospital,available,45.74,45.74,medium,low,5,spaceship,,,28/09/2026 20:48
 d3e67a42-4874-47db-bfe8-078f7ca4f9d7,informs.hospital,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 13:37
 6762cd29-2c20-441a-9e68-4d1252947b57,share.hospital,available,57.99,57.99,high,medium,5,namesilo,,,29/09/2026 11:30
@@ -559,7 +622,7 @@ d3e67a42-4874-47db-bfe8-078f7ca4f9d7,informs.hospital,available,57.99,57.99,medi
 45244bcf-3124-4d42-88b4-a4e8c35ce3f9,colorize.hospital,available,55.98,71.98,medium,low,8,namecheap,,,12/08/2026 17:34
 a79d4a3f-09c5-45ac-aea9-5070ac3fdd34,thundered.hospital,available,57.99,57.99,medium,low,9,namesilo,,,20/09/2026 16:05
 98371de4-03a5-4a9b-88dc-98afb95b6b5c,clare.hospital,available,44.2,44.2,high,low,5,cloudflare,,,29/09/2026 03:17
-4ff1d830-447b-4395-9c06-cd7b6fdd945e,suggestive.hospital,available,55.98,71.98,high,low,10,namecheap,,,21/08/2026 22:34
+4ff1d830-447b-4395-9c06-cd7b6fdd945e,suggestive.hospital,available,55.98,71.98,medium,low,10,namecheap,,,21/08/2026 22:34
 64fa90d7-abc0-4ca5-9910-33fae0b58d55,michel.hospital,available,55.98,71.98,high,low,6,namecheap,,,25/09/2026 12:46
 943e74f1-6f15-44e8-a532-e20b63eba81c,harper.hospital,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 06:58
 cee449c8-3c67-4e47-ab6a-f00ffa9993a8,league.hospital,available,44.2,44.2,high,low,6,cloudflare,,,30/09/2026 02:33
@@ -576,6 +639,7 @@ ec8a6e09-a069-4c6d-b98c-88c13f6d3916,cenozoic.hospital,available,55.98,71.98,med
 3df2e8b3-b6f3-4994-99c3-25282b09fec8,tips.hospital,available,57.99,57.99,high,low,4,namesilo,,,19/09/2026 17:44
 66b4fd30-3c2b-41cf-80fc-6f851cbb41cc,papillary.hospital,available,55.98,71.98,medium,low,9,namecheap,,,05/09/2026 01:21
 9ff27258-63d6-49ec-a1a0-3df372af5789,shawn.hospital,available,45.74,45.74,high,low,5,spaceship,,,27/09/2026 15:48
+5b98d833-506d-4b20-877b-c02f96f6a051,spacing.hospital,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 18:47
 45e0b231-da53-4b27-9907-a784aedbbc02,stunted.hospital,available,55.98,71.98,medium,low,7,namecheap,,,10/09/2026 23:04
 a26bc661-4f79-4d7f-998d-7c9f5a2b5b03,diplomat.hospital,available,57.99,57.99,high,low,8,namesilo,,,29/09/2026 15:06
 7c11a880-4e68-485b-b74a-89bc9a1316fe,stoolie.hospital,available,55.98,71.98,medium,low,7,namecheap,,,11/08/2026 16:46
@@ -583,25 +647,28 @@ a26bc661-4f79-4d7f-998d-7c9f5a2b5b03,diplomat.hospital,available,57.99,57.99,hig
 52949d89-c082-4770-bf45-2c4718c8b107,samarium.hospital,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 23:24
 e2b1a177-9a59-4290-a4f8-b3e32e89f66e,ruhr.hospital,available,57.99,57.99,medium,low,4,namesilo,,,29/09/2026 02:04
 f828a61e-57e0-48e9-939f-b1b98e0e7519,technical.hospital,available,44.2,44.2,high,low,9,cloudflare,,,28/09/2026 08:48
+32619e64-940f-4d8d-a13e-4364fefe8cfd,ascend.hospital,available,45.74,45.74,high,medium,6,spaceship,,,30/09/2026 03:12
+8f60affb-ba74-4f14-9d42-c5b5f0e2b4c1,bishops.hospital,available,44.2,44.2,low,low,7,cloudflare,,,30/09/2026 23:08
 62e4943d-f520-4141-bf38-bfe5b413c5c2,leaky.hospital,available,55.98,71.98,medium,low,5,namecheap,,,22/08/2026 22:01
 9a7fc76a-4774-4add-b4b5-b46261bd6426,gower.hospital,available,57.99,57.99,medium,low,5,namesilo,,,29/09/2026 04:18
 2e2fa642-0c2e-4b41-9a64-e65d5d504a73,polled.hospital,available,57.99,57.99,high,low,6,namesilo,,,20/09/2026 17:21
 d5b9d402-d9e8-453a-8bcf-1f9108f66e73,once.hospital,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 15:11
 5ab1392f-2828-4b9f-9259-dd35d91da7d9,adh.hospital,available,77.99,83.99,high,low,3,name.com,,,17/09/2026 07:56
-d32ee3b0-2ce8-40e1-8334-27fb3e3e9b64,affirmative.hospital,available,57.99,57.99,high,low,11,namesilo,,,
+d32ee3b0-2ce8-40e1-8334-27fb3e3e9b64,affirmative.hospital,available,45.74,45.74,high,low,11,spaceship,,,30/09/2026 22:02
 1b9bd83d-48a6-491f-9cdb-e12f7dfcb0c8,looks.hospital,available,57.99,57.99,high,low,5,namesilo,,,
 95b4bc5f-296b-41cb-95f2-d7afbed53d03,abnaki.hospital,available,55.98,71.98,medium,low,6,namecheap,,,
 ebed64e2-9fbf-4afa-ae9c-b454d7cb10ab,belongs.hospital,available,55.98,71.98,medium,low,7,namecheap,,,25/09/2026 20:38
 a6194efe-44fb-4f83-9e42-a295ae42b4fa,paltry.hospital,available,55.98,71.98,medium,low,6,namecheap,,,24/08/2026 18:25
 371e5a8b-ea36-44a8-a379-c198aba817fb,victims.hospital,available,55.98,71.98,medium,low,7,namecheap,,,18/09/2026 21:07
 9df8ad94-c338-4726-a17e-49e224b74a7f,raiser.hospital,available,77.99,83.99,medium,low,6,name.com,,,17/09/2026 19:22
+21825530-8862-4d80-8253-e8958d959fe2,coachella.hospital,available,44.2,44.2,high,low,9,cloudflare,,,30/09/2026 22:20
 ada8b63e-897d-4bc1-852a-91927a2b4eb3,lay.hospital,available,57.99,57.99,high,low,3,namesilo,,,25/09/2026 13:03
 0a6cb7c7-c857-4a6e-8575-ff642fc500e9,touchdown.hospital,available,45.74,45.74,high,low,10,spaceship,,,28/09/2026 20:40
 fdc0d05d-e5a1-478d-848e-9a815de3e97d,giza.hospital,available,45.74,45.74,high,low,4,spaceship,,,29/09/2026 17:47
 b4be521b-12b5-4275-9f92-9e6aab4ba0bf,banning.hospital,available,55.98,71.98,medium,low,7,namecheap,,,18/08/2026 11:11
 94f39d57-0a40-4e16-afe8-52c22359274d,statehood.hospital,available,71.98,,high,low,9,namecheap,,,
 0af639dd-d023-4afe-a4b2-dc93a1928a5c,breast.hospital,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 08:29
-7d5e4e64-45d6-4ec2-a7a1-b36c5338bda6,glaring.hospital,available,55.98,71.98,high,low,7,namecheap,,,10/08/2026 13:47
+7d5e4e64-45d6-4ec2-a7a1-b36c5338bda6,glaring.hospital,available,55.98,71.98,medium,low,7,namecheap,,,10/08/2026 13:47
 138b48be-b1f0-450a-b946-2160efd1bdfa,bismarck.hospital,available,57.99,57.99,high,low,8,namesilo,,,23/09/2026 22:03
 4da34758-56cd-4595-bb29-602238e76430,fleshly.hospital,available,55.98,71.98,medium,low,7,namecheap,,,
 690bf4f5-fd07-48ce-8211-40dcffb670ec,vancouver.hospital,premium,128.7,128.7,high,medium,9,namecheap,,,29/09/2026 12:40
@@ -610,6 +677,7 @@ b4be521b-12b5-4275-9f92-9e6aab4ba0bf,banning.hospital,available,55.98,71.98,medi
 50416645-a18c-40ba-a09c-fb9677c3f63f,conditioning.hospital,available,45.83,45.83,high,low,12,porkbun,,,28/09/2026 12:54
 626eb562-e859-4939-961c-e62b670283ac,sitting.hospital,available,45.74,45.74,high,low,7,spaceship,,,27/09/2026 19:14
 04bc6040-ba67-4dc9-9cb6-b5055242d7ee,term.hospital,available,45.74,45.74,high,low,4,spaceship,,,29/09/2026 20:09
+dd54fe3a-8727-4140-9804-a52fb297c5f5,magistrate.hospital,available,55.98,71.98,high,low,10,namecheap,,,01/10/2026 02:56
 61851bd0-4e73-49dd-b2cf-3dc8501a112a,kathleen.hospital,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 14:34
 d975d7e8-0e2c-43f8-9da5-e149f4d1e5b1,abradant.hospital,available,55.98,71.98,medium,low,8,namecheap,,,
 7a09dd9e-f1d3-4e3f-8cd1-460fa0a8872e,unstated.hospital,available,55.98,71.98,medium,low,8,namecheap,,,12/09/2026 09:45
@@ -618,6 +686,8 @@ d975d7e8-0e2c-43f8-9da5-e149f4d1e5b1,abradant.hospital,available,55.98,71.98,med
 98f6161f-ae35-4bb1-9b73-452e825aa15e,cloudberry.hospital,available,55.98,71.98,medium,low,10,namecheap,,,21/09/2026 20:03
 f43f1fa0-a672-43e5-b428-24baa73225d6,antiacid.hospital,available,57.99,57.99,high,low,8,namesilo,,,22/09/2026 05:47
 618f4a5c-4eec-4e55-92ec-e8f08a29cd7c,chichi.hospital,available,55.98,71.98,high,low,6,namecheap,,,12/08/2026 04:46
+46764d5f-1e89-4158-bfd1-4d7e7ba15145,counterpart.hospital,available,57.99,57.99,high,low,11,namesilo,,,30/09/2026 03:28
+d9463bf7-4652-43ed-9221-3012e7494598,artie.hospital,available,44.2,44.2,medium,low,5,cloudflare,,,30/09/2026 13:26
 a0910c70-ff2a-46f8-b036-f1728f42699b,strontium.hospital,available,57.99,57.99,medium,low,9,namesilo,,,20/09/2026 22:59
 a648ef21-56da-40b8-af91-f3f2d09025ea,parameters.hospital,available,47.3,47.3,medium,low,10,dynadot,,,30/09/2026 00:21
 f8f85410-b080-41bc-9f0b-f496be0aaa1b,plata.hospital,available,57.99,57.99,high,low,5,namesilo,,,27/09/2026 02:58
@@ -628,27 +698,30 @@ f8f85410-b080-41bc-9f0b-f496be0aaa1b,plata.hospital,available,57.99,57.99,high,l
 24396ec5-d758-4548-b665-0a47eba3309e,denied.hospital,available,57.99,57.99,low,low,6,namesilo,,,27/09/2026 02:21
 eec5c1a4-239e-444f-81a1-4bff775e97bf,daydream.hospital,available,57.99,57.99,high,low,8,namesilo,,,17/09/2026 22:00
 812d2ca3-a2d6-45bd-a77c-fba1f826db6c,grill.hospital,available,57.99,57.99,high,low,5,namesilo,,,28/09/2026 05:54
-80f57dc1-59b4-40bc-8201-22404abf59f6,northfield.hospital,available,44.2,44.2,high,low,10,cloudflare,,,29/09/2026 10:07
+eb28815e-9dc7-4dbf-8157-c1a723c39a37,homeowner.hospital,available,57.99,57.99,high,low,9,namesilo,,,30/09/2026 10:09
+80f57dc1-59b4-40bc-8201-22404abf59f6,northfield.hospital,available,44.2,44.2,medium,low,10,cloudflare,,,29/09/2026 10:07
 766306cd-785b-4fb7-9ada-a01b050fec42,aviation.hospital,available,57.99,57.99,high,low,8,namesilo,,,17/09/2026 22:43
 4ccdc260-7126-4c8a-881a-8b073ce1acc2,xix.hospital,available,55.98,71.98,high,low,3,namecheap,,,21/09/2026 12:08
 60d41372-737a-4e7b-ad64-9fe036b06bb0,bandolier.hospital,available,57.99,57.99,medium,low,9,namesilo,,,22/09/2026 01:27
 9f385e71-30af-4c0d-9803-0d6335042bde,clef.hospital,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 15:30
+39c4cc6c-30cc-4506-8579-e2f1327601dd,pcl.hospital,available,45.74,45.74,high,low,3,spaceship,,,30/09/2026 21:08
 6788554f-9c07-4159-9289-c6517ecad76c,subversive.hospital,available,55.98,71.98,high,low,10,namecheap,,,22/08/2026 07:46
-060135e1-2be6-40cb-9e3c-7b197d85d49d,observation.hospital,available,47.3,47.3,high,low,11,dynadot,,,28/09/2026 07:02
-44eab51a-7362-4cf3-8fab-2581340f98fd,veg.hospital,available,57.99,57.99,high,low,3,namesilo,,,
+060135e1-2be6-40cb-9e3c-7b197d85d49d,observation.hospital,available,57.99,57.99,high,low,11,namesilo,,,30/09/2026 05:44
+44eab51a-7362-4cf3-8fab-2581340f98fd,veg.hospital,available,47.3,47.3,high,low,3,dynadot,,,30/09/2026 14:22
 2af7b3ac-62f6-4246-bce1-d1e698bc8af4,defy.hospital,available,45.74,45.74,high,low,4,spaceship,,,29/09/2026 20:41
+2818df63-efb6-466f-9a11-816bb8a6c5da,leed.hospital,available,45.83,45.83,high,low,4,porkbun,,,30/09/2026 20:18
 b704a303-2d84-455e-afbe-996c8389a36d,presiding.hospital,available,44.2,44.2,medium,low,9,cloudflare,,,29/09/2026 16:06
 f509b0a8-4cab-45a5-a797-f1658d2fda15,comma.hospital,available,55.98,71.98,high,low,5,namecheap,,,24/09/2026 16:27
 348fe90c-c204-4756-b36d-ddd54446d495,robbed.hospital,available,57.99,57.99,low,low,6,namesilo,,,27/09/2026 02:44
 d54006c3-61d2-40cd-affc-3858a0b27af7,owl.hospital,available,55.98,71.98,high,medium,3,namecheap,,,23/09/2026 20:08
 1899ee80-7975-46ad-b52d-87e7c02f5766,exclusive.hospital,available,55.98,71.98,high,low,9,namecheap,,,17/08/2026 16:33
 3923853c-5b08-48ba-b649-f79f050752ea,glaucous.hospital,available,55.98,71.98,medium,low,8,namecheap,,,20/08/2026 14:16
-eaa2b99a-6a26-457e-9309-047340724ed9,runabout.hospital,available,57.99,57.99,high,low,9,namesilo,,,
+eaa2b99a-6a26-457e-9309-047340724ed9,runabout.hospital,available,57.99,57.99,medium,low,9,namesilo,,,
 b3a4a46f-f9c3-4d72-a356-766e70f9a3b2,shines.hospital,available,45.74,45.74,medium,low,6,spaceship,,,29/09/2026 17:16
 70dd2e53-15aa-4c16-b036-c685156476f0,pondering.hospital,available,55.98,71.98,high,low,9,namecheap,,,11/08/2026 06:01
 d4ddecb4-d495-4c35-818f-6e2187ddd34d,bathing.hospital,available,57.99,57.99,high,low,7,namesilo,,,22/09/2026 13:36
 e8b1b852-c66e-4e2a-a6ca-20a92c285f7f,connatural.hospital,available,55.98,71.98,medium,low,10,namecheap,,,12/08/2026 22:18
-6c5ab6a6-e43b-4118-94e3-ce8e575c1ac0,moldavia.hospital,available,57.99,57.99,high,low,8,namesilo,,,29/09/2026 13:27
+6c5ab6a6-e43b-4118-94e3-ce8e575c1ac0,moldavia.hospital,available,57.99,57.99,medium,low,8,namesilo,,,29/09/2026 13:27
 3e8e9e4b-eb30-400c-9023-a7bf4e63c3dc,akha.hospital,available,57.99,57.99,medium,low,4,namesilo,,,17/09/2026 23:55
 4844fcfe-9723-4f4e-8413-71e6b9caec3a,wang.hospital,available,45.74,45.74,high,low,4,spaceship,,,27/09/2026 17:02
 4b121621-a44b-45c6-8f8f-1c492b053279,presently.hospital,available,55.98,71.98,medium,low,9,namecheap,,,28/09/2026 13:26
@@ -658,15 +731,18 @@ b1bb31c4-5afa-45a9-9d02-2ccdea81bd7e,unformed.hospital,available,55.98,71.98,med
 b2bc4fac-1261-41dd-a0f3-b4cc900cae0d,autocracy.hospital,available,55.98,71.98,medium,low,9,namecheap,,,21/09/2026 06:08
 7086e237-ed5e-4379-ac03-5b6e7fc1c82b,singing.hospital,available,55.98,71.98,high,low,7,namecheap,,,11/08/2026 17:40
 3686e66e-9ffa-4538-9018-a3957434427b,shrek.hospital,available,,,high,medium,5,,,,
-fb9e8dd8-9fa6-4f5a-a696-419fbe95a61a,thursday.hospital,available,71.98,,high,low,8,namecheap,,,
+fb9e8dd8-9fa6-4f5a-a696-419fbe95a61a,thursday.hospital,available,47.3,47.3,high,low,8,dynadot,,,30/09/2026 13:11
 3f2c1f0a-6cd6-4085-b7d6-76547ccecd55,diskette.hospital,available,55.98,71.98,high,low,8,namecheap,,,18/08/2026 08:53
 acb09b43-b413-4973-89bf-16e9a30ed5e6,imposed.hospital,available,55.98,71.98,medium,low,7,namecheap,,,21/08/2026 22:50
+7034a647-d40a-4ee2-9077-4e2770c19ff6,diagnose.hospital,available,44.2,44.2,high,low,8,cloudflare,,,30/09/2026 19:11
 9b86a94f-6a89-4679-8cab-be645821dbeb,aides.hospital,available,55.98,71.98,high,low,5,namecheap,,,17/09/2026 20:51
 ad64f007-69b2-4682-9172-11f29f3031bf,demonic.hospital,available,55.98,71.98,medium,low,7,namecheap,,,14/08/2026 01:26
 affa8b3c-9dda-406e-96cd-be2fab27a070,slovenly.hospital,available,55.98,71.98,medium,low,8,namecheap,,,18/08/2026 16:55
 b726217b-6be3-48f6-91cc-0eeee8e57552,beastly.hospital,available,55.98,71.98,medium,low,7,namecheap,,,09/08/2026 04:54
 177bddca-e516-41fe-ba21-e0f62125506c,centuries.hospital,available,57.99,57.99,medium,low,9,namesilo,,,17/09/2026 04:43
+53e00bd1-9bd9-4f21-8488-e81abb30b6c1,cohomology.hospital,available,45.74,45.74,medium,low,10,spaceship,,,30/09/2026 15:06
 bf3bb361-6c93-4a50-8837-b5e3c0d05a7b,tattler.hospital,available,55.98,71.98,medium,low,7,namecheap,,,11/09/2026 10:30
+af6860e5-cecf-42f2-b1e1-c41d7f736e38,haus.hospital,available,44.2,44.2,medium,low,4,cloudflare,,,30/09/2026 14:07
 46e9f01f-db25-4232-8ff6-1e7fd3f9816c,diplomacy.hospital,available,45.74,45.74,high,low,9,spaceship,,,29/09/2026 15:04
 8b5c53c4-126d-41a5-842b-15ebd2302eb7,alsatia.hospital,available,57.99,57.99,medium,low,7,namesilo,,,18/09/2026 14:16
 cd5b8999-935f-4335-84af-8bd31720acd0,area.hospital,available,45.74,45.74,high,low,4,spaceship,,,28/09/2026 22:00
@@ -674,9 +750,9 @@ ddf08178-bfbf-41af-b753-05dc8de147e6,agenda.hospital,available,57.99,57.99,high,
 dcaa7f28-987b-44a9-a056-df2e9cc21083,salty.hospital,available,57.99,57.99,high,low,5,namesilo,,,19/09/2026 11:13
 a099db01-948b-4c1a-b480-e8f8ffe3031d,sweptwing.hospital,available,55.98,71.98,medium,low,9,namecheap,,,11/09/2026 05:46
 88d1a48d-e011-4397-82bb-4b75675bb97f,smith.hospital,available,55.98,71.98,high,medium,5,namecheap,,,28/09/2026 18:16
-c332c8b9-3f7f-4426-8944-0e0ef73c992d,akko.hospital,available,57.99,57.99,high,low,4,namesilo,,,16/09/2026 22:23
+c332c8b9-3f7f-4426-8944-0e0ef73c992d,akko.hospital,available,57.99,57.99,medium,low,4,namesilo,,,16/09/2026 22:23
 b49ac299-132f-44c1-ad40-df8860fb317b,wain.hospital,available,55.98,71.98,medium,low,4,namecheap,,,23/09/2026 14:30
-9e1faeb7-6ac6-4810-be0f-7283ab3bb22a,skies.hospital,available,55.98,71.98,high,low,5,namecheap,,,18/09/2026 07:49
+9e1faeb7-6ac6-4810-be0f-7283ab3bb22a,skies.hospital,available,55.98,71.98,medium,low,5,namecheap,,,18/09/2026 07:49
 5eb64364-01e1-41c1-8e1e-a011e2d43120,academia.hospital,available,47.3,47.3,high,low,8,dynadot,,,28/09/2026 08:49
 810f357c-95e5-4bb3-947f-20d8fdbdb0cd,karate.hospital,available,45.83,45.83,high,low,6,porkbun,,,28/09/2026 19:36
 386201b9-46fb-4fd1-9760-489eb29adfab,braun.hospital,available,57.99,57.99,high,low,5,namesilo,,,25/09/2026 02:19
@@ -688,6 +764,7 @@ c75764ca-9a53-4c20-894f-4e3c8a58fefe,maguey.hospital,available,55.98,71.98,mediu
 71df8533-6e45-42aa-a2c2-9585d2ee8352,mubarak.hospital,available,45.83,45.83,medium,low,7,porkbun,,,29/09/2026 13:04
 2f36964d-e1a0-4a5e-8644-0fd33ac1eca3,hollywood.hospital,available,55.98,71.98,high,low,9,namecheap,,,21/08/2026 10:34
 bc07de61-7191-41f5-9bef-d2f8f2119b8b,logistic.hospital,available,55.98,71.98,high,low,8,namecheap,,,24/08/2026 08:52
+d8e5e340-2e61-4856-916d-9740bbafcf5e,sash.hospital,available,45.74,45.74,high,low,4,spaceship,,,01/10/2026 01:27
 141b1665-7b0d-41d2-a01d-94bffad238a6,pairs.hospital,available,57.99,57.99,medium,low,5,namesilo,,,16/09/2026 14:58
 6e3d07d6-0391-4c3c-bf82-4764333583ad,climbed.hospital,available,45.74,45.74,low,low,7,spaceship,,,28/09/2026 08:46
 db8f4f96-8e31-4032-99a5-b7c7a1c1d42c,doubted.hospital,available,47.3,47.3,low,low,7,dynadot,,,29/09/2026 16:14
@@ -697,8 +774,8 @@ fdcbe9c5-ec86-419b-bb73-5b9ecf9b32cd,buddies.hospital,available,45.74,45.74,medi
 3e19fafc-ca11-4a0e-987c-0f5a7c596a50,marathi.hospital,available,45.74,45.74,medium,low,7,spaceship,,,29/09/2026 19:35
 8118bb1c-fff4-4e40-a2e1-7517e7452a6f,sceptical.hospital,available,55.98,71.98,medium,low,9,namecheap,,,14/08/2026 09:36
 dc8cf7b6-e763-4630-8e1b-2381e744177b,donkeywork.hospital,available,55.98,71.98,medium,low,10,namecheap,,,08/09/2026 21:22
-7dcedf09-d35a-48e2-95b2-1fa630e988f4,wendell.hospital,available,45.83,45.83,high,low,7,porkbun,,,27/09/2026 20:17
-6d3bb746-7196-48e1-b885-48b3a60796a8,xxiv.hospital,available,55.98,71.98,high,low,4,namecheap,,,
+7dcedf09-d35a-48e2-95b2-1fa630e988f4,wendell.hospital,available,45.83,45.83,medium,low,7,porkbun,,,27/09/2026 20:17
+6d3bb746-7196-48e1-b885-48b3a60796a8,xxiv.hospital,available,55.98,71.98,medium,low,4,namecheap,,,
 435706ea-a353-4a05-8008-8bfd80545fab,almoner.hospital,available,57.99,57.99,high,low,7,namesilo,,,18/09/2026 12:40
 fb41258c-4401-4e87-981f-77ffad68ae4e,phoenician.hospital,available,55.98,71.98,high,low,10,namecheap,,,08/09/2026 19:00
 87d0f319-61cd-4147-a740-8c0472eebfd7,frames.hospital,available,55.98,71.98,medium,low,6,namecheap,,,29/09/2026 11:27
@@ -707,8 +784,9 @@ fb41258c-4401-4e87-981f-77ffad68ae4e,phoenician.hospital,available,55.98,71.98,h
 b368283d-2720-4fde-924e-3f83b4910dfa,improving.hospital,available,55.98,71.98,high,low,9,namecheap,,,21/08/2026 23:17
 551de1b3-536d-44ac-a998-5ace474b98e8,focuses.hospital,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 21:43
 d3e013f1-c1e8-4960-b898-8612b1fe5286,axone.hospital,available,57.99,57.99,high,low,5,namesilo,,,21/09/2026 10:31
+3c38e5cb-74e7-4585-9b24-8e4f175bdfaf,foresight.hospital,available,45.74,45.74,high,low,9,spaceship,,,01/10/2026 02:12
 309436a8-9114-43c1-abce-ec290805f1dc,virago.hospital,available,57.99,57.99,medium,low,6,namesilo,,,18/09/2026 16:19
-a9871f83-a7c4-459e-9f54-75cb97432647,teammate.hospital,available,71.98,,high,low,8,namecheap,,,
+a9871f83-a7c4-459e-9f54-75cb97432647,teammate.hospital,available,47.3,47.3,high,low,8,dynadot,,,30/09/2026 12:51
 dc69c90e-2c6d-41d6-a16d-58895a92b255,retaliator.hospital,available,57.99,57.99,medium,low,10,namesilo,,,21/09/2026 08:57
 93327033-e13d-47eb-9b4b-e76b6cdc9c55,beater.hospital,available,55.98,71.98,high,low,6,namecheap,,,22/09/2026 21:38
 33508561-e8d7-4f48-8c48-8c1fb949ae15,barouche.hospital,available,57.99,57.99,medium,low,8,namesilo,,,22/09/2026 07:43
@@ -717,18 +795,22 @@ dc69c90e-2c6d-41d6-a16d-58895a92b255,retaliator.hospital,available,57.99,57.99,m
 9c04681f-e13c-44af-a673-b2ac16dc63c0,vase.hospital,available,45.74,45.74,high,low,4,spaceship,,,28/09/2026 11:03
 5b406a03-8acc-432d-bc85-ff0c8d36d7ab,papery.hospital,available,55.98,71.98,medium,low,6,namecheap,,,12/08/2026 02:43
 88c6217b-f13f-4e5a-a0a0-c1cf25235b0d,correspond.hospital,available,45.74,45.74,high,low,10,spaceship,,,29/09/2026 19:02
-84311c00-7432-4a0d-83ff-7f7a39a361dc,alsatian.hospital,available,55.98,71.98,high,low,8,namecheap,,,
+84311c00-7432-4a0d-83ff-7f7a39a361dc,alsatian.hospital,available,55.98,71.98,medium,low,8,namecheap,,,
 285e95ca-2e84-49c0-b046-2bdfb42b0e7a,coeliac.hospital,available,55.98,71.98,medium,low,7,namecheap,,,12/08/2026 15:21
 1240cd95-82ec-46a5-b174-bedc6f952894,clancy.hospital,available,45.74,45.74,medium,low,6,spaceship,,,28/09/2026 21:20
 1c216cf2-1eaa-4a08-80d9-9fbb15721ada,christine.hospital,available,45.74,45.74,high,low,9,spaceship,,,27/09/2026 19:02
 58f1eda3-1280-4843-a911-09838c378c46,range.hospital,available,109.99,109.99,high,low,5,godaddy,,,28/09/2026 01:38
 ca7e9d7e-b296-4033-aaeb-55996261ecc2,scalene.hospital,available,55.98,71.98,medium,low,7,namecheap,,,09/09/2026 22:25
 eb13a344-6a59-4f15-87c6-19657b7826fe,captivated.hospital,available,55.98,71.98,medium,low,10,namecheap,,,09/08/2026 09:52
+02666db3-84d1-489e-a5f9-f9eda5785ee3,gaon.hospital,available,45.74,45.74,high,low,4,spaceship,,,30/09/2026 19:42
 8662b28d-147e-4e7d-8d18-8122a8d2488a,clams.hospital,available,57.99,57.99,high,low,5,namesilo,,,24/09/2026 06:47
+771f000e-32bb-401e-a1bf-4caa91e5f722,commute.hospital,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 09:14
+ef1e80b3-5e00-4a99-99d9-5f74b34414d6,cyanide.hospital,available,45.83,45.83,medium,low,7,porkbun,,,30/09/2026 09:19
 41786a6d-f24a-4165-8a59-e92e74abb10f,und.hospital,available,57.99,57.99,high,low,3,namesilo,,,25/09/2026 11:22
 b609a69d-513b-4a0f-bcbb-9e66c566ccff,direction.hospital,available,57.99,57.99,high,low,9,namesilo,,,29/09/2026 07:46
+71907d42-6999-417c-9862-abfd3bdf729c,jukebox.hospital,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 10:20
 41d11c87-7f57-42c6-8905-e3425f93149c,undetected.hospital,available,55.98,71.98,medium,low,10,namecheap,,,12/09/2026 07:57
-773fa180-2856-4c1a-af4b-8742a3070352,adversary.hospital,available,57.99,57.99,high,low,9,namesilo,,,17/09/2026 10:44
+773fa180-2856-4c1a-af4b-8742a3070352,adversary.hospital,available,57.99,57.99,medium,low,9,namesilo,,,17/09/2026 10:44
 2b63e23a-3159-4e4b-94b0-d0e7f587005c,somme.hospital,available,57.99,57.99,medium,low,5,namesilo,,,22/09/2026 16:09
 d1ad7b0b-ec8a-4794-a83f-d514aa2e0d68,asteroidea.hospital,available,57.99,57.99,medium,low,10,namesilo,,,20/09/2026 17:14
 dba1cb01-1cd7-4a30-a2f2-e3ad7fa0a7a1,ethnic.hospital,available,77.99,83.99,high,low,6,name.com,,,24/09/2026 15:23
@@ -742,46 +824,51 @@ c9a80dd6-dd45-4843-9260-6a6e13f17c69,fingerprint.hospital,available,47.3,47.3,hi
 64e56fd3-61fc-474c-bf93-b5dfcdd782ac,shed.hospital,available,57.99,57.99,high,low,4,namesilo,,,23/09/2026 12:18
 1b66bd3d-ece1-49d5-8d60-a1d949ab6086,fallout.hospital,available,45.74,45.74,medium,low,7,spaceship,,,28/09/2026 19:11
 5b00a3a2-4204-46ab-b157-17d43ad8798d,butt.hospital,available,55.98,71.98,medium,low,4,namecheap,,,09/08/2026 10:40
-84299b67-c983-4dbc-a914-c90c06fc73ee,rae.hospital,available,57.99,57.99,high,low,3,namesilo,,,27/09/2026 01:43
+84299b67-c983-4dbc-a914-c90c06fc73ee,rae.hospital,available,57.99,57.99,medium,low,3,namesilo,,,27/09/2026 01:43
 f1553a56-7520-4932-8c3a-439a1bd015cb,amusing.hospital,available,,,high,low,7,,,,
 7dac597b-ff0a-48dd-b0af-aed852dd7950,charivari.hospital,available,57.99,57.99,medium,low,9,namesilo,,,23/09/2026 06:08
 8080900e-8d0f-4d94-ac27-a1a044f44983,affaire.hospital,available,57.99,57.99,medium,low,7,namesilo,,,17/09/2026 14:00
-cf37661d-46bf-4059-8d2e-e91112f501f8,beano.hospital,available,55.98,71.98,high,low,5,namecheap,,,22/09/2026 20:40
-42bef5a7-9ebe-4260-ae0c-dd7d72a4cdb7,surfboard.hospital,available,71.98,,high,low,9,namecheap,,,
+cf37661d-46bf-4059-8d2e-e91112f501f8,beano.hospital,available,55.98,71.98,medium,low,5,namecheap,,,22/09/2026 20:40
+42bef5a7-9ebe-4260-ae0c-dd7d72a4cdb7,surfboard.hospital,available,47.3,47.3,high,low,9,dynadot,,,30/09/2026 12:33
 bae09bb2-58f2-4bdf-8286-392a516d9fc1,discord.hospital,available,45.83,45.83,high,medium,7,porkbun,,,29/09/2026 15:32
 65a18c4b-ca66-4cce-abf9-1e244b8a2039,avidness.hospital,available,57.99,57.99,medium,low,8,namesilo,,,21/09/2026 09:29
 3784c55c-42ac-43ce-9bed-b041b5c4afa7,walt.hospital,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 12:09
 09cf62fd-0426-4646-953f-b2b3db127892,centered.hospital,available,55.98,71.98,high,low,8,namecheap,,,12/08/2026 00:03
+8f76f60c-8cfb-4f39-8885-75517a78769c,cones.hospital,available,45.74,45.74,high,low,5,spaceship,,,30/09/2026 15:18
+80a72b04-08cd-4943-865d-dbe7570961b4,mohave.hospital,available,57.99,57.99,high,low,6,namesilo,,,01/10/2026 03:01
 5639729a-cabd-47ce-ba4b-e6c3e2147559,dominic.hospital,available,57.99,57.99,high,low,7,namesilo,,,27/09/2026 03:45
 dd59e3b2-abbd-4394-88db-9aa073bff838,routledge.hospital,available,45.74,45.74,high,low,9,spaceship,,,28/09/2026 16:54
 a21242e9-a88b-4e1d-a0ad-2f0b9a0a223b,whir.hospital,available,55.98,71.98,medium,low,4,namecheap,,,13/09/2026 11:30
 738dbd49-fcd9-47ab-bd3e-17cce107c073,occurrence.hospital,available,55.98,71.98,high,low,10,namecheap,,,25/09/2026 23:56
 66370c6d-0694-4480-bd1d-8fd6a10dbcb0,mobiles.hospital,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 08:45
-e5760bbe-4e39-47e8-a12b-17038ba17452,ludlow.hospital,available,57.99,57.99,high,low,6,namesilo,,,27/09/2026 23:11
+e5760bbe-4e39-47e8-a12b-17038ba17452,ludlow.hospital,available,57.99,57.99,medium,low,6,namesilo,,,27/09/2026 23:11
 70bd6ba7-8fa9-484e-b859-941850fa6f79,gag.hospital,available,44.2,44.2,high,low,3,cloudflare,,,29/09/2026 20:25
 b802ba60-0417-4019-9a52-3f08a261fe3d,surprisingly.hospital,available,57.99,57.99,high,low,12,namesilo,,,
 54314cde-1113-43ce-9ba1-c89e14cc76e9,sisterly.hospital,available,55.98,71.98,high,low,8,namecheap,,,10/09/2026 08:52
 a729c17f-f9db-4ab2-8301-a34051a88993,individuals.hospital,available,57.99,57.99,low,low,11,namesilo,,,28/09/2026 12:49
 bab7a2b5-f9e1-43e6-9175-e4a8ae08e51e,eustace.hospital,available,45.74,45.74,medium,low,7,spaceship,,,29/09/2026 15:27
 2532b242-a7e2-4441-ac74-bb6bc7edccf5,never.hospital,available,45.74,45.74,high,low,5,spaceship,,,28/09/2026 16:23
-661cf2bf-4a6d-4bd4-9f4e-a89ed357839c,prison.hospital,available,57.99,57.99,high,low,6,namesilo,,,
+661cf2bf-4a6d-4bd4-9f4e-a89ed357839c,prison.hospital,available,45.74,45.74,high,low,6,spaceship,,,30/09/2026 07:26
 d09a3a07-0f89-4f1c-98a6-57a6a268b6ea,acetylene.hospital,available,57.99,57.99,medium,low,9,namesilo,,,17/09/2026 00:22
 59fa8e49-a40b-44cf-a736-94b1bc92c7d8,hugely.hospital,available,55.98,71.98,medium,low,6,namecheap,,,14/09/2026 15:49
 7ab35c74-fbe8-49cc-bab5-b15cf59b0f2c,tanganyika.hospital,available,45.74,45.74,medium,low,10,spaceship,,,29/09/2026 07:27
 4029022a-0d2e-4603-ac8e-8cd7d707c157,unreal.hospital,available,77.99,83.99,high,low,6,name.com,,,22/09/2026 09:00
 426d5842-3683-40dc-a3af-3ce48b6765ca,tenanted.hospital,available,55.98,71.98,medium,low,8,namecheap,,,11/09/2026 11:09
+128b6c22-3be7-4c20-9af3-b4adcb3911a8,strains.hospital,available,44.2,44.2,medium,low,7,cloudflare,,,30/09/2026 07:15
 125081e4-5d88-4d1c-ab81-142242ec685a,kin.hospital,available,55.98,71.98,high,low,3,namecheap,,,22/08/2026 16:00
-9e7c462e-6059-45ce-ba81-3c1faa07c05d,detached.hospital,available,55.98,71.98,high,low,8,namecheap,,,24/09/2026 07:07
+ff3e334e-9377-46da-831c-761f1b61d3d1,cougar.hospital,available,57.99,57.99,high,low,6,namesilo,,,30/09/2026 09:16
+9e7c462e-6059-45ce-ba81-3c1faa07c05d,detached.hospital,available,55.98,71.98,medium,low,8,namecheap,,,24/09/2026 07:07
 fb614bc5-0536-4ee9-a9c2-eee896d0f28c,eonian.hospital,available,55.98,71.98,medium,low,6,namecheap,,,
 e0eec324-0f8d-4d4a-b9b0-1f922405eec3,elected.hospital,available,55.98,71.98,high,low,7,namecheap,,,16/08/2026 02:35
 ff83b3de-bdd8-4418-92fd-e3e16a75b47b,presence.hospital,available,57.99,57.99,high,low,8,namesilo,,,24/09/2026 16:52
 1dbfe06b-f2cf-469e-8968-427f9b65fa8b,sensate.hospital,available,55.98,71.98,high,low,7,namecheap,,,10/09/2026 03:44
 77e9ae41-f2a7-44d7-a37d-d159e2d6a832,luther.hospital,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 23:29
+f3c42fb9-5fb2-4fec-8bef-a1c45c623b00,farah.hospital,available,45.74,45.74,high,low,5,spaceship,,,30/09/2026 05:37
 752d6e0a-3cef-48e3-b2ab-413db68cb9c2,anagram.hospital,available,45.83,45.83,high,low,7,porkbun,,,28/09/2026 21:09
 50d180f4-bf9b-4456-908b-71f915a516b6,prehensile.hospital,available,55.98,71.98,medium,low,10,namecheap,,,07/08/2026 22:14
 3bab5780-dad9-4e37-ac2d-6c51abb0f967,epic.hospital,available,57.99,57.99,high,medium,4,namesilo,,,24/09/2026 14:28
 770a6aa1-e498-42a3-bef6-3828a52ea03a,andes.hospital,available,57.99,57.99,high,low,5,namesilo,,,19/09/2026 04:04
-f27b9d29-905f-47e1-9d5a-a9640b4b6097,betrothal.hospital,available,57.99,57.99,high,low,9,namesilo,,,23/09/2026 11:34
+f27b9d29-905f-47e1-9d5a-a9640b4b6097,betrothal.hospital,available,57.99,57.99,medium,low,9,namesilo,,,23/09/2026 11:34
 3079eeb4-e130-4acf-84c2-98657e6dd4c9,prissy.hospital,available,55.98,71.98,medium,low,6,namecheap,,,04/09/2026 21:22
 59ea3c5c-d09b-48bf-8cfa-24571e742804,gauche.hospital,available,55.98,71.98,medium,low,6,namecheap,,,18/08/2026 20:41
 098d8b49-140a-4926-8c6b-abc4c9bbb0cb,amia.hospital,available,55.98,71.98,high,low,4,namecheap,,,18/09/2026 21:14
@@ -789,8 +876,9 @@ a4d83047-1b0f-4ebc-a3c6-7bbd08a297b8,grapefruit.hospital,available,55.98,71.98,h
 19a448fa-3381-4e2f-b1ef-4f28785c48ec,dutiful.hospital,available,55.98,71.98,high,low,7,namecheap,,,14/08/2026 21:39
 7abdcd1b-8204-406c-a76c-f4da644a6900,broker.hospital,available,77.99,83.99,high,low,6,name.com,,,24/09/2026 10:40
 377ccd03-1f46-4d67-b438-ffd141ce4e80,adjusting.hospital,available,57.99,57.99,high,low,9,namesilo,,,29/09/2026 14:33
-873779d2-97da-4592-8401-1189f028027a,edmund.hospital,available,55.98,71.98,high,low,6,namecheap,,,25/09/2026 19:09
+873779d2-97da-4592-8401-1189f028027a,edmund.hospital,available,55.98,71.98,medium,low,6,namecheap,,,25/09/2026 19:09
 5060ad1a-a92c-49ca-b40e-ba2c549e7315,anlage.hospital,available,57.99,57.99,medium,low,6,namesilo,,,19/09/2026 09:53
+3abf1103-e0cd-49a1-ad10-687be2d56944,slippers.hospital,available,45.74,45.74,medium,low,8,spaceship,,,30/09/2026 07:13
 ffbe9269-6a1b-4aab-ac9b-2feb1a4589e4,affecting.hospital,available,55.98,71.98,high,low,9,namecheap,,,
 57a1f4f0-8ddd-43e6-a61a-156324466227,wilsonian.hospital,available,55.98,71.98,medium,low,9,namecheap,,,13/09/2026 12:02
 4a457b8b-7e18-4c19-ad25-4fb44646ddcb,doug.hospital,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 13:24
@@ -798,17 +886,19 @@ ffbe9269-6a1b-4aab-ac9b-2feb1a4589e4,affecting.hospital,available,55.98,71.98,hi
 e16479c8-a59f-4bd6-b7e2-5b91769554a7,atonality.hospital,available,57.99,57.99,medium,low,9,namesilo,,,21/09/2026 00:25
 560222dd-5de7-4aa7-87b9-430ae89d4f07,populate.hospital,available,55.98,71.98,high,low,8,namecheap,,,24/08/2026 07:48
 231eaa13-802d-413a-86fc-284099a8a426,karlsruhe.hospital,available,45.74,45.74,medium,low,9,spaceship,,,28/09/2026 12:19
-31fb5bb0-0364-48a3-a4f1-ac704d164665,coincident.hospital,available,55.98,71.98,high,low,10,namecheap,,,12/08/2026 13:18
+31fb5bb0-0364-48a3-a4f1-ac704d164665,coincident.hospital,available,55.98,71.98,medium,low,10,namecheap,,,12/08/2026 13:18
+d9f3d130-7ff4-4290-a5b1-b5feef7778e0,thorns.hospital,available,44.2,44.2,medium,low,6,cloudflare,,,30/09/2026 23:36
 c2fd254e-ec55-45cd-aabe-6d390b003a75,decorative.hospital,available,55.98,71.98,high,low,10,namecheap,,,13/08/2026 02:51
 79fe0586-6dda-44b4-b2d3-3e67edf43dcd,actions.hospital,available,55.98,71.98,medium,low,7,namecheap,,,
 fdf02f8d-7556-45cd-a5b7-eb6f17f8ae58,gamin.hospital,available,55.98,71.98,medium,low,5,namecheap,,,11/09/2026 14:56
-3e8671b3-3c95-4623-a811-25c35d63f176,margosa.hospital,available,57.99,57.99,high,low,7,namesilo,,,20/09/2026 05:43
+3e8671b3-3c95-4623-a811-25c35d63f176,margosa.hospital,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 05:43
 f8e6e0c8-7449-42ad-a12e-9448516b1d4d,objectively.hospital,available,57.99,57.99,high,low,11,namesilo,,,
 a6539b7c-65fb-41fb-8846-ed5c85629fe2,immovable.hospital,available,55.98,71.98,medium,low,9,namecheap,,,21/08/2026 21:17
 0b238c44-a5fc-44ae-a389-62479ffcfcad,assassin.hospital,available,57.99,57.99,high,low,8,namesilo,,,20/09/2026 15:43
 9076ac2c-6397-4423-9ea5-f8dfcbcaf19e,newbury.hospital,available,57.99,57.99,medium,low,7,namesilo,,,28/09/2026 03:59
 880ea261-9d5b-4b3c-b2cb-61cc9a782058,benz.hospital,available,45.74,45.74,high,low,4,spaceship,,,29/09/2026 14:58
 d802de9d-381e-46ae-940c-ab8c2a50ccc6,dicker.hospital,available,77.99,83.99,medium,low,6,name.com,,,22/09/2026 05:30
+281a656d-a0c3-495c-99ea-420b78a20fbf,chivalry.hospital,available,57.99,57.99,high,low,8,namesilo,,,01/10/2026 01:21
 4a629dc4-9beb-4ae9-8499-2d1c5f77884b,loneliness.hospital,available,57.99,57.99,high,low,10,namesilo,,,18/09/2026 13:13
 bdfb4c4b-cf02-4144-8e43-a11828973036,cheerful.hospital,available,55.98,71.98,high,low,8,namecheap,,,12/08/2026 03:41
 1530fb84-9f4b-42f3-9792-7221b0cc6429,decrease.hospital,available,45.74,45.74,medium,low,8,spaceship,,,29/09/2026 00:39
@@ -816,7 +906,8 @@ bdfb4c4b-cf02-4144-8e43-a11828973036,cheerful.hospital,available,55.98,71.98,hig
 2289d889-7bd7-47c7-9da2-71ee4a4c8113,enlisted.hospital,available,45.74,45.74,medium,low,8,spaceship,,,28/09/2026 22:48
 f8d0c100-5e14-4ff6-a943-5098b006b715,abridged.hospital,available,55.98,71.98,high,low,8,namecheap,,,
 8922ce73-0b68-4068-84b8-fb7fce489d1d,studs.hospital,available,57.99,57.99,high,low,5,namesilo,,,
-45a1c6a2-09e8-42ac-9c31-24d186955260,alanine.hospital,available,57.99,57.99,high,low,7,namesilo,,,18/09/2026 01:50
+45a1c6a2-09e8-42ac-9c31-24d186955260,alanine.hospital,available,57.99,57.99,medium,low,7,namesilo,,,18/09/2026 01:50
+7dffd9ee-3ee7-404a-b601-fb351bd95973,originals.hospital,available,57.99,57.99,high,low,9,namesilo,,,30/09/2026 07:08
 e4ad63cd-70f7-4e76-883a-4e5370f76caa,geologist.hospital,available,57.99,57.99,high,low,9,namesilo,,,29/09/2026 12:39
 b2e38d1b-de2e-4418-827f-0db7e7f21948,jittery.hospital,available,55.98,71.98,medium,low,7,namecheap,,,15/08/2026 08:41
 74038def-f0d7-46d1-a3a7-007ef1711f62,storm.hospital,available,77.99,83.99,high,medium,5,name.com,,,25/09/2026 10:14
@@ -835,16 +926,19 @@ f6a2040e-deb5-48d5-976a-bb9eb85035b7,accepts.hospital,available,55.98,71.98,medi
 2725b9b1-7327-4300-afad-fb4c303c9c1d,interest.hospital,available,55.98,71.98,high,low,8,namecheap,,,08/09/2026 14:02
 af9adb5a-9ee5-4308-a7e4-fc939c9e7fed,nodular.hospital,available,55.98,71.98,medium,low,7,namecheap,,,03/09/2026 18:06
 70ced4b9-cc45-4886-bd8b-b146376f4f38,wanna.hospital,available,57.99,57.99,high,low,5,namesilo,,,26/09/2026 00:48
+4c89d3f9-b35d-4691-87ef-e48a346dc630,subconscious.hospital,available,45.74,45.74,high,low,12,spaceship,,,30/09/2026 03:47
 1c2689a3-1f48-458e-b740-61f58603e3e4,algonquin.hospital,available,55.98,71.98,high,low,9,namecheap,,,
 2c1468b1-f5aa-4488-a791-7faa0e55ee05,text.hospital,available,47.3,47.3,high,medium,4,dynadot,,,28/09/2026 02:24
 cd9f3238-7063-4f4e-bab8-fdf93543b53b,impotent.hospital,available,55.98,71.98,medium,low,8,namecheap,,,21/08/2026 22:52
 2123da77-e24a-474c-a120-7c38a428a450,dissolute.hospital,available,77.99,83.99,medium,low,9,name.com,,,13/08/2026 20:19
-a2b2d2c7-4078-48d1-81a7-2e60f5c1b331,docks.hospital,available,44.2,44.2,high,low,5,cloudflare,,,28/09/2026 17:14
+a2b2d2c7-4078-48d1-81a7-2e60f5c1b331,docks.hospital,available,44.2,44.2,medium,low,5,cloudflare,,,28/09/2026 17:14
 163fbdf0-e573-4f12-a20c-1d01422d647b,cathedra.hospital,available,55.98,71.98,medium,low,8,namecheap,,,23/09/2026 21:50
 1f4d77a4-cab2-4291-ae19-ea1fcadc1743,ultimately.hospital,available,44.2,44.2,medium,low,10,cloudflare,,,28/09/2026 12:39
 f4eee9f2-7d12-4f61-bc1a-d08c78a0afac,astonishing.hospital,available,44.2,44.2,high,low,11,cloudflare,,,29/09/2026 21:10
 6ab210ed-682d-400b-9b4c-21967440f14d,involved.hospital,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 11:16
+71fcb5ac-2fa5-4d59-8ac4-1149667a1b0e,composting.hospital,available,57.99,57.99,high,low,10,namesilo,,,01/10/2026 00:25
 98e119d3-6144-475d-8ce1-c2d6d4a1afd9,victim.hospital,available,44.2,44.2,high,low,6,cloudflare,,,29/09/2026 17:12
+c745a372-46e8-45ad-979c-b5ef7738f0c6,edson.hospital,available,57.99,57.99,medium,low,5,namesilo,,,30/09/2026 05:36
 1c33e9ba-5b83-4c97-89a8-c3534e437ef7,bleach.hospital,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 03:49
 01bada3f-3384-406c-ad57-b3a97a59144c,unwise.hospital,available,55.98,71.98,medium,low,6,namecheap,,,12/09/2026 22:42
 c778448c-d00e-4c97-924e-5d66248f34c7,midst.hospital,available,55.98,71.98,medium,low,5,namecheap,,,11/09/2026 13:11
@@ -860,6 +954,7 @@ ea5dacc7-35dc-45bc-a091-c1fa4808ac56,golan.hospital,available,109.99,109.99,medi
 671f5d5f-7a8e-4076-9279-ff5ed71cd368,ideals.hospital,available,55.98,71.98,medium,low,6,namecheap,,,29/09/2026 05:10
 7638daf4-fbea-4803-b294-d8e848b9004f,farm.hospital,available,44.2,44.2,high,low,4,cloudflare,,,29/09/2026 18:58
 bbda9a5a-d2a2-49da-9bec-cace3fb31e57,exceptional.hospital,available,45.74,45.74,high,low,11,spaceship,,,28/09/2026 11:15
+ba7b1c0c-cc17-4e67-a31e-7f08b12e9548,educator.hospital,available,44.2,44.2,high,low,8,cloudflare,,,30/09/2026 09:30
 53e59bc7-a2c4-4a36-a924-4a73d912632a,authorities.hospital,available,55.98,71.98,medium,low,11,namecheap,,,27/09/2026 02:17
 c4299e27-ed0b-4a4c-973a-aaba708bf94a,announcer.hospital,available,57.99,57.99,high,low,9,namesilo,,,19/09/2026 10:49
 3df7f731-1e14-43a2-9d79-1479358e1bc7,keys.hospital,available,57.99,57.99,high,medium,4,namesilo,,,
@@ -868,7 +963,7 @@ c4299e27-ed0b-4a4c-973a-aaba708bf94a,announcer.hospital,available,57.99,57.99,hi
 c047124c-cafe-4368-a1c0-7385479999d6,reminds.hospital,available,55.98,71.98,medium,low,7,namecheap,,,27/09/2026 03:09
 3506f086-8e52-4fa1-9674-f5bc5ae2c5a6,bimetal.hospital,available,55.98,71.98,high,low,7,namecheap,,,09/08/2026 22:52
 cec4ca7b-fe9b-4c35-838c-9742e9268375,azotic.hospital,available,55.98,71.98,medium,low,6,namecheap,,,08/08/2026 02:53
-48fc2068-9c43-4139-9805-5a049be32c73,page.hospital,available,57.99,57.99,high,low,4,namesilo,,,
+48fc2068-9c43-4139-9805-5a049be32c73,page.hospital,available,45.74,45.74,high,medium,4,spaceship,,,30/09/2026 06:20
 ed160206-74f5-4ad9-936f-0c595fb730c8,strident.hospital,available,55.98,71.98,medium,low,8,namecheap,,,12/08/2026 09:19
 04d261f0-36c4-471e-9d09-fd1abc5374a1,kitty.hospital,available,57.99,57.99,high,low,5,namesilo,,,25/09/2026 23:15
 feaa4e2b-9375-48f7-b324-769e5cd61c5a,explicable.hospital,available,55.98,71.98,medium,low,10,namecheap,,,17/08/2026 18:23
@@ -887,8 +982,9 @@ e5cc6d6a-065c-424f-930c-38b1143b4dd5,intends.hospital,available,57.99,57.99,medi
 e156d12c-fe57-4663-b318-d1ab165b73c2,winchester.hospital,available,47.3,47.3,high,low,10,dynadot,,,28/09/2026 03:16
 4c852b67-6cfd-4479-8af3-903cccc7dc6e,transport.hospital,available,47.3,47.3,high,low,9,dynadot,,,28/09/2026 08:14
 e3e4bcf2-63e2-4862-af15-deef77aa4d0a,moment.hospital,available,55.98,71.98,high,low,6,namecheap,,,29/09/2026 22:41
-b9c8725a-9504-4b1b-9e2b-946cd1c9f889,honolulu.hospital,available,57.99,57.99,high,low,8,namesilo,,,29/09/2026 00:20
+b9c8725a-9504-4b1b-9e2b-946cd1c9f889,honolulu.hospital,available,57.99,57.99,medium,low,8,namesilo,,,29/09/2026 00:20
 d8a74104-4081-4fbe-97cc-87f7129f990f,bicyclist.hospital,available,55.98,71.98,high,low,9,namecheap,,,23/09/2026 13:22
+2d7e2ad5-d444-46e4-b22e-ac4d10e004e1,insignia.hospital,available,45.74,45.74,high,low,8,spaceship,,,30/09/2026 17:42
 7ce7c9e6-2d8b-4a86-bc4f-10610ad1224f,unweaned.hospital,available,55.98,71.98,medium,low,8,namecheap,,,12/09/2026 22:29
 fe64f8d2-bc49-4140-8819-ab31660578e0,terminating.hospital,available,55.98,71.98,medium,low,11,namecheap,,,08/09/2026 14:51
 8c8875e3-9bbd-4882-87e8-f955669a1571,rear.hospital,available,55.98,71.98,high,low,4,namecheap,,,22/09/2026 19:06
@@ -903,99 +999,3 @@ a0772557-1dd5-40dd-b6c9-99921141a367,newton.hospital,available,57.99,57.99,high,
 43bcafb6-a13e-4351-a267-e2d79e8ff96b,penalty.hospital,available,57.99,57.99,high,low,7,namesilo,,,27/09/2026 04:58
 ef2a590a-af79-468d-b0ac-37b294c35af0,rockers.hospital,available,57.99,57.99,high,low,7,namesilo,,,23/09/2026 15:34
 4a464f57-aa96-4b45-9400-aebba3ad3776,enraged.hospital,available,55.98,71.98,medium,low,7,namecheap,,,
-01a860cc-7b08-4ba5-9222-4824f20750e3,lara.hospital,available,57.99,57.99,high,low,4,namesilo,,,27/09/2026 19:35
-9de339a9-2f33-474b-8959-98dfbd99adc9,pasture.hospital,available,57.99,57.99,high,low,7,namesilo,,,29/09/2026 00:44
-8d2c9a7d-8cda-42ff-8b3e-0900f651b78a,handful.hospital,available,44.2,44.2,high,low,7,cloudflare,,,28/09/2026 05:45
-9cca61ba-8ccc-41c0-a462-c0b12b7bdfac,fang.hospital,available,57.99,57.99,high,low,4,namesilo,,,29/09/2026 06:51
-28335b17-278d-4480-876a-c60f7c92c253,inimical.hospital,available,55.98,71.98,medium,low,8,namecheap,,,22/08/2026 05:20
-31c837f6-3db9-48a3-8f47-5cc7c5d6699f,riders.hospital,available,57.99,57.99,high,low,6,namesilo,,,20/09/2026 01:20
-8d4d0565-cb0a-4c4a-8a41-99612b6bcad0,brandy.hospital,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 08:12
-20350e70-5da5-4bee-9629-77bc3a3b5f9e,recall.hospital,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 11:46
-2cb2b5fe-1b48-4db4-b037-1694901fe393,bangui.hospital,available,55.98,71.98,medium,low,6,namecheap,,,22/09/2026 02:03
-7dd2072d-c490-4d1b-b02d-860f2932a9c4,crownless.hospital,available,55.98,71.98,medium,low,9,namecheap,,,13/08/2026 08:38
-e790427b-c1a9-41a0-8844-fb84b4512cb5,qin.hospital,available,45.74,45.74,medium,low,3,spaceship,,,28/09/2026 13:41
-13fadd9e-2422-4133-bde7-a440f8a644fd,preliminary.hospital,available,45.74,45.74,medium,low,11,spaceship,,,28/09/2026 11:21
-0ae6091c-6151-4327-b8f1-af28e2736453,certify.hospital,available,55.98,71.98,high,low,7,namecheap,,,24/08/2026 15:04
-e9c98bf0-c330-4869-9ec7-ea741e6ffc28,smiles.hospital,available,47.3,47.3,high,low,6,dynadot,,,28/09/2026 22:27
-2565445e-40e2-4fef-b438-7e693c90a2ea,killingly.hospital,available,55.98,71.98,low,low,9,namecheap,,,15/09/2026 10:22
-e7f45ff2-f247-4ce8-835e-ad7b82b866b8,undimmed.hospital,available,55.98,71.98,medium,low,8,namecheap,,,12/09/2026 08:06
-22624614-39ff-486b-b527-42a5731a9d2f,acquittal.hospital,available,57.99,57.99,high,low,9,namesilo,,,17/09/2026 02:42
-0e4b15a5-f93b-4330-9306-0346718e059c,shouter.hospital,available,57.99,57.99,medium,low,7,namesilo,,,22/09/2026 17:05
-38ccd1dc-8d91-4c6c-8a32-263d91004a77,yellow.hospital,available,57.99,57.99,high,medium,6,namesilo,,,23/09/2026 14:15
-c2583b66-01b1-4eec-a80a-c87759a3c3e1,dances.hospital,available,57.99,57.99,high,low,6,namesilo,,,
-7a0adf3d-54f8-425f-b5f5-b8c866928051,cure.hospital,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 03:52
-1e9f719a-a1e2-4e1c-9813-e5740d76ca65,gut.hospital,available,44.2,44.2,high,low,3,cloudflare,,,28/09/2026 01:05
-24127f8b-de02-4e25-a859-a40232b3f628,corps.hospital,available,44.2,44.2,high,low,5,cloudflare,,,28/09/2026 22:09
-5dc3ca4f-6ecb-4f2c-8855-84038dfc8524,conscious.hospital,available,55.98,71.98,high,low,9,namecheap,,,23/09/2026 20:38
-de3d99d8-6668-4bb5-891b-42f3f4c001b5,goddam.hospital,available,55.98,71.98,medium,low,6,namecheap,,,10/08/2026 12:44
-4d16bb8b-b4f2-49cb-b73d-02d1b41ce05d,dialog.hospital,available,55.98,71.98,high,low,6,namecheap,,,24/09/2026 22:13
-dae56842-5f08-4adb-b57d-6da98ce25def,staid.hospital,available,55.98,71.98,medium,low,5,namecheap,,,10/09/2026 01:34
-2bf0c41e-7e3e-4dbf-b8a6-a4562edfbb0d,descent.hospital,available,55.98,71.98,high,low,7,namecheap,,,08/09/2026 13:07
-b412c2e4-af60-4ae7-b6a4-3dfb7cf9d770,regression.hospital,available,55.98,71.98,high,low,10,namecheap,,,20/09/2026 09:08
-3d5f3ab4-8f11-4fe6-b47c-a4bad802fe5d,belisarius.hospital,available,57.99,57.99,medium,low,10,namesilo,,,23/09/2026 05:17
-cae9a1b2-9610-4266-9a85-7c5659492868,sentencing.hospital,available,57.99,57.99,high,low,10,namesilo,,,29/09/2026 23:41
-2d040c14-9279-49ea-b75c-e77efa876d29,reporter.hospital,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 09:33
-e0c22be0-dca9-419a-a4bd-2d6a9f938b0a,yearbook.hospital,available,45.83,45.83,high,low,8,porkbun,,,28/09/2026 11:22
-546f6c8e-b414-48ff-bbe1-ada1f7ec7bd6,stockpile.hospital,available,55.98,71.98,high,low,9,namecheap,,,10/09/2026 20:52
-c9aefc95-6ccd-45f1-8d2d-b37ee3c4b161,spite.hospital,available,55.98,71.98,high,low,5,namecheap,,,23/09/2026 22:22
-19617fea-32d9-4ca8-8818-3be7182f0a3f,jehovah.hospital,available,55.98,71.98,high,low,7,namecheap,,,
-9acd40bc-e814-4bb4-b979-ed6b3647b836,apolitical.hospital,available,55.98,71.98,high,low,10,namecheap,,,06/08/2026 02:02
-f9cdf594-c332-471d-bd9a-fa7578ddd7af,simulated.hospital,available,47.3,47.3,high,low,9,dynadot,,,28/09/2026 03:46
-f304fef4-c79a-48c6-aa39-39a04f538279,vii.hospital,available,55.98,71.98,high,low,3,namecheap,,,
-dd536378-1091-40b8-8a29-25a5d950c7ff,jogging.hospital,available,55.98,71.98,high,low,7,namecheap,,,30/09/2026 02:05
-509ffe60-430a-4cbc-a65a-9df279b06d92,blower.hospital,available,55.98,71.98,medium,low,6,namecheap,,,12/08/2026 01:06
-78ca0dd2-7272-4fc0-b343-8554689457fa,directed.hospital,available,57.99,57.99,high,low,8,namesilo,,,24/09/2026 10:49
-bf03dd75-dbff-4797-96ef-cebbde1c0231,complain.hospital,available,57.99,57.99,high,low,8,namesilo,,,27/09/2026 03:57
-580a0f20-29da-469c-8060-f9b5f20aa668,gun.hospital,available,55.98,71.98,high,low,3,namecheap,,,28/09/2026 17:19
-1e79dc26-3322-4aa7-abca-b8c2674cc006,appreciation.hospital,available,57.99,57.99,high,low,12,namesilo,,,
-04f7d414-bfa2-4ce3-bba9-05fcc00225dd,colin.hospital,available,57.99,57.99,high,low,5,namesilo,,,26/09/2026 03:20
-a3b1852e-d295-4794-ab0f-f87826682066,refuge.hospital,available,55.98,71.98,high,low,6,namecheap,,,20/09/2026 18:32
-5d46e9f4-f59a-42ea-b170-fc80ef6bd27b,tusked.hospital,available,55.98,71.98,medium,low,6,namecheap,,,11/09/2026 21:29
-202078b7-533a-47a6-a16b-59bd906e9e6c,seaborgium.hospital,available,57.99,57.99,medium,low,10,namesilo,,,20/09/2026 22:06
-79c59502-3117-49da-9b3a-e73f9024c606,idempotent.hospital,available,55.98,71.98,medium,low,10,namecheap,,,21/08/2026 18:03
-59ea77c9-01ac-4b15-b161-5ef8e03600a2,cxxxv.hospital,available,55.98,71.98,medium,low,5,namecheap,,,
-c5117e51-8bb9-411c-a14c-9043fb42d42c,adieu.hospital,available,44.2,44.2,high,low,5,cloudflare,,,28/09/2026 18:34
-81e36f59-d949-471b-9150-129b87bb5f38,associate.hospital,available,55.98,71.98,high,low,9,namecheap,,,07/08/2026 06:50
-90a0ce16-6857-4733-9c86-aa9c47ee60a1,suave.hospital,available,55.98,71.98,high,low,5,namecheap,,,13/08/2026 20:48
-185e87a5-398d-4583-8822-46be9f3312a2,doncaster.hospital,available,57.99,57.99,high,low,9,namesilo,,,29/09/2026 23:47
-fc9d2149-49a4-44a5-8ee0-93197627d681,upland.hospital,available,55.98,71.98,medium,low,6,namecheap,,,21/08/2026 09:14
-f41c0418-79ab-48fc-bf9c-907868bf1063,sounded.hospital,available,57.99,57.99,medium,low,7,namesilo,,,
-0e62421c-2dc3-439f-9258-784e3007b14b,sulphur.hospital,available,55.98,71.98,medium,low,7,namecheap,,,20/09/2026 22:29
-2993fee6-2c5c-4075-89e0-3dd164e0df35,federated.hospital,available,55.98,71.98,high,low,9,namecheap,,,18/08/2026 00:38
-7fbc460f-affe-4af2-9cf7-faf160c317a0,winding.hospital,available,55.98,71.98,medium,low,7,namecheap,,,24/08/2026 18:19
-b04a3b23-bb36-4935-a0f1-21cc695db961,radcliffe.hospital,available,57.99,57.99,medium,low,9,namesilo,,,27/09/2026 07:53
-c8b08dcb-3c85-41ba-a2e2-bc1feec6e266,endearing.hospital,available,55.98,71.98,high,low,9,namecheap,,,21/09/2026 19:24
-dbcd29ec-dfd2-4b45-92df-093aa15567d9,donatus.hospital,available,55.98,71.98,medium,low,7,namecheap,,,17/09/2026 12:26
-e1e5e7f0-3e6b-43d5-bfb8-a4a8cd0570f3,adolf.hospital,available,44.2,44.2,medium,low,5,cloudflare,,,29/09/2026 23:45
-f7067392-0e29-46bb-ba0a-2a5b502636aa,dinah.hospital,available,55.98,71.98,medium,low,5,namecheap,,,29/09/2026 03:55
-5372d24c-5913-46bd-8a43-841f45fb025e,accountability.hospital,available,57.99,57.99,high,low,14,namesilo,,,
-e3609da9-87df-4409-90cd-d047ad39f426,anti.hospital,available,55.98,71.98,high,low,4,namecheap,,,
-cd4baf55-23e8-4910-9485-08d8b6d3dc91,unbowed.hospital,available,55.98,71.98,medium,low,7,namecheap,,,12/09/2026 02:27
-0f463c95-eeb2-4e35-b2ee-121c3de1167e,flaming.hospital,available,55.98,71.98,high,low,7,namecheap,,,18/08/2026 06:30
-efde110b-10c4-4477-9d30-beb381f618fc,organizing.hospital,available,55.98,71.98,high,low,10,namecheap,,,18/09/2026 13:01
-768ae287-bf87-4582-9c7e-2ccac36934e0,radioactive.hospital,available,45.74,45.74,medium,low,11,spaceship,,,28/09/2026 11:17
-d0c7dc30-39dc-4da0-8838-897354f17fbe,beauty.hospital,available,45.74,45.74,high,low,6,spaceship,,,29/09/2026 14:17
-41ca6c19-4fab-45b9-9538-5137b28d1d2d,mined.hospital,available,55.98,71.98,high,low,5,namecheap,,,24/08/2026 23:40
-e0a45048-1da2-470b-ab77-765db5733108,tart.hospital,available,77.99,83.99,medium,low,4,name.com,,,13/08/2026 14:25
-7b820f95-8bb2-49f1-9c85-2a3e8d4c4ba1,stellar.hospital,available,57.99,57.99,high,medium,7,namesilo,,,22/09/2026 10:32
-701b6217-1237-413e-bd70-f16c67e17b7f,greg.hospital,available,57.99,57.99,high,low,4,namesilo,,,
-832c72da-0b96-4e2a-9d38-225e547f3900,finest.hospital,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 18:42
-c943a64f-6669-4437-bc56-d733a5012d19,terrain.hospital,available,45.83,45.83,high,low,7,porkbun,,,28/09/2026 20:36
-51ba96b4-1630-4ae6-b366-add85557b223,bold.hospital,available,57.99,57.99,high,medium,4,namesilo,,,22/09/2026 23:09
-17d424d1-f511-4bca-afe6-d75cbcf32792,undo.hospital,available,45.74,45.74,high,low,4,spaceship,,,29/09/2026 02:46
-de4f7686-843e-4b63-82f8-863c770c2a22,banquet.hospital,available,57.99,57.99,high,low,7,namesilo,,,22/09/2026 02:59
-3714a1d1-8fce-4a58-b546-47dcfaaee097,aeolia.hospital,available,57.99,57.99,low,low,6,namesilo,,,17/09/2026 12:34
-48ffd925-812b-4998-9012-621a1046a574,procession.hospital,available,57.99,57.99,high,low,10,namesilo,,,29/09/2026 06:59
-81bbaf5c-390d-44e9-82fc-ef043f3145ce,arriving.hospital,available,71.98,,medium,low,8,namecheap,,,
-5ffaa329-7fcb-4b54-af6c-79ab076333af,fluvial.hospital,available,55.98,71.98,medium,low,7,namecheap,,,18/08/2026 09:35
-ba841370-8f26-4ffb-8228-415172a1eb40,tellurium.hospital,available,57.99,57.99,medium,low,9,namesilo,,,20/09/2026 23:13
-9437095d-a5b7-4fa8-83a2-b2a6f7268eed,curl.hospital,available,47.3,47.3,high,low,4,dynadot,,,29/09/2026 13:04
-39e718cb-7756-4e09-9d06-af5d27354570,nurse.hospital,available,45.74,45.74,high,low,5,spaceship,,,29/09/2026 22:12
-193a7030-c231-438f-bd5c-811d09f2f303,prompts.hospital,available,57.99,57.99,high,medium,7,namesilo,,,20/09/2026 08:06
-8f535972-c7c8-4d09-9563-215a59b11283,marches.hospital,available,57.99,57.99,medium,low,7,namesilo,,,29/09/2026 19:38
-59f9f41a-3507-467b-ad3e-0e218bc399ee,script.hospital,available,55.98,71.98,high,low,6,namecheap,,,08/09/2026 13:57
-378085fa-446c-4218-8873-22d444970cb9,annapurna.hospital,available,57.99,57.99,high,low,9,namesilo,,,19/09/2026 02:23
-9e98b046-394f-43fa-baf8-f519ef750440,grave.hospital,available,55.98,71.98,high,low,5,namecheap,,,20/08/2026 18:38
-da76f13e-5c2f-43f3-a8bf-e745a773d05b,iwo.hospital,available,47.3,47.3,high,low,3,dynadot,,,29/09/2026 19:21
-1e4b2b8c-1c74-4ac9-a760-49df080779db,vanadium.hospital,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 22:37
-696136d0-75f1-4646-82c8-fe491e82763c,gets.hospital,available,57.99,57.99,medium,low,4,namesilo,,,18/09/2026 02:13
